@@ -1,0 +1,135 @@
+% Template Auth: Nicklas Vraa
+% Docs: https://github.com/NicklasVraa/LiX
+% Everything you need to know about this template is on the github repository above.
+% Stars are appreciated.
+
+\documentclass{novella}
+\usepackage{imakeidx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[style=numeric, backend=biber]{biblatex}
+% style=authoryear + \parencite{}
+\usepackage{url}
+\usepackage{booktabs} % For better looking tables
+\usepackage{tabularx} % For automatically adjusting column widths
+%\usepackage{geometry} % Optional, to adjust page margins
+%\geometry{margin=1in} % Optional, adjust margins if necessary
+
+\usepackage{draftwatermark}
+
+% Customize the watermark
+\SetWatermarkText{DRAFT - Sebastián Bobadilla Suárez - v0.3.0}  % Replace with your name and version
+\SetWatermarkScale{0.25}                      % Adjust size
+\SetWatermarkColor[gray]{0.8}                % Light gray color
+\SetWatermarkAngle{45}                       % Diagonal placement
+
+
+% clear bib fields that are unreliable
+\AtEveryBibitem{%
+  \clearfield{note}%
+  \clearfield{url}%
+  \clearfield{doi}%
+  \clearfield{isbn}%
+}
+
+% \addbibresource{references/0000_references.bib}
+\addbibresource{references/0001_1_foundations.bib}
+\addbibresource{references/0001_2_theoretical.bib}
+\addbibresource{references/0001_3_bio_implementation.bib}
+\addbibresource{references/0001_4_bio_psycho_impl.bib}
+\addbibresource{references/0001_5_artificial_systems.bib}
+\addbibresource{references/0001_6_other_theories.bib}
+\addbibresource{references/0001_7_future_dirs.bib}
+\addbibresource{references/0001_8_new_anthro.bib}
+\addbibresource{references/0001_9_critique.bib}
+\addbibresource{references/0001_10_appendices.bib}
+
+\graphicspath{{images/}}
+
+\makeindex
+
+\lang      {english}
+\title     {Energetically Coherent Computation}
+\subtitle  {A computationally adjacent theory of phenomenal consciousness}
+\authors   {Sebastián Bobadilla Suárez}
+\keywords  {qualia, computation, cells, proteins, electrostatics, energy}
+
+\begin{document}
+
+\renewcommand{\bibname}{} % For the article class, redefine the name
+\renewcommand{\refname}{} % If "References" is still appearing
+
+\newpage
+
+\section*{\phantom{Part 0 Copyright}}
+\input{00_copyright}
+
+\newpage
+
+\section*{\phantom{Part 0.5 Dedication}}
+\input{00_dedication}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+% List of Equations
+%\h*{List of Equations}
+%\addcontentsline{toc}{section}{\listequationname}
+%\listoflistequations
+
+\mainmatter
+
+\section*{\phantom{Part I Disclaimer}}
+\input{01_disclaimer}
+
+\section*{\phantom{Part II Abstract}}
+\input{02_abstract}
+
+\section*{\phantom{Part III Foundations and Core Concepts}}
+\input{03_foundations}
+
+\section*{\phantom{Part IV Theoretical Framework}}
+\input{04_framework}
+
+\section*{\phantom{Part V Biological Implementation}}
+\input{05_bio_implementation}
+
+\section*{\phantom{Part VI Biological and Psychological Implications}}
+\input{06_bio_psycho_implications}
+
+\section*{\phantom{Part VII Anthropological Implications}}
+\input{10_anthropology}
+
+\section*{\phantom{Part VIII Artificial Systems}}
+\input{07_artificial_systems}
+
+\section*{\phantom{Part IX Comparative Analysis}}
+\input{08_other_theories}
+
+\section*{\phantom{Part X Future Directions}}
+\input{09_future_directions}
+
+\section*{\phantom{Part XI Critique of ECC and Conclusion}}
+\input{11_critique}
+
+\section*{\phantom{Part XII Epilogue}}
+\input{12_epilogue}
+
+\section*{\phantom{Part XIII Acknowledgements}}
+\input{13_acknowledgements}
+
+\section*{\phantom{Part XIV Appendices}}
+\input{14_appendices}
+
+\section*{\phantom{Part XV Glossary}}
+\input{15_glossary}
+
+\section*{\phantom{Part XVI Index}}
+\input{16_index}
+
+\section*{\phantom{Part XVII About the Author}}
+\input{17_about}
+
+\end{document}
