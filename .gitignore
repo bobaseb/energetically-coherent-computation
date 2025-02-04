@@ -35,4 +35,4 @@
 *.synctex
 *.synctex(busy)
 
-.pdf
+*.pdf
