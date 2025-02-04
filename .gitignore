@@ -34,3 +34,5 @@
 *.sav
 *.synctex
 *.synctex(busy)
+
+.pdf
