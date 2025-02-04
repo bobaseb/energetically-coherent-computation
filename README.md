@@ -31,7 +31,7 @@ Visit the author's website: [https://bobaseb.github.io/](https://bobaseb.github.
 
 [Manuscript Github](https://github.com/bobaseb/energetically-coherent-computation)
 
-[OSF Link for Manuscript](TODO)
+[OSF Link for Manuscript](https://osf.io/42gxn/)
     
 London, United Kingdom
 February 2025
