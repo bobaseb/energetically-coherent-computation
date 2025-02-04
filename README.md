@@ -29,7 +29,7 @@ Scholars are encouraged to contact the author with substantive feedback, correct
 
 Visit the author's website: [https://bobaseb.github.io/](https://bobaseb.github.io/)
 
-[Manuscript Github](https://github.com/bobaseb/energetically-coherent-computation)
+[Manuscript on Github](https://github.com/bobaseb/energetically-coherent-computation/tree/0.x)
 
 [OSF Link for Manuscript](TODO)
     
