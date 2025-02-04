@@ -1,0 +1,36 @@
+# LaTeX compilation files
+*.aux
+*.log
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.lof
+*.lot
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.nav
+*.snm
+*.vrb
+
+# BibTeX and Biber files
+*.bbl
+*.bcf
+*.run.xml
+*-SAVE-ERROR
+
+# Index files
+*.idx
+*.ilg
+*.ind
+
+# Temporary files
+*.bak
+*.backup
+*.tmp
+*.sav
+*.synctex
+*.synctex(busy)

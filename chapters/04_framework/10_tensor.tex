@@ -1,0 +1,106 @@
+\section{Stress-energy Tensor}
+
+The stress-energy tensor $T\mu\nu$ describes the flow and distribution of energy-momentum within conscious systems. For our purposes, we decompose it into subsystem-specific components:
+
+$T_{\mu\nu} = T_{\mu\nu}^{(EM)} + T_{\mu\nu}^{(chem)} + T_{\mu\nu}^{(mech)} + T_{\mu\nu}^{(int)}$
+
+where the superscripts denote electromagnetic, chemical, mechanical, and interaction terms respectively. The Jacobian of this tensor, $\partial_\sigma T_{\mu\nu}$, captures how energy flows change across space and time:
+
+$\partial_\sigma T_{\mu\nu} = \frac{\partial T_{\mu\nu}}{\partial x^\sigma}$
+
+This framework allows us to track energy flow patterns essential for conscious processing while maintaining compatibility with the sheaf-theoretic structure previously described.
+
+\subsection{Jacobian of the Stress-Energy Tensor}
+
+The Jacobian of the stress-energy tensor provides a mathematical framework for tracking how conscious processing emerges from coordinated energy flows. For each point $x$ in the brain's neural architecture, we can express the full dynamics through:
+
+$\partial_\sigma T_{\mu\nu}(x) = \begin{pmatrix} 
+\frac{\partial T_{00}}{\partial t} & \frac{\partial T_{0i}}{\partial t} & \frac{\partial T_{0j}}{\partial t} \\[1em]
+\frac{\partial T_{i0}}{\partial x^k} & \frac{\partial T_{ij}}{\partial x^k} & \frac{\partial T_{ij}}{\partial x^l}
+\end{pmatrix}$
+
+where each component describes specific aspects of conscious computation:
+
+1. Energy Flow Components:
+
+- $\frac{\partial T_{00}}{\partial t}$ tracks changes in local energy density
+
+- $\frac{\partial T_{0i}}{\partial x^k}$ describes spatial energy flux gradients
+
+- $\frac{\partial T_{0i}}{\partial x^k}$ captures stress propagation
+
+2. Subsystem-Specific Terms:
+For each subsystem $\alpha$ (electromagnetic, chemical, mechanical), we have:
+
+$\partial_\sigma T_{\mu\nu}(\alpha) + \sum_\beta C_{\mu\nu}(\alpha,\beta) = J_{\mu\nu}(\alpha)$
+
+\text{where:}
+\begin{itemize}
+\item $C_{\mu\nu}(\alpha,\beta)$ represents coupling terms between subsystems
+\item $J_{\mu\nu}(\alpha)$ represents the source terms
+\end{itemize}
+
+3. Interface Terms:
+The framework introduces boundary terms $B_{\mu\nu}$ that capture energy exchange at interfaces between regions:
+
+$B_{\mu\nu}(x) = [T_{\mu\nu}(\alpha)]_{\partial\Omega}$
+
+These interface terms are crucial for maintaining coherent conscious processing across regional boundaries.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{jacobian.png}
+
+    \caption{The Jacobian of the stress-energy tensor specifies the necessary information to describe energy flows in the brain.}
+\end{figure}
+
+\subsection{Coupling-interface Terms}
+
+The coupling and interface terms in the stress-energy framework capture how different subsystems interact to maintain conscious coherence. These terms are essential for understanding how local energy dynamics combine into global conscious states.
+
+For any two subsystems $\alpha$ and $\beta$, the coupling terms $C_{\mu\nu}(\alpha,\beta)$ can be expanded as:
+
+$C_{\mu\nu}(\alpha,\beta) = \gamma(\alpha,\beta)[\partial_\nu\phi(\alpha)\partial_\mu\phi(\beta) - \eta_{\mu\nu}(\partial_\lambda\phi(\alpha)\partial^\lambda\phi(\beta))]$
+
+\text{where:}
+\begin{itemize}
+\item $\gamma(\alpha,\beta)$ represents coupling strength
+\item $\phi(\alpha)$, $\phi(\beta)$ are field variables for each subsystem
+\item $\eta_{\mu\nu}$ is the metric tensor
+\item $\partial_\lambda$ denotes covariant derivatives
+\end{itemize}
+
+The interface terms at boundaries $\partial \Omega$ take the form:
+
+$B_{\mu\nu}(x) = \sigma(x)[n \cdot \nabla T_{\mu\nu}] + \kappa(x)T_{\mu\nu}|_{\partial\Omega}$
+
+\text{where:}
+\begin{itemize}
+\item $\sigma(x)$ represents interface conductivity
+\item $n$ is the unit normal to the boundary
+\item $\kappa(x)$ captures boundary resistance
+\end{itemize}
+
+These terms must satisfy conservation conditions:
+
+$\int_{\partial\Omega} B_{\mu\nu}(x)\,dS + \int_\Omega C_{\mu\nu}(\alpha,\beta)\,dV = 0$
+
+This ensures energy and information flow continuously across subsystem boundaries while maintaining coherent conscious states.
+
+The total dynamics at interfaces must also satisfy coherent boundary conditions:
+
+$\sum_{\alpha,\beta} [C_{\mu\nu}(\alpha,\beta) + \partial_\lambda B_{\mu\nu}(\alpha,\beta)] \leq \eta(x,t)$
+
+where $\eta (x,t)$ represents the maximum allowable local deviation from perfect coherence, constrained by thermodynamic considerations. These conditions ensure that energy transfers between subsystems remain within bounds that support conscious processing.
+
+The complete interface dynamics can be expressed through a hierarchy of coupling terms:
+
+$C_{\mu\nu} = C^{(1)}_{\mu\nu} + C^{(2)}_{\mu\nu} + C^{(3)}_{\mu\nu} + \cdots$
+
+where each order captures increasingly complex interactions between subsystems, with higher-order terms typically decreasing in magnitude:
+
+$|C^{(n)}_{\mu\nu}| \sim O(\gamma^n)$
+
+where $\gamma < 1$ is a coupling parameter.
+
+The mathematical foundations of stress-energy tensors and their applications to complex dynamical systems can be further explored through several seminal works. A comprehensive introduction to the geometric foundations is presented in \cite{Frankel2011}, which provides essential background on tensor analysis and differential geometry. The classic treatment in \cite{Misner1973} offers deep insights into how stress-energy tensors describe the flow and distribution of energy-momentum in physical systems, while \cite{Landau1987} provides crucial perspectives on how these concepts apply to continuous media and field theories. For those interested in the quantum aspects of energy flow and coherence, \cite{Peskin1995} develops the mathematical framework necessary for understanding field-theoretic approaches to information integration. The relationship between stress-energy tensors and general covariance principles is thoroughly examined in \cite{Wald1984}, providing important context for understanding how local energy conservation emerges from global symmetries. These texts collectively establish the mathematical rigor needed to apply stress-energy tensor analysis to complex biological systems like the brain, where multiple forms of energy flow must maintain coherent relationships across various scales.
