@@ -38,6 +38,12 @@ Visit the author's website: [https://bobaseb.github.io/](https://bobaseb.github.
 London, United Kingdom
 February 2025
 
+## Disclaimer
+
+This book was developed with significant reliance on advanced Large Language Models (LLMs), including Flux AI™, ChatGPT® and DALL·E® by OpenAI and Claude™ by Anthropic. These tools were instrumental in refining ideas, drafting and editing content, and even exploring and formulating mathematical models. While the core concepts and overarching framework remain my own, the collaborative nature of this work with LLMs has greatly shaped its structure and expression. Readers should understand this book as both an individual effort and a product of ongoing engagement with these transformative technologies.
+
+This work has been done with heavy use of modern large language models (LLMs) like Claude's Sonnet and ChatGPT's 4o. As of the 0.3.0 release, the references used in this document are still being revised for veracity (do they exist?) and fidelity (do they connect to the main text?). The text itself is also under revision - it presents a lot redundancy throughout and some contradictions between sections. Furthermore, not all sentences fully represent the views of the main author or may yet be misconstrued. A lot of (full time) work is still required to get this manuscript up to high academic standards. Thus, we advise the reader to engage with the text as a work in progress (a roadmap of sorts, more than a finished product) until a first edition is released. Pull requests and critiques are welcome.
+
 ## Abstract
 
 This book introduces Energetically Coherent Computation (ECC), a novel theoretical framework that reconceptualizes consciousness as emerging from coherent energy flows within biological systems rather than from abstract computation or symbolic manipulation. ECC represents a significant departure from traditional cognitive models by positioning consciousness as an emergent property of dynamically organized energy dynamics that span multiple scales—from molecular interactions and protein states to regional brain waves and global neural coherence. This physically grounded approach addresses fundamental challenges in cognitive science, including the symbol grounding problem, the unity of consciousness, and the relationship between physical and experiential properties.
