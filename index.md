@@ -1,4 +1,6 @@
 Altered states of consciousness
+- and neural light cones
+- synaesthesia as example of
 
 Analog-like dynamics
 - contrast with discrete processing
@@ -9,6 +11,16 @@ Abstract thinking
 - as special case of conscious processing
 - energetic basis of
 - ungrounded placeholders in
+
+Adaptive conscious states
+- dynamic stability of
+- energetic coherence enabling
+- relationship to thermal fluctuations
+
+Adaptive stability
+- in rich alphabets
+- capacity to sustain specific conscious states
+- allowing smooth transitions between states
 
 Animism
 - and consciousness
@@ -37,13 +49,19 @@ Astrocytic networks
 - metabolic role of
 - role in consciousness
 - role in dimensionality reduction
+- role in synchronized activity patterns
+- supporting diachronic unity
 - syncytial properties of
 
 Astrocytic syncytia
 - and conscious integration
 - role in energetic coherence
+- substrate for coherent energy distribution
 
 Attention
+- effect on neural light cone boundaries
+- modulating coding strategies
+- role in conscious awareness shifts
 
 Background energy fluctuations
 - contribution to conscious experience
@@ -56,8 +74,12 @@ Bayesian processing
 Binding problem
 - coherence solution to
 - energetic perspective on
+- hierarchical nature of
+- limitations of conscious binding
 - neural mechanisms of
 - physical constraints on
+- reframed through energetic coherence
+- temporal aspects of
 - versus computational solutions
 
 Bioelectric fields
@@ -77,6 +99,12 @@ Biological systems
 - coherence in
 - consciousness in
 - energetic organization of
+- leveraging richer representational schemes
+
+Biophysical mechanisms
+- implementing mathematical structures
+- physical realization of abstract formalism
+- translation from mathematical framework to biological reality
 
 Biopsychism
 - and cellular consciousness
@@ -93,11 +121,15 @@ Bottleneck of consciousness
 - contrast with information processing bottlenecks
 - energetic basis of
 - role in conscious experience
+- thermodynamic basis of
 
 Boundary conditions
 - and consciousness
 - and energetic coherence
+- neural light cones as
 - thermal noise as
+- coherent conditions at interfaces
+- in stress-energy tensor formalism
 
 Brain organoids
 - research on
@@ -115,15 +147,26 @@ Calcium waves
 
 Category error
 - in computational theories of mind
+- confusing abstract map with physical territory
 
 Causal boundaries
 - of conscious integration
 - neural light cones as
 
+Causal connectivity
+- and neural light cones
+- in conscious states
+- relationship to energetic stability
+
 Causal constraints
 - in conscious systems
 - physical limitations of
 - relationship to neural light cones
+
+Causal relationships
+- in neural light cones
+- physical constraints on
+- relativistic physics analogy
 
 Cellular awareness
 
@@ -133,25 +176,87 @@ Cellular foundations
 - of consciousness
 
 Cellular networks
+- achieving coherent energy states
+- continuous feedback in
+- energy regulation in
 
 Cellular organization
 
 Cellular processes
 - and consciousness
 
+Chemical noise
+- in neural tissue
+- role in molecular interactions
+- relationship to transcriptomic profiles
+
+Chemical processes
+- continuous feedback with electrical and metabolic processes
+- role in coherent energy states
+
+Church-Turing thesis
+- and consciousness
+- limitations for conscious experience
+- physical embodiment challenging
+- relationship to natural computation
+
+Classical computation
+- contrast with conscious processing
+- discrete state transitions in
+- limitations for consciousness
+- substrate independence of
+- versus natural computation
+
 Coherence
 - across multiple scales
 - and consciousness
 - energetic basis of
+- gradients across cortical sheet
 - local-to-global
 - temporal aspects of
+
+Coherence conditions
+- local and global requirements
+- mathematical constraints for conscious states
+- simultaneous satisfaction across multiple domains
+
+Coherence gradients
+- enabling smooth transitions
+- in conscious processing
+- structured transitions in energy states
+
+Coherence inheritance
+- building upon previous states
+- in diachronic unity
+- integrating new information
+
+Coherence integration equation
+- composition of stress-energy dynamics, recursive updates, and triangulation
+- emergence of global section from local coherence mechanisms
+- mathematical formulation for global coherence
+
+Coherence patterns
+- contribution to global conscious states
+- in local neural populations
+- relationship to multistability
 
 Coherence-class identity theory
 - and phenomenal properties
 - contrast with traditional identity theories
 - relationship to ECC
 
+Coherent diversity
+- in conscious experience
+- local patterns within global unity
+
 Compatibilism
+
+Computation
+- as physically embodied processes
+- contrast with abstract symbol manipulation
+- emerging from coherent physical processes
+- inseparable from physical dynamics
+- reconceptualization in ECC framework
 
 Computational chauvinism
 
@@ -167,6 +272,12 @@ Computational theories of mind
 - symbol grounding problem in
 - temporal discontinuity problem in
 
+Computational efficiency
+- in biological systems
+- balancing information capacity and coherence
+- versus symbolic efficiency
+- versus radix economy
+
 Computationalism
 - and binding problem
 - and embodied consciousness
@@ -179,11 +290,17 @@ Computationalism
 - substrate independence assumption
 - temporal limitations of
 
+Computationally adjacent
+- consciousness as
+- correlation without causation
+- relationship to computation
+
 Consciousness
 - altered states of
 - and sleep
 - as emergent property
 - as field-like phenomenon
+- as selective, bounded phenomenon
 - cellular foundations of
 - coherent states of
 - continuous nature of
@@ -194,6 +311,7 @@ Consciousness
 - evolution of
 - explanatory gap in
 - first-person experience of
+- fundamental limitations of
 - irreducibility of
 - limits of
 - neural correlates of
@@ -209,9 +327,17 @@ Consciousness
 - temporal dynamics of
 - third-person approaches to
 - unity of
+- uploading limitations
+
+Context-sensitive modulation
+- ability to adjust repertoire of available states
+- in rich alphabets
+- based on current conditions and requirements
 
 Conscious and unconscious processing
+- dynamic interface between
 - energetic differences between
+- fluid boundary of
 - in dimensionality reduction framework
 - limitations of computational accounts
 
@@ -219,14 +345,28 @@ Conscious experience
 - causal boundaries of
 - grounding in physical reality
 - multi-layered energy flows in
+- selective participation of brain regions in
+- unity and diversity of
+
+Conscious field
+- dynamic boundaries of
+- regions entering and exiting
+- thermal noise thresholds in
 
 Conscious integration
+- across different scales
 - causal boundaries of
+- fundamental limits of
+- mechanisms of
 - neural light cones defining
+- propagation constraints on
+- speed limitations of
+- theoretical frameworks for
 
 Conscious processing
 - abstract thinking as special case
 - energetic basis of
+- temporal windows for
 
 Conscious states
 - dynamically stable
@@ -241,14 +381,62 @@ Continuous dynamics
 - relationship to energetic coherence
 - versus discrete processing
 
+Continuous energy flows
+- organization through transcriptomic profiles
+- physically embodied
+- relationship to conscious experience
+
+Continuous feedback
+- across brain regions
+- maintaining coherent states
+- role in triangulation and mutual recursion
+
+Continuous mutual adjustment
+- in conscious states
+- through triangulation
+- maintaining consistency
+
+Coordination dynamics
+- continuous processes of self-organization
+- enabling flexible response while maintaining stability
+- in coherent neural systems
+- relationship to consciousness
+- role in local-to-global coherence
+- and conscious integration
+- in local-to-global coherence
+- role in self-organization
+
 Cortical neuropil
 - and consciousness
 - role in energetic coherence
 
 Cortical sheet
+- coherence gradients across
+- overlapping light cones across
+
+Coupling and interface terms
+- capturing interactions between subsystems
+- in stress-energy tensor formalism
+- maintaining conscious coherence
+- role in energy flow across boundaries
+- mathematical expansion of
+- satisfying conservation conditions
+
+Criticality
+- in neural systems
+- relationship to consciousness
+- role in local-to-global transitions
 
 Cultural contexts
 - of consciousness
+
+Cytoelectric integration
+- in neural systems
+- role in conscious coherence
+
+Death
+- versus sleep states
+- irreversible loss of coherent energy maintenance
 
 Decision-making
 - role of dimensionality reduction in
@@ -261,6 +449,19 @@ Dependencies
 - hierarchical structure of
 - in ECC framework
 
+Diachronic unity
+- coherence inheritance in
+- continuous thread of consciousness
+- emerging from stable energy configurations
+- of consciousness
+- relationship to neural light cones
+- stable propagation of coherent states
+- temporal continuity in
+
+Digital computational systems
+- noise suppression in
+- versus conscious systems
+
 Dimensionality reduction
 - and conscious access
 - and thermodynamic efficiency
@@ -270,30 +471,70 @@ Dimensionality reduction
 - relationship to energetic coherence
 - role in unified consciousness
 
+Discrete symbolic operations
+- contrast with continuous processing
+- limitations for consciousness
+- versus natural computation
+
 Discrete state transitions
 - contrast with conscious processes
 - limitations for consciousness
 
 Dissipative structures
+- conscious systems versus
+- energy flow patterns in
+- thermodynamic efficiency in
 
 Disorders of consciousness
 - and dimensionality reduction disruptions
+- binding failures in
 - therapeutic approaches to
 
 Dualism
 - contrast with ECC
 
+Dynamic feedback loops
+- maintaining stability
+- role in adaptive conscious states
+
 Dynamic stability
 - across scales
 - in conscious states
+- leveraging thermal fluctuations for
 - role in consciousness
+
+Dynamical systems theory
 
 Dynamically organized energy dynamics
 - multi-scale nature of
 - relationship to consciousness
 
+Electrical noise
+- in membrane potentials
+- in ion channel dynamics
+- role in stochastic resonance
+
+Electrical processes
+- continuous feedback with chemical and metabolic processes
+- role in coherent energy states
+
+Electromagnetic field integration
+- contribution to global conscious integration
+- relationship to local field potentials
+- role in consciousness
+
+Electromagnetic fields
+- as substrate for information integration
+- role in coherent processing
+- role in consciousness
+
 Eliminative materialism
 - contrast with ECC
+
+Embedding spaces
+- physically grounded in neural systems
+- constrained by molecular and energetic properties
+- versus artificial embedding spaces
 
 Embodied consciousness
 - computational limitations in explaining
@@ -322,6 +563,7 @@ Energetic coherence
 - as complement to computation
 - biological structures maintaining
 - forms required for consciousness
+- maintenance across neural networks
 - measurement methods for
 - multi-scale nature of
 - patterns of
@@ -331,14 +573,27 @@ Energetic configurations
 - region-specific alphabets of
 - shaped by transcriptomic profiles
 
+Energetic efficiency
+- in conscious systems
+- minimizing energy dissipation
+- relationship to information processing
+- relationship to rich alphabets
+- role of thermodynamic constraints in
+- versus radix economy in digital systems
+
 Energetic functionalism
 - contrast with computational functionalism
 - implementation in
 - multiple realizability in
 
+Energetic stability
+- and causal connectivity
+- in neural light cones
+
 Energetically Coherent Computation (ECC)
 - basic principles of
 - bridging physical and experiential approaches
+- core mechanisms of
 - core philosophical commitments of
 - critique of
 - critique of computationalism
@@ -358,20 +613,61 @@ Energetically Coherent Computation (ECC)
 - testable predictions of
 - theoretical tools of
 
+Energetically coherent fields
+- as stable energy configurations
+- relationship to conscious experience
+- supporting adaptability
+
+Energy
+- as useful work in conscious systems
+- conservation principles in neural systems
+- fundamental nature in conscious systems
+- manifestation in neural tissues
+- relationship to symmetry principles
+- temporal invariance of
+- types in neural systems
+
+Energy conservation
+- and Killing vector fields
+- mathematical formulation in conscious systems
+- relationship to coherence conditions
+
 Energy dynamics
 - coherent organization of
 - in biological systems
 - multi-scale integration of
 - relationship to conscious experience
 
+Energy dissipation
+- consciousness requiring more than
+- in neural systems
+
 Energy flows
 - and consciousness
+- analyzing with stress-energy tensor
 - coherent organization of
 - enacting change through
 - in dimensionality reduction
 - multi-layered nature of
+- regulation through gap junctions and synaptic connections
+- within neural tissues
+
+Energy organization
+- patterns in biological neural systems
+- relationship to consciousness emergence
+- shared mechanisms in synchronic and diachronic unity
+
+Energy propagation
+- constraints on
+- relationship to coherence maintenance
 
 Energy tensor formalism
+
+Energy types
+- chemical energy in neural systems
+- electrical energy in neural systems
+- mechanical energy in neural systems
+- transformations between different forms
 
 Entropy management
 - in conscious systems
@@ -388,6 +684,11 @@ Explanatory gap
 Experimental methods
 - for measuring energetic coherence
 
+Faithful representation
+- capacity of conscious states
+- enabling adaptive responses
+- maintaining coherence while reflecting conditions
+
 Feedback systems
 - and consciousness
 - between higher and lower dimensional states
@@ -395,12 +696,24 @@ Feedback systems
 Field effects
 - in neural systems
 
+Field dynamics
+- interconnected nature of
+- qualitative understanding of
+- mathematical formalization of
+- relationship to conscious states
+- combining local coherence into global states
+- maintaining specialized functions while contributing to unified experience
+
 Field-like properties
 - of consciousness
 
 First-person experience
 - irreducibility of
 - relationship to third-person description
+
+Framerate illusion
+- in global unity of consciousness
+- partial illusoriness of global unity
 
 Free will
 - compatibilist view of
@@ -414,13 +727,49 @@ Functionalism
 
 Gap junctions
 - in astrocytic networks
+- role in energy flow regulation
+- role in rapid signal propagation
+
+Gene expression patterns
+- role in rich alphabets
+- defining conscious processing capabilities
+- relationship to transcriptomic profiles
 
 Glial networks
 - and consciousness
 
-Global neural coherence
+Global brain states
+- coherence across scales to
+- from molecular interactions to
+
+Global coherence
 - and consciousness
 - relationship to local dynamics
+
+Global coherence condition
+- in triangulation
+- constraints on recursive operators
+- maximum allowable deviation
+
+Global light cone
+- as broader field of conscious integration
+- from overlapping light cones
+- physical constraints on
+
+Global section
+- emerging from local coherence mechanisms
+- in sheaf theory formalism
+- mathematical representation of conscious states
+- relationship to manifold of possible conscious states
+
+Global stability conditions
+- in triangulation
+- for conscious coherence
+- relationship to local stability
+
+Global unity
+- partial illusoriness of
+- versus local coherence
 
 Global Workspace Theory
 - contrast with field-like consciousness
@@ -449,11 +798,37 @@ Implementation
 - in energetic functionalism
 - physical requirements for consciousness
 
+Information density
+- relative to energetic costs
+- in biological neural systems
+- optimization in conscious processing
+
 Information integration
+- electromagnetic fields as substrate for
 - physical constraints on
 - speed limitations of
+- thermodynamic constraints on
+
+Information processing
+- achieved while respecting physical constraints
+- and energetic coherence
+- consciousness requiring more than
+- in biological systems
+- physical constraints on
+- relationship to energetic coherence
+- traditional computational approaches to
 
 Integrated Information Theory
+
+Integration and coordination mechanisms
+- in neural systems
+- multiple forms of
+- role in creating globally coherent states
+
+Interface dynamics
+- between brain subsystems
+- maintaining coherence across boundaries
+- role in consciousness
 
 Interdependencies
 - between philosophical commitments
@@ -465,15 +840,27 @@ Interdisciplinary synthesis
 
 Ion gradients
 - and consciousness
+- role in conscious coherence
+- synchronized integration with other energy forms
 
 Jacobian of stress-energy tensor
 - analyzing energy flows
 - role in ECC mathematics
 
+Killing vector fields
+- associated with energy conservation
+- role in thermodynamic efficiency
+- in mathematical formalism of consciousness
+
 Kinship
 
 Large Language Models (LLMs)
 - role in developing ECC theory
+
+Large-scale integration
+- maintaining local specificity during
+- through synchronized alignment of energy flows
+- role in conscious processing
 
 Learning
 - computational limitations in explaining
@@ -484,6 +871,34 @@ Liminality
 Local energy dynamics
 - integration into global conscious states
 - relationship to global coherence
+
+Local field potentials
+- contribution to global conscious integration
+- relationship to electromagnetic fields
+
+Local neural dynamics
+- integration into global brain states
+- network organization of
+- relationship to consciousness
+
+Local neural populations
+- achieving coherent relationships across scales
+- role in global conscious states
+
+Local patterns of energy organization
+- combination into global conscious states
+- mathematical formalization of
+- relationship to consciousness
+
+Local recursive operators
+- composition of
+- in triangulation
+- maintaining coherence
+
+Local stability conditions
+- in triangulation
+- convergence requirements
+- relationship to global stability
 
 Locality constraints
 - in neural systems
@@ -498,17 +913,37 @@ Local and global aspects
 - of consciousness
 - relationship in coherence-class identity theory
 - relationship in dimensionality reduction
+- unified through neural light cones
 
 Local-to-global coherence
 - modeling with sheaf theory
 - in conscious systems
+- biophysical mechanisms of
+- mathematical formalism of
+- sheaf theory in
+- stress-energy tensor in
 
-Low-entropy states
+Local-to-global transitions
+- in neural systems
+- phase space dynamics of
+- relationship to consciousness
+
+Low-entropy energy fields
+- role in binding
+- spanning brain regions
+
+Low-entropy processing
 - and dimensionality reduction
 - relationship to consciousness
+- role of thermodynamic constraints in
 - thermodynamic efficiency of
 
 Machine consciousness
+
+Manifold of conscious states
+- mathematical representation of
+- relationship to global section
+- space of possible conscious configurations
 
 Material properties
 - role in consciousness
@@ -516,6 +951,15 @@ Material properties
 Mathematical formalism 
 - in ECC
 - sophistication of
+- sheaf theory in
+- Jacobian of stress-energy tensor in
+- coupling and interface terms in
+- triangulation in
+- mutual recursion in
+- describing local-to-global coherence
+- modeling field interactions
+- for conscious processes
+- physical tensors in
 
 Mathematical principles
 - integration with physical and biological principles
@@ -531,6 +975,17 @@ Meaning
 Membrane dynamics
 - and consciousness
 
+Mechanical energy
+- in cellular structures
+- in cytoskeletal components
+- in membrane conformations
+- potential and kinetic forms in neural tissue
+
+Mechanical noise
+- from cellular components
+- membrane fluctuations
+- cytoskeletal vibrations
+
 Memory
 - computational limitations in explaining
 - energetic basis of
@@ -538,14 +993,36 @@ Memory
 
 Mental illness
 
+Metabolic conditions
+- effect on neural light cone boundaries
+- role in consciousness
+
+Metabolic processes
+- continuous feedback with electrical and chemical processes
+- role in coherent energy states
+
 Metabolism
 - and consciousness
+
+Metastability
+- in brain dynamics
+- relationship to local coherence patterns
+- role in conscious states
+
+Metastable dynamics
+- balancing stability with adaptability
+- role in conscious processing
 
 Mind-body problem
 - ECC's approach to
 
 Molecular configurations
 - and consciousness
+
+Molecular diversity
+- in neural populations
+- supporting rich alphabets
+- revealed by single-cell RNA sequencing
 
 Molecular interactions
 - role in consciousness
@@ -561,18 +1038,74 @@ Multi-layered energy flows
 - in conscious experience
 - physical reality of
 
+Multi-scale coherence
+- achieved through triangulation
+- alignment for conscious processing
+- in neural light cones
+
 Multi-scale integration
 - in conscious systems
 
+Multi-scale resonance
+- across spatial and temporal scales
+- in field coherence
+- supporting conscious processing
+
+Multistability
+- in brain dynamics
+- relationship to local coherence patterns
+- role in conscious states
+
+Mutual feedback
+- maintaining global coherence
+- role in specialized processing
+- role in integrating local and global experience
+
+Mutual constraint
+- between field types
+- creating web of interdependencies
+- maintaining overall coherence
+
 Mutual recursion
+- in synchronic unity
 - maintaining stability across scales
+- mechanisms of
 - role in ECC mathematics
+- role in integrating local and global experience
+- stabilizing bound states
+- recursive operator formalism
+- recursive update function
+- neighborhood relationships in
+- time-dependent coherence thresholds
 
 Nagel, Thomas
 - on explanatory gap
 - on first-person experience
 
+Natural computation
+- as physically embodied processes
+- beyond Turing framework
+- contrast with classical computation
+- in biological systems
+- relationship to consciousness
+
+Nested coherence
+- hierarchical organization of
+- supporting both local specificity and global integration
+- in conscious systems
+
+Nested diversity
+- hierarchical organizations of possible states
+- in rich alphabets
+- allowing broad categorization and fine-grained discrimination
+
+Network organization
+- in neural systems
+- role in integrating local dynamics into global states
+
 Neural architecture
+- low-entropy processing within
+- thermodynamic constraints on
 
 Neural computation
 - complemented by energetic coherence
@@ -581,30 +1114,52 @@ Neural computation
 Neural correlates of consciousness
 
 Neural light cones
+- and altered states of consciousness
 - and causal coherence
+- and conscious integration
 - and dimensionality reduction
+- as boundary conditions of consciousness
+- as causal boundaries
 - boundaries of conscious experience
 - causal constraints of
 - defining conscious integration
+- defining spatial and temporal boundaries
+- dynamic boundaries of
+- from relativistic physics analogy
+- fundamental limits of
+- maintaining causal connectivity
+- multi-scale coherence in
+- overlapping fields of
 - physical constraints respected by
+- relationship to diachronic unity
+- relationship to synchronic unity
 - relationship to thermodynamic constraints
+- role in bridging local and global aspects
 - role in temporal dynamics
+- selective inclusion in consciousness
+- role in binding process
 
 Neural networks
 - biological vs artificial
+- traditional focus on information transmission
+
+Neural oscillations
+- maintaining coherent states
+- role in consciousness
 
 Neural signal propagation
 - finite speeds of
 - relationship to unified consciousness
-
-Neuromorphic computing
-- and ECC
-- testing consciousness theories
+- speed constraints on conscious integration
 
 Network topology
 - role in conscious experience
 
 Neuroenergetics
+
+Neuromorphic computing
+- and ECC
+- testing consciousness theories
 
 Neuroscience
 - bridging with phenomenology
@@ -614,6 +1169,21 @@ Neuropil
 - cortical
 - role in consciousness
 
+Noise
+- constructive role in conscious systems
+- suppression in digital systems
+- thermal fluctuations as
+
+Noise landscapes
+- variation across brain regions
+- relationship to metabolic states
+- shaped by transcriptomic profiles
+
+Non-local coherence maintenance
+- through triangulation
+- spatial decay of coherence
+- constraints on propagation
+
 Non-local interactions
 - physical impossibility of
 - versus coherent field effects
@@ -621,6 +1191,10 @@ Non-local interactions
 Non-substrate-independence
 - in conscious systems
 - relationship to physical embodiment
+
+Overlapping light cones
+- creating global light cone
+- smooth transitions in conscious experience
 
 Pain
 - energetic basis of
@@ -634,6 +1208,16 @@ Perceptual phenomena
 - energetic basis of
 - visual snow as manifestation of energy dynamics
 
+Phase space dynamics
+- and criticality
+- in conscious systems
+- relationship to consciousness
+- role in local-to-global transitions
+
+Phase synchronization
+- maintaining coherent states
+- role in consciousness
+
 Phenomenal consciousness
 - qualitative aspects of
 - subjective nature of
@@ -646,6 +1230,10 @@ Phenomenal experience
 Phenomenal properties
 - and coherence-class identity theory
 - relationship to physical states
+
+Phenomenological features
+- bridge to physical mechanisms
+- of conscious experience
 
 Phenomenology
 - bridging with neuroscience
@@ -675,6 +1263,9 @@ Physical implementation
 - and consciousness
 - in ECC
 - versus computational abstraction
+- and computation
+- essential for consciousness
+- versus substrate independence
 
 Physical principles
 - integration with biological and mathematical principles
@@ -708,10 +1299,51 @@ Qualia
 - energetic basis of
 - limitations of computational accounts
 
+Quantum effects
+- potential role in coherent processes
+- relationship to consciousness
+
+Radix economy
+- in digital systems
+- compared to biological encoding efficiency
+- base-3 versus base-2 representation
+- relationship to energetic efficiency
+
+Rate coding
+- advantages of
+- complementarity with temporal coding
+- in sensory processing
+- relationship to energetic coherence
+- robustness against noise
+- stable patterns of energy flow
+
 Rationality
 
 "Real" problem of consciousness
 - Seth's approach to
+
+Recursive coherence bound
+- spatial decay parameters
+- time-dependent thresholds
+- constraints on conscious integration
+
+Recursive stability
+- convergence properties
+- in coherence conditions
+- mathematical conditions for
+- mathematical formulation of
+- relationship to conscious coherence
+- role in consciousness
+
+Recursive triangulation chains
+- for non-adjacent regions
+- maintaining coherence across distance
+- composition of local operators
+
+Recursive update function
+- neighborhood relationships
+- convergence properties
+- role in conscious coherence
 
 Regional brain waves
 - relationship to consciousness
@@ -720,6 +1352,11 @@ Regional brain waves
 Region-specific alphabets
 - of energetic configurations
 - shaped by transcriptomic profiles
+
+Relativistic physics
+- analogy to neural light cones
+- light cones in
+- relationship to consciousness theory
 
 Relativistic limitations
 - on conscious integration
@@ -732,10 +1369,17 @@ Representation
 - energetic grounding of
 
 Rich alphabet
+- of conscious states
 - of energetic states
+- enabling smooth transitions
 - region-specific configurations
 - relationship to other ECC commitments
 - transcriptomic basis of
+- contrast with binary or discrete states
+- continuous, multi-dimensional space of configurations
+- features of (nested diversity, adaptive stability, context-sensitive modulation)
+- physically grounded in molecular characteristics
+- supporting nuanced variations of conscious experience
 
 Ritual
 
@@ -747,18 +1391,60 @@ Seth, Anil
 - on "real" problem of consciousness
 - on phenomenology
 
+Sheaf coherence
+- compatibility conditions
+- in conscious systems
+- mathematical formulation of
+- relationship to conscious integration
+- relationship to global coherence
+
 Sheaf theory
 - modeling local-to-global coherence
 - role in ECC mathematics
+- compatibility conditions in
+- coherence measure in
+- global section of consciousness
+- local sections representing coherent energy states
+- restriction maps in
+- gluing conditions for consciousness
+- coherent sheaf dynamics
+- hierarchical coherence stability
+- mathematical framework for conscious experience
+
+Signal propagation
+- in neural light cones
+- maintaining energetic coherence
+- speed limitations of
 
 Signal propagation delays
 - and binding problem
 - in neural systems
 
+Similarity metrics
+- derived from physical properties of neural systems
+- in physically grounded embedding spaces
+- relationship to patterns of energetic coherence
+
 Sleep
 - and consciousness
+- versus death
+- versus conscious states
 
 Social organization
+
+Spatial boundaries
+- of conscious integration
+- of neural light cones
+
+Spatial decay of coherence
+- in triangulation
+- exponential falloff with distance
+- relationship to conscious integration
+
+Spatial transcriptomics
+- revealing molecular organization across brain regions
+- supporting rich alphabet concept
+- relationship to conscious processing
 
 Speculative psychology
 
@@ -769,6 +1455,11 @@ Stability across scales
 - maintained through mutual recursion
 - maintained through triangulation
 
+Stochastic resonance
+- enhancing signal detection
+- role of moderate noise levels
+- in neural systems
+
 Stream of consciousness
 - energetic basis of
 - temporal dynamics of
@@ -776,6 +1467,19 @@ Stream of consciousness
 Stress-energy tensor
 - Jacobian of
 - role in analyzing energy flows
+- subsystem-specific components of
+- decomposition into electromagnetic, chemical, mechanical, and interaction terms
+- coupling terms between subsystems
+- interface terms at boundaries
+- coherent boundary conditions in
+- conservation conditions for
+- hierarchy of coupling terms in
+
+Structured dissipation
+- enabling dynamic stability
+- in conscious systems
+- relationship to energy coherence
+- versus simple heat loss
 
 Subjective experiences
 - energetic basis of
@@ -787,6 +1491,9 @@ Substrate dependence
 Substrate-independence
 - critique of
 - in computationalism
+- challenged by ECC
+- limitations for consciousness
+- versus physical embodiment
 
 Subliminal perception
 - in dimensionality reduction framework
@@ -796,14 +1503,75 @@ Symbol grounding problem
 - in computational theories
 
 Symbolic manipulation
+- abstract
 - contrast with energetic coherence
 - limitations for consciousness
 
+Symmetry principles
+- in conscious systems
+- relationship to conservation laws
+- relationship to energy dynamics
+- role in consciousness
+
+Synaesthesia
+- as altered state of consciousness
+- neural light cone patterns in
+
+Synchronized activity patterns
+- in neural light cones
+- role in conscious processing
+
+Synchronized integration
+- of electromagnetic fields
+- of ionic gradients
+- of metabolic processes
+- role in conscious experience
+
+Synchronic unity
+- achieved through aligned dynamics
+- coherent experience at a moment
+- moment-to-moment integration
+- of consciousness
+- operating within neural light cone constraints
+- relationship to neural light cones
+- simultaneous coherence in
+
+Synaptic connections
+- role in energy flow regulation
+- role in rapid signal propagation
+
+Task demands
+- effect on neural light cone boundaries
+- modulating coding strategies
+- role in conscious awareness shifts
+
 Temporality
+
+Temporal binding
+- bridging discrete neural events
+- in diachronic unity
+
+Temporal boundaries
+- of conscious integration
+- of neural light cones
+
+Temporal coding
+- advantages of
+- complementarity with rate coding
+- enabling complex interference patterns
+- higher information capacity
+- in sensory processing
+- precise spike timing
+- relationship to energetic coherence
+- sensitivity to cognitive demands
 
 Temporal continuity
 - in conscious experience
 - limitations of computational accounts
+- and conscious experience
+- contrast with discrete computation
+- emerging from energy dynamics
+- physical basis of
 
 Temporal discontinuity problem
 - in computationalism
@@ -814,6 +1582,16 @@ Temporal dynamics
 
 Temporal integration
 - in conscious experience
+
+Temporal invariance
+- and energy conservation
+- in conscious systems
+- relationship to stable conscious states
+
+Temporal windows
+- for conscious integration
+- for conscious processing
+- minimum requirements for
 
 Testable predictions
 - of ECC
@@ -826,16 +1604,36 @@ Therapeutic applications
 Therapeutic interventions
 - for consciousness disorders
 
+Thermal fluctuations
+- as constructive force
+- leveraged for dynamic stability
+- role in conscious systems
+- role in stochastic stabilization
+
 Thermal noise
 - as boundary condition
 - constructive role of
 - in conscious processing
+- in biological systems
+- multiple flavors of (mechanical, chemical, electrical)
+- optimal noise regime
+- regulation
 - shaping conscious states
+- thresholds determining light cone boundaries
 
 Thermodynamic constraints
 - and dimensionality reduction
+- ensuring efficient processing
 - on conscious processing
+- on information integration
 - relationship to bottleneck of consciousness
+
+Thermodynamic efficiency
+- constraints on conscious systems
+- in conscious systems
+- maintaining while encoding information
+- mathematical formulation of
+- relationship to coherence conditions
 
 Thermodynamic processes
 - and consciousness
@@ -853,18 +1651,46 @@ Thought experiments
 - temporal gaps in consciousness
 
 Transcriptomic diversity
+- supporting rich alphabets
+- relationship to thermodynamic boundaries
+- enabling nuanced conscious states
 
 Transcriptomic profiles
 - and energetic coherence
 - and rich alphabets
 - creating region-specific alphabets
+- organizing continuous energy flows
 - role in conscious experience
 - role in dimensionality reduction
 - shaping conscious states
+- defining vocabulary for conscious processing
+- determining range and precision of possible states
+- direct instantiation of rich alphabets
+- molecular foundation for conscious processing
 
 Triangulation
+- achieving multi-scale coherence through
+- enabling smooth integration
 - maintaining stability across scales
 - role in ECC mathematics
+- consistency across paths
+- operators and formalism
+- consistency in coherence conditions
+- constants determining coherence propagation
+- coordinated with recursive updating
+- enabling non-local coherence maintenance
+- constants determining coherence propagation
+- enabling smooth integration
+- in local-to-global coherence
+- maintaining stability across scales
+- operators and formalism
+- recursive nature of
+- role in ECC mathematics
+
+Triangulation operators
+- acting on brain regions
+- consistency requirements
+- relationship to recursive operators
 
 Type and token identity theories
 - contrast with coherence-class identity theory
@@ -885,7 +1711,10 @@ Unity of consciousness
 - physical constraints on
 - relationship to neural light cones
 - relationship to philosophical commitments
+- synchronic and diachronic forms
 - temporal aspects of
+- across spatially separated regions
+- maintained through triangulation and recursion
 
 Visual perception
 
