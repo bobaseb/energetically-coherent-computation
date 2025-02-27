@@ -1,7 +1,19 @@
 %\index{example}
-\addcontentsline{toc}{section}{Index}
+% \addcontentsline{toc}{chapter}{16  Index}
+
+\h{Index}
+
+% wrapper command to avoid clear page from \printindex
+\let\originalprintindex\printindex
+\renewcommand{\printindex}{%
+  \begingroup
+  \let\clearpage\relax
+  \let\cleardoublepage\relax
+  \originalprintindex
+  \endgroup
+}
+
 \printindex
-%\h{Index}
 
 % please add relevant index terms from the tex file to the md file (do NOT remove any existing index terms from the md file)
 % now please \index{} the tex file based on the md file
