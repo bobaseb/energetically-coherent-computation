@@ -1,3 +1,5 @@
+# A
+
 Altered states of consciousness
 - and neural light cones
 - synaesthesia as example of
@@ -43,6 +45,11 @@ Artificial intelligence
 - contrast with conscious systems
 - limitations for consciousness
 
+Astrocyte-neuron lactate shuttle (ANLS)
+- implementing coupling terms
+- metabolic compartmentalization
+- role in energy distribution
+
 Astrocytic networks
 - and coherence
 - gap junctions in
@@ -58,10 +65,16 @@ Astrocytic syncytia
 - role in energetic coherence
 - substrate for coherent energy distribution
 
+ATP
+- as cellular energy currency
+- role in stress-energy tensor framework
+
 Attention
 - effect on neural light cone boundaries
 - modulating coding strategies
 - role in conscious awareness shifts
+
+# B
 
 Background energy fluctuations
 - contribution to conscious experience
@@ -70,6 +83,17 @@ Background energy fluctuations
 Basal cognition
 
 Bayesian processing
+
+Bioenergetic coupling
+- and conscious states
+- tensor formalism for
+- through chemiosmotic mechanisms
+
+Bioenergetics
+- and consciousness
+- implementation of ECC framework
+- link between mathematics and metabolism
+- molecular mechanisms of
 
 Binding problem
 - coherence solution to
@@ -143,7 +167,36 @@ Brain waves
 - regional dynamics of
 - relationship to consciousness
 
+Brodmann areas
+- as domains of molecular organization
+- cytoarchitectural organization
+- functional specialization
+- hierarchical organization
+- relationship to consciousness
+- transcriptomic profiles of
+
+Beta rhythms
+- facilitating intermediate-range coordination
+- role in conscious processing
+
+# C
+
+Calcium signaling
+- in astrocytic networks
+- integration across temporal windows
+- patterns of wave propagation
+- relationship to conscious states
+
 Calcium waves
+- propagation through syncytial networks
+- role in state maintenance
+- temporal integration through
+
+Calcium dynamics
+- in cellular signaling
+- coordination across scales
+- role in neural computation
+- relationship to conscious states
 
 Category error
 - in computational theories of mind
@@ -172,6 +225,12 @@ Cellular awareness
 
 Cellular consciousness
 
+Cellular coupling
+- electrical properties
+- gap junction mediated
+- metabolic coordination
+- role in conscious processing
+
 Cellular foundations
 - of consciousness
 
@@ -194,6 +253,16 @@ Chemical processes
 - continuous feedback with electrical and metabolic processes
 - role in coherent energy states
 
+Chemical signaling
+- in neural circuits
+- role in conscious processing
+- temporal dynamics of
+
+Chemiosmotic coupling
+- equations governing
+- in neural tissues
+- relationship to consciousness
+
 Church-Turing thesis
 - and consciousness
 - limitations for conscious experience
@@ -206,6 +275,11 @@ Classical computation
 - limitations for consciousness
 - substrate independence of
 - versus natural computation
+
+Classical neurotransmitters
+- excitation-inhibition balance
+- rapid information processing
+- synaptic transmission
 
 Coherence
 - across multiple scales
@@ -406,6 +480,16 @@ Coordination dynamics
 - in local-to-global coherence
 - role in self-organization
 
+Cortical columns
+- as coherence channels
+- role in energy dynamics
+- vertical integration through
+
+Cortical layers
+- and information integration
+- laminar organization of
+- role in coherence domains
+
 Cortical neuropil
 - and consciousness
 - role in energetic coherence
@@ -430,9 +514,39 @@ Criticality
 Cultural contexts
 - of consciousness
 
+Cytoarchitecture
+- and functional specialization
+- in Brodmann areas
+- relationship to molecular organization
+
 Cytoelectric integration
 - in neural systems
 - role in conscious coherence
+
+Cytoplasmic continuity
+- in astrocytic networks
+- role in energy state maintenance
+- sharing of ions and metabolites
+
+Cytoskeletal dynamics
+- in cellular organization
+- role in energy distribution
+- supporting conscious states
+
+Cytoskeletal networks
+- and ion channel organization
+- intracellular transport through
+- role in neural signaling
+
+Cytoskeleton
+- and consciousness
+- dynamic properties of
+- mechanical sensitivity
+- role in energy dynamics
+- role in information processing
+- structural organization of
+
+# D
 
 Death
 - versus sleep states
@@ -440,6 +554,11 @@ Death
 
 Decision-making
 - role of dimensionality reduction in
+
+Dendritic architecture
+- branching patterns
+- fields of integration
+- role in coherent states
 
 Dendritic morphology
 - role in energetic coherence
@@ -509,6 +628,8 @@ Dynamically organized energy dynamics
 - multi-scale nature of
 - relationship to consciousness
 
+# E
+
 Electrical noise
 - in membrane potentials
 - in ion channel dynamics
@@ -517,6 +638,11 @@ Electrical noise
 Electrical processes
 - continuous feedback with chemical and metabolic processes
 - role in coherent energy states
+
+Electrical synapses
+- bidirectional communication
+- gap junction based
+- role in neural synchronization
 
 Electromagnetic field integration
 - contribution to global conscious integration
@@ -673,8 +799,22 @@ Entropy management
 - in conscious systems
 - relationship to thermodynamic stability
 
+Ephaptic coupling
+- contribution to conscious processing
+- role in neural interactions
+
 Evolution
 - of consciousness
+
+Evolutionary optimization
+- for energy management
+- for information processing
+- in neural architecture
+
+Excitatory-inhibitory balance
+- in cortical columns
+- maintaining low-entropy states
+- role in coherence
 
 Explanatory gap
 - ECC's approach to
@@ -683,6 +823,13 @@ Explanatory gap
 
 Experimental methods
 - for measuring energetic coherence
+
+Extracellular matrix
+- molecular scaffolding
+- role in neural architecture
+- specialized microenvironments
+
+# F
 
 Faithful representation
 - capacity of conscious states
@@ -720,15 +867,29 @@ Free will
 - direct experience of enacting change
 - energetic basis of
 
+Functional syncytia
+- astrocytic networks
+- gap junction coupling
+- role in conscious processing
+
 Functionalism
 - computational
 - energetic
 - traditional limitations of
 
+# G
+
 Gap junctions
 - in astrocytic networks
 - role in energy flow regulation
 - role in rapid signal propagation
+
+Gap junction coupling
+- connexin proteins
+- electrical properties
+- metabolic coordination
+- regulation mechanisms
+- role in consciousness
 
 Gene expression patterns
 - role in rich alphabets
@@ -775,8 +936,19 @@ Global Workspace Theory
 - contrast with field-like consciousness
 - physical limitations of
 
+Glucose metabolism
+- regulation in neural tissues
+- role in conscious processing
+- sophisticated control mechanisms
+
 Goff, Phillip
 - on phenomenal experience
+
+Gamma oscillations
+- enabling precise local synchronization
+- role in conscious processing
+
+# H
 
 Hard problem of consciousness
 - ECC's approach to
@@ -789,6 +961,8 @@ Hierarchical structure
 
 Historical contexts
 - of consciousness
+
+# I
 
 Identity theories
 - relationship to ECC
@@ -838,14 +1012,39 @@ Interdisciplinary synthesis
 - in consciousness research
 - in ECC framework
 
+Ion channels
+- expression patterns
+- regional variation
+- role in neural function
+- shaping electrical properties
+
 Ion gradients
 - and consciousness
 - role in conscious coherence
 - synchronized integration with other energy forms
 
+Ion homeostasis
+- and consciousness
+- energy demands of
+- role in neural signaling
+
+Interstitial matrix
+- role in neural processing
+- guiding molecular diffusion
+- supporting volume transmission
+
+Intracellular transport
+- along cytoskeletal networks
+- matching energy supply to demand
+- role in conscious processing
+
+# J
+
 Jacobian of stress-energy tensor
 - analyzing energy flows
 - role in ECC mathematics
+
+# K
 
 Killing vector fields
 - associated with energy conservation
@@ -853,6 +1052,12 @@ Killing vector fields
 - in mathematical formalism of consciousness
 
 Kinship
+
+# L
+
+Lactate shuttling
+- in neural tissues
+- role in energy distribution
 
 Large Language Models (LLMs)
 - role in developing ECC theory
@@ -862,15 +1067,27 @@ Large-scale integration
 - through synchronized alignment of energy flows
 - role in conscious processing
 
+Lateral organization
+- in cell membranes
+- role in neural signaling
+- relationship to protein function
+
 Learning
 - computational limitations in explaining
 - energetic perspective on
 
 Liminality
 
+Lipid composition
+- regional variation
+- influence on membrane properties
+- role in neural function
+
 Local energy dynamics
 - integration into global conscious states
 - relationship to global coherence
+
+Local field dynamics
 
 Local field potentials
 - contribution to global conscious integration
@@ -915,6 +1132,11 @@ Local and global aspects
 - relationship in dimensionality reduction
 - unified through neural light cones
 
+Local field dynamics
+- role in coherent states
+- relationship to charge density
+- permittivity effects
+
 Local-to-global coherence
 - modeling with sheaf theory
 - in conscious systems
@@ -938,6 +1160,8 @@ Low-entropy processing
 - role of thermodynamic constraints in
 - thermodynamic efficiency of
 
+# M
+
 Machine consciousness
 
 Manifold of conscious states
@@ -947,6 +1171,11 @@ Manifold of conscious states
 
 Material properties
 - role in consciousness
+
+Matrix metalloproteinases
+- dynamic regulation of ECM
+- activity-dependent modification
+- role in plasticity
 
 Mathematical formalism 
 - in ECC
@@ -972,9 +1201,6 @@ Meaning
 - computational limitations in explaining
 - energetic grounding of
 
-Membrane dynamics
-- and consciousness
-
 Mechanical energy
 - in cellular structures
 - in cytoskeletal components
@@ -986,12 +1212,49 @@ Mechanical noise
 - membrane fluctuations
 - cytoskeletal vibrations
 
+Mechanotransduction
+- in neural tissues
+- role in information integration
+- through cytoskeletal networks
+
+Membrane dynamics
+- and consciousness
+- in neural processing
+- relationship to consciousness
+- role in information processing
+
+Membrane fluidity
+- role in protein organization
+- relationship to neural function
+- adaptation to activity
+
+Membrane organization
+- lateral domains
+- protein clustering
+- relationship to function
+
+Membrane properties
+- electrical characteristics
+- mechanical properties
+- relationship to signaling
+
+Membrane excitability
+- ion channel modulation
+- adaptive regulation
+- relationship to conscious states
+- role in neural computation
+
 Memory
 - computational limitations in explaining
 - energetic basis of
 - integration into conscious experience
 
 Mental illness
+
+Metabolic compartmentation
+- enabling efficient energy utilization
+- in neural networks
+- spatial organization of
 
 Metabolic conditions
 - effect on neural light cone boundaries
@@ -1013,8 +1276,29 @@ Metastable dynamics
 - balancing stability with adaptability
 - role in conscious processing
 
+Microtubule networks
+- dynamic instability of
+- energy distribution through
+- role in conscious processing
+
+Microtubule-associated proteins (MAPs)
+- diversity in neural tissues
+- regulation of cytoskeletal dynamics
+- role in information processing
+
+Microtubules
+- and consciousness
+- classical role in energy dynamics
+- interaction with membranes
+- organization of cellular space
+- role in energy distribution
+
 Mind-body problem
 - ECC's approach to
+
+Mitochondria
+- arrangement in neural tissues
+- role in energy management
 
 Molecular configurations
 - and consciousness
@@ -1023,10 +1307,24 @@ Molecular diversity
 - in neural populations
 - supporting rich alphabets
 - revealed by single-cell RNA sequencing
+- enabling rich alphabets
+- relationship to conscious processing
+- supporting functional specialization
 
 Molecular interactions
 - role in consciousness
 - scale in energy dynamics
+
+Molecular signatures
+- and conscious processing
+- in brain regions
+- relationship to function
+- role in energetic coherence
+
+Motor proteins
+- coordinated action of
+- intracellular transport by
+- role in energy distribution
 
 Multiple realizability
 - constrained view in ECC
@@ -1077,6 +1375,8 @@ Mutual recursion
 - recursive update function
 - neighborhood relationships in
 - time-dependent coherence thresholds
+
+# N
 
 Nagel, Thomas
 - on explanatory gap
@@ -1147,6 +1447,11 @@ Neural oscillations
 - maintaining coherent states
 - role in consciousness
 
+Neural periodic table
+- cellular elements of
+- molecular organization in
+- relationship to consciousness
+
 Neural signal propagation
 - finite speeds of
 - relationship to unified consciousness
@@ -1155,7 +1460,21 @@ Neural signal propagation
 Network topology
 - role in conscious experience
 
+Neuroenergetic paradox
+- balancing stability and flexibility
+- solutions through biological mechanisms
+
 Neuroenergetics
+
+Neuromodulation
+- influence on neural circuits
+- regulation of conscious states
+- temporal dynamics
+
+Neuromodulatory systems
+- coordination with neurotransmitters
+- role in conscious processing
+- spatial organization
 
 Neuromorphic computing
 - and ECC
@@ -1164,6 +1483,11 @@ Neuromorphic computing
 Neuroscience
 - bridging with phenomenology
 - implications of ECC for
+
+Neuropeptides
+- effects on neural circuits
+- regulation of conscious states
+- role in information processing
 
 Neuropil
 - cortical
@@ -1192,13 +1516,40 @@ Non-substrate-independence
 - in conscious systems
 - relationship to physical embodiment
 
+# O
+
 Overlapping light cones
 - creating global light cone
 - smooth transitions in conscious experience
 
+Oxidative phosphorylation
+- in neural tissues
+- role in consciousness
+
+Oscillatory patterns
+- and conscious states
+- coordination across scales
+- in neural systems
+- relationship to metabolic processes
+- role in energy distribution
+- role in information integration
+
+# P
+
+P/O ratio
+- in glucose oxidation
+- in fatty acid oxidation
+- metabolic efficiency measure
+
 Pain
 - energetic basis of
 - patterns of coherence in
+
+Perineuronal nets
+- specialized ECM structures
+- role in synaptic stability
+- regulation of ion concentrations
+- support for high-frequency firing
 
 Perception
 - energetic account of
@@ -1249,6 +1600,17 @@ Philosophical commitments
 Philosophy of mind
 - implications of ECC for
 
+Phospholipid bilayer
+- molecular organization
+- role in neural signaling
+- relationship to protein function
+
+Phosphorylation networks
+- dynamic regulation
+- molecular switches
+- relationship to conscious processing
+- role in neural adaptation
+
 Physical constraints
 - on conscious integration
 - on information processing
@@ -1283,9 +1645,40 @@ Predictive processing
 Processual phenomenon
 - consciousness as
 
+Protein complexes
+- membrane organization
+- functional assemblies
+- molecular organization
+- oligomeric states
+- role in neural signaling
+- coordination of cellular responses
+- stoichiometry
+
+Protein conformational dynamics
+- energetically-indexed states
+- implementing rich alphabet
+- role in consciousness
+
+Protein conformations
+- allosteric regulation
+- energy landscapes
+- multiple states
+- role in conscious processing
+- state transitions
+
+Protein dynamics
+- conformational changes
+- energy landscapes
+- role in information processing
+- state transitions
+
 Protein states
 - role in consciousness
 - scale in energy dynamics
+- conformational landscapes
+- energy minima
+- information encoding
+- transitions in consciousness
 
 Psychoactive compounds
 
@@ -1293,6 +1686,8 @@ Psychoanalysis
 
 Psychological phenomena
 - novel interpretations through ECC
+
+# Q
 
 Qualia
 - computational approaches to
@@ -1302,6 +1697,8 @@ Qualia
 Quantum effects
 - potential role in coherent processes
 - relationship to consciousness
+
+# R
 
 Radix economy
 - in digital systems
@@ -1321,6 +1718,11 @@ Rationality
 
 "Real" problem of consciousness
 - Seth's approach to
+
+Receptor expression
+- regional variation
+- role in information processing
+- tuning of neural responses
 
 Recursive coherence bound
 - spatial decay parameters
@@ -1348,6 +1750,12 @@ Recursive update function
 Regional brain waves
 - relationship to consciousness
 - scale in energy dynamics
+
+Regional specialization
+- balance with global integration
+- in cortical areas
+- molecular basis of
+- transcriptomic foundations
 
 Region-specific alphabets
 - of energetic configurations
@@ -1382,6 +1790,14 @@ Rich alphabet
 - supporting nuanced variations of conscious experience
 
 Ritual
+
+# S
+
+Second messenger systems
+- calcium signaling cascades
+- cyclic nucleotide pathways
+- integration of cellular signals
+- role in conscious processing
 
 Self-organizing systems
 
@@ -1425,6 +1841,11 @@ Similarity metrics
 - in physically grounded embedding spaces
 - relationship to patterns of energetic coherence
 
+Single-cell RNA sequencing
+- insights into neural diversity
+- molecular profiling with
+- revealing cell type specialization
+
 Sleep
 - and consciousness
 - versus death
@@ -1446,6 +1867,11 @@ Spatial transcriptomics
 - supporting rich alphabet concept
 - relationship to conscious processing
 
+Spatiotemporal evolution
+- of coherent states
+- of energy flows
+- interface dynamics
+
 Speculative psychology
 
 Stable states
@@ -1454,6 +1880,11 @@ Stable states
 Stability across scales
 - maintained through mutual recursion
 - maintained through triangulation
+
+Standing waves
+- in neural tissue
+- role in state maintenance
+- relationship to coherence
 
 Stochastic resonance
 - enhancing signal detection
@@ -1474,6 +1905,10 @@ Stress-energy tensor
 - coherent boundary conditions in
 - conservation conditions for
 - hierarchy of coupling terms in
+- coupling terms
+- interface conditions
+- Jacobian dynamics
+- spatiotemporal evolution
 
 Structured dissipation
 - enabling dynamic stability
@@ -1540,6 +1975,25 @@ Synaptic connections
 - role in energy flow regulation
 - role in rapid signal propagation
 
+Syncytial networks
+- and conscious processing
+- continuous internal medium
+- direct cellular connections
+- ion and metabolite distribution
+- role in energy state maintenance
+- spatial organization of
+- temporal integration through
+- astrocytic coupling
+- gap junction based
+- metabolic coordination
+
+Structured diffusion
+- in extracellular space
+- role in volume transmission
+- guided by ECM organization
+
+# T
+
 Task demands
 - effect on neural light cone boundaries
 - modulating coding strategies
@@ -1592,6 +2046,14 @@ Temporal windows
 - for conscious integration
 - for conscious processing
 - minimum requirements for
+- for information processing
+- in astrocytic networks
+- relationship to calcium signaling
+
+Tensegrity
+- in cellular architecture
+- role in mechanotransduction
+- supporting conscious states
 
 Testable predictions
 - of ECC
@@ -1655,7 +2117,17 @@ Transcriptomic diversity
 - relationship to thermodynamic boundaries
 - enabling nuanced conscious states
 
+Transcription factors
+- dynamic regulation by
+- response to neural activity
+- role in gene expression
+
 Transcriptomic profiles
+- and conscious processing
+- in Brodmann areas
+- molecular signatures
+- regional variation
+- role in functional specialization
 - and energetic coherence
 - and rich alphabets
 - creating region-specific alphabets
@@ -1697,6 +2169,8 @@ Type and token identity theories
 - limitations of
 - relationship to ECC
 
+# U
+
 Unified field of consciousness
 - dynamically stable
 - energetic basis of
@@ -1716,6 +2190,8 @@ Unity of consciousness
 - across spatially separated regions
 - maintained through triangulation and recursion
 
+# V
+
 Visual perception
 
 Visual snow
@@ -1725,4 +2201,28 @@ Visual snow
 "View from nowhere"
 - limitations for consciousness research
 
+Volume transmission
+- contribution to conscious processing
+- neuromodulatory effects
+- role in neural signaling
+- spatial distribution
+
+# W
+
+Wave function
+- propagation velocity
+- relationship to medium properties
+- solutions in neural tissue
+
+Wave propagation
+- efficiency in neural systems
+- through neuropil architecture
+- relationship to conscious states
+- role in energy distribution
+
 Wetware computing
+
+White matter
+- architecture of
+- as coherence bridges
+- role in global stability
