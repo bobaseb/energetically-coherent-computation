@@ -1,14 +1,5 @@
 # A
 
-Altered states of consciousness
-- and neural light cones
-- synaesthesia as example of
-
-Analog-like dynamics
-- contrast with discrete processing
-- in conscious systems
-- relationship to physical embodiment
-
 Abstract thinking
 - as special case of conscious processing
 - energetic basis of
@@ -23,6 +14,36 @@ Adaptive stability
 - in rich alphabets
 - capacity to sustain specific conscious states
 - allowing smooth transitions between states
+
+Altered states of consciousness
+- and neural light cones
+- context dependency of
+- cultural frameworks shaping
+- network reorganization in
+- synaesthesia as example of
+- temporal dynamics of
+
+Analog-like dynamics
+- contrast with discrete processing
+- in conscious systems
+- relationship to physical embodiment
+
+Anesthesia
+- and consciousness
+- contrast with sleep states
+- depth of
+- molecular mechanisms
+- pharmacological pathways
+- reversible disruption of consciousness
+- spatial organization of effects
+- temporal dynamics of
+- thalamocortical effects
+
+Anesthetic agents
+- molecular targets of
+- mechanisms of action
+- selective effects on consciousness
+- specificity of disruption
 
 Animism
 - and consciousness
@@ -74,6 +95,26 @@ Attention
 - modulating coding strategies
 - role in conscious awareness shifts
 
+Autonomic regulation
+- during trance states
+- physiological changes
+- voluntary control
+
+Agency
+- biological foundations of
+- coherent states enabling
+- emergence in social contexts
+- energetic basis of
+- individual and normative aspects
+- relationship to consciousness
+- temporal organization of
+
+Autonomy
+- biological basis of
+- conscious control in
+- natural emergence of
+- relationship to agency
+
 # B
 
 Background energy fluctuations
@@ -83,6 +124,11 @@ Background energy fluctuations
 Basal cognition
 
 Bayesian processing
+
+Bergmann glia
+- specialized cerebellar astrocytes
+- differences from cortical astrocytes
+- role in conscious processing
 
 Bioenergetic coupling
 - and conscious states
@@ -141,6 +187,11 @@ Binding problem
 - energetic perspective on
 - neural mechanisms of
 
+Bodily awareness
+- in trance states
+- interoceptive processing
+- modification during altered states
+
 Bottleneck of consciousness
 - contrast with information processing bottlenecks
 - energetic basis of
@@ -165,7 +216,9 @@ Brain structure
 
 Brain waves
 - regional dynamics of
+- patterns during sleep transitions
 - relationship to consciousness
+- role in energy dynamics
 
 Brodmann areas
 - as domains of molecular organization
@@ -243,6 +296,17 @@ Cellular organization
 
 Cellular processes
 - and consciousness
+
+Cerebellum
+- exclusion from consciousness
+- crystalline circuit organization
+- feedforward processing architecture
+- limited internal feedback loops
+
+Cerebrospinal fluid
+- circulation during sleep
+- enhanced flow in sleep states
+- role in waste clearance
 
 Chemical noise
 - in neural tissue
@@ -322,6 +386,36 @@ Coherence-class identity theory
 Coherent diversity
 - in conscious experience
 - local patterns within global unity
+
+Color perception
+- biological basis of
+- categorization across cultures
+- coherent representation in
+- cultural variation in
+- dimensionality of
+- energetic organization of
+- evolutionary development of
+- geometric constraints on
+- individual variation in
+- neural architecture for
+- phenomenal qualities of
+- relationship to consciousness
+- stability and flexibility of
+- tetrachromatic vision
+
+Color vision
+- anomalous trichromacy in
+- evolutionary development of
+- geometric properties of
+- neural mechanisms of
+- photopigment variations in
+- tetrachromacy in birds
+
+Coma
+- and consciousness disruption
+- global depression of brain activity
+- potential for recovery
+- versus brain death
 
 Compatibilism
 
@@ -494,6 +588,13 @@ Cortical neuropil
 - and consciousness
 - role in energetic coherence
 
+Cortical regions
+- architectural features
+- dense reciprocal connectivity
+- feedback pathways
+- laminar organization
+- oscillatory dynamics
+
 Cortical sheet
 - coherence gradients across
 - overlapping light cones across
@@ -510,6 +611,12 @@ Criticality
 - in neural systems
 - relationship to consciousness
 - role in local-to-global transitions
+
+Cross-modal integration
+- in synaesthesia
+- neural basis of
+- stability of associations
+- types and variations
 
 Cultural contexts
 - of consciousness
@@ -555,6 +662,11 @@ Death
 Decision-making
 - role of dimensionality reduction in
 
+Default mode network
+- activity patterns in altered states
+- relationship to consciousness
+- role in self-experience
+
 Dendritic architecture
 - branching patterns
 - fields of integration
@@ -567,6 +679,33 @@ Dependencies
 - between philosophical commitments
 - hierarchical structure of
 - in ECC framework
+
+Developmental processes
+- critical periods
+- in synaesthesia
+- neural plasticity during
+- role in consciousness
+- emergence of conscious states
+- interpersonal foundations of
+- motivational systems in
+- probabilistic epigenesis in
+- self-organization in
+- social scaffolding of
+- stages of conscious organization
+
+Developmental psychology
+- dynamic systems approach
+- infant intersubjectivity
+- neural basis of
+- relationship to consciousness
+- unconscious processes in
+
+Developmental trajectories
+- conscious capabilities in
+- neural organization in
+- plasticity patterns in
+- self-awareness in
+- social coordination in
 
 Diachronic unity
 - coherence inheritance in
@@ -677,8 +816,20 @@ Emergentist views
 - relationship to ECC
 
 Emotions
+- as coherent states
+- biological foundations of
+- cultural construction of
+- developmental trajectory
+- embodied nature of
 - energetic basis of
+- evolutionary foundations of
+- integration with cognition
+- neural architecture of
 - patterns of coherence in
+- regulation mechanisms
+- relationship to consciousness
+- social functions of
+- universal aspects of
 
 Empirical testing
 - of ECC
@@ -799,6 +950,13 @@ Entropy management
 - in conscious systems
 - relationship to thermodynamic stability
 
+Epileptic seizures
+- and consciousness loss
+- excessive synchronization in
+- paradoxical effects on awareness
+- pre-seizure states
+- relationship to neural synchrony
+
 Ephaptic coupling
 - contribution to conscious processing
 - role in neural interactions
@@ -828,6 +986,11 @@ Extracellular matrix
 - molecular scaffolding
 - role in neural architecture
 - specialized microenvironments
+
+Extracellular space
+- expansion during sleep
+- role in fluid dynamics
+- relationship to consciousness
 
 # F
 
@@ -866,6 +1029,11 @@ Free will
 - compatibilist view of
 - direct experience of enacting change
 - energetic basis of
+- emergence from coherent states
+- relationship to agency
+- relationship to consciousness
+- temporal aspects of
+- voluntary action in
 
 Functional syncytia
 - astrocytic networks
@@ -878,6 +1046,10 @@ Functionalism
 - traditional limitations of
 
 # G
+
+Gamma oscillations
+- enabling precise local synchronization
+- role in conscious processing
 
 Gap junctions
 - in astrocytic networks
@@ -941,23 +1113,39 @@ Glucose metabolism
 - role in conscious processing
 - sophisticated control mechanisms
 
+Glymphatic system
+- activation during sleep
+- fluid exchange mechanisms
+- waste clearance function
+
 Goff, Phillip
 - on phenomenal experience
-
-Gamma oscillations
-- enabling precise local synchronization
-- role in conscious processing
 
 # H
 
 Hard problem of consciousness
 - ECC's approach to
 
+Heart rate variability
+- in trance states
+- conscious regulation of
+
+Hemispheric neglect
+- and consciousness preservation
+- localized disruption patterns
+- modular aspects of consciousness
+
 Hermeneutics
 
 Hierarchical structure
 - in ECC commitments
 - of conscious organization
+
+Hippocampus
+- role in conscious memory
+- distinct computational principles
+- cellular organization
+- recurrent connectivity
 
 Historical contexts
 - of consciousness
@@ -971,6 +1159,12 @@ Implementation
 - in computational functionalism
 - in energetic functionalism
 - physical requirements for consciousness
+
+Intentional behavior
+- coherent organization of
+- emergence from self-organization
+- relationship to agency
+- role in conscious states
 
 Information density
 - relative to energetic costs
@@ -1012,11 +1206,21 @@ Interdisciplinary synthesis
 - in consciousness research
 - in ECC framework
 
+Interoceptive processing
+- during trance states
+- enhanced awareness
+- role in consciousness
+
 Ion channels
 - expression patterns
 - regional variation
 - role in neural function
 - shaping electrical properties
+
+Ion concentrations
+- regulation during sleep
+- maintenance of gradients
+- role in consciousness
 
 Ion gradients
 - and consciousness
@@ -1059,6 +1263,20 @@ Lactate shuttling
 - in neural tissues
 - role in energy distribution
 
+Language
+- as embodied process
+- biological foundations of
+- brain-to-brain coordination
+- cultural construction of
+- developmental trajectory
+- evolutionary foundations of
+- gestural components of
+- multimodal integration in
+- neural architecture of
+- relationship to consciousness
+- role in social coordination
+- universal features of
+
 Large Language Models (LLMs)
 - role in developing ECC theory
 
@@ -1078,10 +1296,23 @@ Learning
 
 Liminality
 
+Linguistic communication
+- coherent states in
+- cultural variation in
+- embodied foundations of
+- energetic basis of
+- physical constraints on
+- social functions of
+
 Lipid composition
 - regional variation
 - influence on membrane properties
 - role in neural function
+
+Living systems
+- consciousness in
+- energetic properties of
+- relationship to consciousness
 
 Local energy dynamics
 - integration into global conscious states
@@ -1121,11 +1352,6 @@ Locality constraints
 - in neural systems
 - relationship to consciousness
 
-Living systems
-- consciousness in
-- energetic properties of
-- relationship to consciousness
-
 Local and global aspects
 - of consciousness
 - relationship in coherence-class identity theory
@@ -1149,6 +1375,11 @@ Local-to-global transitions
 - in neural systems
 - phase space dynamics of
 - relationship to consciousness
+
+Locked-in syndrome
+- consciousness preservation in
+- motor pathway disruption
+- selective preservation patterns
 
 Low-entropy energy fields
 - role in binding
@@ -1177,6 +1408,28 @@ Matrix metalloproteinases
 - activity-dependent modification
 - role in plasticity
 
+Mathematical cognition
+- as embodied process
+- cultural transmission of
+- developmental trajectory
+- distributed processing
+- intuitive dimension of
+- neural architecture of
+- relationship to consciousness
+
+Mathematical creativity
+- emergence of novel insights
+- patterns enabling innovation
+- relationship to coherence
+
+Mathematical reasoning
+- abstract variable maintenance
+- cognitive demands of
+- embodied foundations
+- energetic requirements
+- grounding in physical experience
+- relationship to consciousness
+
 Mathematical formalism 
 - in ECC
 - sophistication of
@@ -1193,6 +1446,14 @@ Mathematical formalism
 Mathematical principles
 - integration with physical and biological principles
 - in ECC framework
+
+Mathematical thinking
+- abstract coherence in
+- cultural variation in
+- development of intuition
+- energetic organization of
+- neural basis of
+- symbolic manipulation in
 
 Mathematical rigor
 - in ECC theory
@@ -1296,6 +1557,11 @@ Microtubules
 Mind-body problem
 - ECC's approach to
 
+Minimally conscious states
+- fluctuating awareness in
+- partial coherence patterns
+- requirements for conscious experience
+
 Mitochondria
 - arrangement in neural tissues
 - role in energy management
@@ -1354,6 +1620,35 @@ Multistability
 - relationship to local coherence patterns
 - role in conscious states
 
+Musical consciousness
+- altered states in
+- cross-cultural patterns in
+- dynamic attending in
+- embodied nature of
+- emotional integration in
+- neural architecture of
+- temporal coherence in
+- therapeutic applications of
+
+Musical experience
+- coherent organization of
+- cross-modal integration in
+- cultural variation in
+- emotional aspects of
+- neural basis of
+- phenomenology of
+- temporal dynamics of
+- therapeutic potential of
+
+Musical perception
+- attentional modulation of
+- cognitive integration in
+- cultural universals in
+- emotional responses in
+- neural mechanisms of
+- temporal organization of
+
+
 Mutual feedback
 - maintaining global coherence
 - role in specialized processing
@@ -1403,6 +1698,11 @@ Network organization
 - in neural systems
 - role in integrating local dynamics into global states
 
+Network reorganization
+- during altered states
+- global connectivity changes
+- hierarchical processing changes
+
 Neural architecture
 - low-entropy processing within
 - thermodynamic constraints on
@@ -1412,6 +1712,13 @@ Neural computation
 - importance in ECC
 
 Neural correlates of consciousness
+
+Neural development
+- and consciousness emergence
+- critical periods in
+- plasticity throughout lifespan
+- relationship to conscious states
+- selective stabilization in
 
 Neural light cones
 - and altered states of consciousness
@@ -1452,10 +1759,23 @@ Neural periodic table
 - molecular organization in
 - relationship to consciousness
 
+Neural plasticity
+- enhancement by psychedelics
+- role in altered states
+- synaptic modifications during
+- developmental foundations of
+- experience-dependent changes
+- in conscious organization
+
 Neural signal propagation
 - finite speeds of
 - relationship to unified consciousness
 - speed constraints on conscious integration
+
+Neural synchronization
+- excessive patterns in seizures
+- relationship to consciousness
+- role in information integration
 
 Network topology
 - role in conscious experience
@@ -1545,6 +1865,25 @@ Pain
 - energetic basis of
 - patterns of coherence in
 
+Pain perception
+- affective dimension of
+- chronification mechanisms
+- cognitive modulation of
+- cultural variation in
+- energetic coherence disruption
+- evolutionary significance
+- integration with emotion
+- interoceptive aspects
+- neural architecture of
+- neural mechanisms of
+- relationship to consciousness
+
+Pain processing
+- bottom-up mechanisms
+- coherent representation in
+- interaction with reward systems
+- top-down modulation of
+
 Perineuronal nets
 - specialized ECM structures
 - role in synaptic stability
@@ -1554,10 +1893,32 @@ Perineuronal nets
 Perception
 - energetic account of
 - phenomena reinterpreted through ECC
+- changes during altered states
+- modification of sensory processing
+- relationship to consciousness
+
+Perceptual categorization
+- color categories across cultures
+- universal constraints on
+- cultural variation in
 
 Perceptual phenomena
 - energetic basis of
 - visual snow as manifestation of energy dynamics
+
+Perceptual presence
+- in visual snow syndrome
+- relationship to consciousness
+
+Personal causation
+- coherent states enabling
+- relationship to agency
+- self-directed action in
+
+Photopigments
+- anomalous trichromacy
+- genetic variations in
+- role in color vision
 
 Phase space dynamics
 - and criticality
@@ -1640,7 +2001,28 @@ Physical reality
 Physicalism
 - non-reductionist form in ECC
 
+Physiological arousal
+- cognitive performance relationship
+- consciousness regulation through
+- relationship to attention
+- role in conscious states
+- system-wide coherence in
+
+Pleasure states
+- coherent organization of
+- cultural elaboration of
+
+Possession trance
+- cultural variations
+- neural patterns
+- phenomenology
+
 Predictive processing
+
+Primary sensory areas
+- topographic organization
+- sensory processing
+- contrast with association areas
 
 Processual phenomenon
 - consciousness as
@@ -1680,6 +2062,20 @@ Protein states
 - information encoding
 - transitions in consciousness
 
+Psychedelic experiences
+- context-dependency of
+- cultural variation in
+- memory formation during
+- network effects of
+- role of set and setting
+- temporal dynamics of
+
+Psychedelics
+- alterations of consciousness
+- contrast with anesthetics
+- effects on neural dynamics
+- modification of energy flow
+
 Psychoactive compounds
 
 Psychoanalysis
@@ -1718,11 +2114,24 @@ Rationality
 
 "Real" problem of consciousness
 - Seth's approach to
+- stability and resilience of
+- temporal dynamics of
+
+Rational thought
+- biological constraints on
+- cognitive limitations of
+- energetic basis of
+- relationship to consciousness
 
 Receptor expression
 - regional variation
 - role in information processing
 - tuning of neural responses
+
+Recovery patterns
+- from consciousness disorders
+- temporal constraints on
+- trajectories of improvement
 
 Recursive coherence bound
 - spatial decay parameters
@@ -1776,6 +2185,18 @@ Reportability
 Representation
 - energetic grounding of
 
+Reticular activating system
+- role in consciousness
+- brainstem function
+- modulatory influences
+
+Reward systems
+- cultural variation in
+- energetic coherence in
+- neural basis of
+- relationship to consciousness
+- social synchronization of
+
 Rich alphabet
 - of conscious states
 - of energetic states
@@ -1801,11 +2222,50 @@ Second messenger systems
 
 Self-organizing systems
 
+Self-development
+- conscious integration in
+- emergence through experience
+- neural basis of
+- relationship to consciousness
+- social foundations of
+
 Semiotics
+
+Sensory integration
+- coherent organization of
+- cross-modal associations
+- in synaesthesia
+- neural architecture for
+- patterns of coherence
+
+Sensory qualities
+- coherent representation of
+- emergence from neural dynamics
+- geometric constraints on
+- relationship to consciousness
+
+Serotonin systems
+- 5-HT2A receptor activation
+- role in consciousness
+- psychedelic effects on
+
+Synaesthetic experiences
+- color-based associations in
+- geometric constraints on
+- systematic nature of
 
 Seth, Anil
 - on "real" problem of consciousness
 - on phenomenology
+
+Set and setting
+- influence on psychedelic experiences
+- role in conscious regulation
+
+Shamanic journeying
+- as altered state
+- cultural context
+- neural mechanisms
 
 Sheaf coherence
 - compatibility conditions
@@ -1850,6 +2310,28 @@ Sleep
 - and consciousness
 - versus death
 - versus conscious states
+- as coordinated reorganization
+- brain wave patterns in
+- contrast with death and anesthesia
+- extracellular space changes
+- fluid dynamics during
+- glymphatic activation
+- ion regulation during
+- memory consolidation in
+- neuromodulatory control
+- synaptic reorganization
+- as coordinated reorganization
+
+Social context
+- in trance practices
+- role in consciousness
+- stabilization of altered states
+
+Social functions
+- of emotion
+- in conscious coordination
+- evolutionary basis of
+- cultural elaboration of
 
 Social organization
 
@@ -1910,11 +2392,21 @@ Stress-energy tensor
 - Jacobian dynamics
 - spatiotemporal evolution
 
+Structured diffusion
+- in extracellular space
+- role in volume transmission
+- guided by ECM organization
+
 Structured dissipation
 - enabling dynamic stability
 - in conscious systems
 - relationship to energy coherence
 - versus simple heat loss
+
+Subcortical structures
+- contribution to consciousness
+- architectural properties
+- energy management
 
 Subjective experiences
 - energetic basis of
@@ -1951,6 +2443,26 @@ Symmetry principles
 Synaesthesia
 - as altered state of consciousness
 - neural light cone patterns in
+- attentional modulation of
+- cognitive enhancement in
+- developmental trajectory
+- directionality of associations
+- diversity of forms
+- individual variations
+- molecular basis of
+- neural architecture
+- phenomenal qualities
+- stability of associations
+- transcriptomic patterns in
+
+Synaptic connections
+- role in energy flow regulation
+- role in rapid signal propagation
+
+Synaptic homeostasis
+- during sleep states
+- energy efficiency
+- relationship to consciousness
 
 Synchronized activity patterns
 - in neural light cones
@@ -1971,10 +2483,6 @@ Synchronic unity
 - relationship to neural light cones
 - simultaneous coherence in
 
-Synaptic connections
-- role in energy flow regulation
-- role in rapid signal propagation
-
 Syncytial networks
 - and conscious processing
 - continuous internal medium
@@ -1986,11 +2494,6 @@ Syncytial networks
 - astrocytic coupling
 - gap junction based
 - metabolic coordination
-
-Structured diffusion
-- in extracellular space
-- role in volume transmission
-- guided by ECM organization
 
 # T
 
@@ -2042,6 +2545,10 @@ Temporal invariance
 - in conscious systems
 - relationship to stable conscious states
 
+Temporal perception
+- alterations in trance
+- modifications during altered states
+
 Temporal windows
 - for conscious integration
 - for conscious processing
@@ -2059,9 +2566,29 @@ Testable predictions
 - of ECC
 - relationship between energy dynamics and consciousness
 
+Tetrachromacy
+- avian color vision
+- enhanced color discrimination in
+- neural architecture for
+- perceptual space expansion in
+
+Thalamocortical circuits
+- anesthetic effects on
+- coherence disruption
+- dysrhythmia in visual snow
+- role in conscious integration
+
+Thalamus
+- architecture
+- relay nuclei
+- modulatory systems
+- thalamocortical circuits
+
 Therapeutic applications
+- of altered states
 - of consciousness research
 - of ECC
+- for psychological conditions
 
 Therapeutic interventions
 - for consciousness disorders
@@ -2111,6 +2638,24 @@ Third-person scientific description
 Thought experiments
 - paused consciousness
 - temporal gaps in consciousness
+
+Trance induction
+- progressive stages
+- temporal dynamics
+- physiological changes
+
+Trance states
+- endogenous alterations
+- voluntary control mechanisms
+- without external intervention
+- breathing patterns
+- cultural frameworks
+- memory formation
+- phenomenology
+- physiological changes
+- social context
+- therapeutic applications
+- types and variations
 
 Transcriptomic diversity
 - supporting rich alphabets
@@ -2192,11 +2737,34 @@ Unity of consciousness
 
 # V
 
+Vegetative state
+- and biological viability
+- consciousness impairment in
+- energetic disruption patterns
+- maintenance of autonomic functions
+
+Visual consciousness
+- coherent organization of
+- multi-level organization
+- perceptual stability
+
 Visual perception
 
 Visual snow
 - as manifestation of energy dynamics
 - energetic interpretation of
+
+Visual snow syndrome
+- as perceptual reorganization
+- background energy dynamics in
+- coherent state maintenance
+- contrast with hallucinations
+- persistent after-images in
+- phenomenology of
+- relationship to consciousness
+- stability across conditions
+- thalamocortical dysrhythmia in
+- theoretical implications of
 
 "View from nowhere"
 - limitations for consciousness research
@@ -2207,7 +2775,25 @@ Volume transmission
 - role in neural signaling
 - spatial distribution
 
+Volition
+- coherent states in
+- distributed neural basis of
+- emergence from organization
+- relationship to consciousness
+
+Voluntary action
+- coherent organization of
+- emergence from neural systems
+- relationship to consciousness
+- temporal dynamics of
+
 # W
+
+Wake-sleep transitions
+- brain region coordination
+- neuromodulatory control
+- patterns of deactivation
+- regional variations in
 
 Wave function
 - propagation velocity
