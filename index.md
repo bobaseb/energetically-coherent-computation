@@ -51,6 +51,11 @@ Animism
 - field theory of
 
 Anthropology, cultural
+- knowledge systems in
+- meaning systems in
+- power relations in
+- ritual practices in
+- symbolic systems in
 
 Anthropology, physical
 
@@ -182,6 +187,11 @@ Biopsychism
 - critique of
 - relationship to biological naturalism
 
+Binary oppositions
+- as stable configurations
+- in human thought
+- relationship to neural coherence
+
 Binding problem
 - coherence solution to
 - energetic perspective on
@@ -191,6 +201,12 @@ Bodily awareness
 - in trance states
 - interoceptive processing
 - modification during altered states
+
+Bodily techniques
+- cultural transmission of
+- energetic coherence in
+- physical grounding of
+- stability across generations
 
 Bottleneck of consciousness
 - contrast with information processing bottlenecks
@@ -333,6 +349,12 @@ Church-Turing thesis
 - physical embodiment challenging
 - relationship to natural computation
 
+Classification systems
+- cultural variation in
+- emergence of coherent patterns
+- integration of experience
+- relationship to knowledge organization
+
 Classical computation
 - contrast with conscious processing
 - discrete state transitions in
@@ -386,6 +408,18 @@ Coherence-class identity theory
 Coherent diversity
 - in conscious experience
 - local patterns within global unity
+
+Collective consciousness
+- and neural light cones
+- energetic basis of
+- relationship to individual experience
+- social coordination in
+
+Collective effervescence
+- emergence in ritual practice
+- physical basis through ECC
+- role in social bonding
+- synchronized coherence patterns
 
 Color perception
 - biological basis of
@@ -462,6 +496,11 @@ Computationally adjacent
 - consciousness as
 - correlation without causation
 - relationship to computation
+
+Concrete thinking
+- integration of experience
+- relationship to abstract thought
+- sophistication of
 
 Consciousness
 - altered states of
@@ -607,6 +646,11 @@ Coupling and interface terms
 - mathematical expansion of
 - satisfying conservation conditions
 
+Craft knowledge
+- embodied understanding in
+- material intelligence in
+- transmission through practice
+
 Criticality
 - in neural systems
 - relationship to consciousness
@@ -620,6 +664,21 @@ Cross-modal integration
 
 Cultural contexts
 - of consciousness
+
+Cultural meaning
+- emergence from energetic coherence
+- physical grounding of
+- stability across time
+- transmission mechanisms
+
+Cultural representation
+- biological foundations of
+- diversity and constraints in
+- integration of experience
+- relationship to consciousness
+- sophistication of
+- systems of meaning in
+- transmission across generations
 
 Cytoarchitecture
 - and functional specialization
@@ -769,6 +828,17 @@ Dynamically organized energy dynamics
 
 # E
 
+Ecological mind
+- emergence from relationships
+- grounding in neural organization
+- integration with environment
+
+Economic activity
+- cultural embeddedness of
+- energetic coherence in
+- relationship to social systems
+- substantive versus formal approaches
+
 Electrical noise
 - in membrane potentials
 - in ion channel dynamics
@@ -798,7 +868,10 @@ Eliminative materialism
 
 Embedding spaces
 - physically grounded in neural systems
+- biological versus artificial
 - constrained by molecular and energetic properties
+- physically grounded in neural systems
+- relationship to meaning
 - versus artificial embedding spaces
 
 Embodied consciousness
@@ -806,6 +879,17 @@ Embodied consciousness
 - energetic perspective on
 
 Embodied functionalism
+
+Embodied knowledge
+- emergence from practice
+- integration with cultural understanding
+- physical basis of
+- resistance to verbal transmission
+
+Embodied mind
+- grounding in physical experience
+- relationship to consciousness
+- role in skilled practice
 
 Embodiment
 
@@ -950,6 +1034,17 @@ Entropy management
 - in conscious systems
 - relationship to thermodynamic stability
 
+Environmental knowledge
+- cultural integration of
+- practical engagement in
+- traditional systems of
+
+Environmental relations
+- cultural frameworks for
+- ideological aspects of
+- practical engagement in
+- ritual regulation of
+
 Epileptic seizures
 - and consciousness loss
 - excessive synchronization in
@@ -974,6 +1069,26 @@ Excitatory-inhibitory balance
 - maintaining low-entropy states
 - role in coherence
 
+Exchange systems
+- alternative currencies in
+- cultural variation in
+- energetic patterns in
+- gift exchange dynamics
+- moral economies in
+- multiple spheres of
+- power relations in
+- traditional versus modern forms
+
+Existential interdependence
+- in human experience
+- patterns of energetic coherence in
+- relationship to social understanding
+
+Expertise
+- development through practice
+- perceptual capabilities in
+- physical grounding of
+
 Explanatory gap
 - ECC's approach to
 - first-person and third-person perspectives
@@ -993,6 +1108,11 @@ Extracellular space
 - relationship to consciousness
 
 # F
+
+Face-to-face interaction
+- and neural light cones
+- effectiveness in cultural transmission
+- role in social coherence
 
 Faithful representation
 - capacity of conscious states
@@ -1067,6 +1187,12 @@ Gene expression patterns
 - role in rich alphabets
 - defining conscious processing capabilities
 - relationship to transcriptomic profiles
+
+Gift exchange
+- energetic coherence in
+- maintenance of social bonds through
+- patterns of reciprocity in
+- relationship to value formation
 
 Glial networks
 - and consciousness
@@ -1150,6 +1276,17 @@ Hippocampus
 Historical contexts
 - of consciousness
 
+Horizon of experience
+- emergence from energetic coherence
+- implicit aspects of
+- relationship to attention
+
+Human-environment interaction
+- adaptive patterns in
+- cultural variation in
+- integration of practice and understanding
+- transformation through practice
+
 # I
 
 Identity theories
@@ -1159,6 +1296,17 @@ Implementation
 - in computational functionalism
 - in energetic functionalism
 - physical requirements for consciousness
+
+Inalienable possessions
+- coherence patterns in
+- resistance to commodification
+- social power through
+- transmission across generations
+
+Indigenous knowledge
+- coherent frameworks of
+- logical consistency in
+- practical rationality of
 
 Intentional behavior
 - coherent organization of
@@ -1193,6 +1341,12 @@ Integration and coordination mechanisms
 - multiple forms of
 - role in creating globally coherent states
 
+Interaction ritual chains
+- conditions for coherence
+- physical co-presence in
+- role in social bonding
+- shared mood requirements
+
 Interface dynamics
 - between brain subsystems
 - maintaining coherence across boundaries
@@ -1210,6 +1364,17 @@ Interoceptive processing
 - during trance states
 - enhanced awareness
 - role in consciousness
+
+Intersubjective experience
+- bridging patterns of coherence
+- embodied interaction in
+- neural light cone perspective
+- shared attention in
+
+Intersubjectivity
+- energetic coherence patterns in
+- physical grounding of
+- shared attention in
 
 Ion channels
 - expression patterns
@@ -1256,6 +1421,43 @@ Killing vector fields
 - in mathematical formalism of consciousness
 
 Kinship
+- biological and social integration
+- coherence patterns in
+- cultural elaboration of
+- embodied experience in
+- material practices of
+- power relations in
+- reproductive technologies affecting
+- social reproduction through
+- technologies of relatedness
+- traditional versus modern forms
+
+Kinship systems
+- biological necessity in
+- cultural variation of
+- emergence from coherence
+- integration of experience
+- maintenance across generations
+- stability and transformation
+- traditional and contemporary
+
+Knowledge systems
+- classification in
+- alternative pedagogies in
+- cultural variation in
+- environmental management through
+- integration of diverse traditions
+- power relations in
+- scientific versus traditional
+- social reinforcement of
+- specialized expertise in
+- transmission mechanisms
+
+Knowledge production
+- authority relations in
+- power dynamics of
+- silencing mechanisms in
+- zones of exclusion in
 
 # L
 
@@ -1294,7 +1496,17 @@ Learning
 - computational limitations in explaining
 - energetic perspective on
 
+Liminal phases
+- controlled destabilization in
+- ritual framing of
+- transformation through
+- types and variations
+
 Liminality
+- and consciousness transformation
+- in ritual practice
+- social separation during
+- stability requirements
 
 Linguistic communication
 - coherent states in
@@ -1313,6 +1525,11 @@ Living systems
 - consciousness in
 - energetic properties of
 - relationship to consciousness
+
+Lived body (Leib)
+- contrast with physical body
+- emergence from energetic coherence
+- phenomenological aspects of
 
 Local energy dynamics
 - integration into global conscious states
@@ -1399,6 +1616,23 @@ Manifold of conscious states
 - mathematical representation of
 - relationship to global section
 - space of possible conscious configurations
+
+Material intelligence
+- emergence from practice
+- integration of sensory experience
+- relationship to cultural knowledge
+
+Material practice
+- coherent states in
+- cultural elaboration of
+- physical grounding of
+- relationship to consciousness
+
+Materiality
+- and consciousness
+- embodied knowledge in
+- physical basis of
+- relationship to meaning
 
 Material properties
 - role in consciousness
@@ -1587,6 +1821,12 @@ Molecular signatures
 - relationship to function
 - role in energetic coherence
 
+Moral economies
+- collective resistance through
+- integration of justice and necessity
+- patterns of coherence in
+- stability of arrangements
+
 Motor proteins
 - coordinated action of
 - intracellular transport by
@@ -1648,7 +1888,6 @@ Musical perception
 - neural mechanisms of
 - temporal organization of
 
-
 Mutual feedback
 - maintaining global coherence
 - role in specialized processing
@@ -1671,11 +1910,21 @@ Mutual recursion
 - neighborhood relationships in
 - time-dependent coherence thresholds
 
+Mutuality of being
+- coherence patterns in
+- phenomenological power of
+- shared identities through
+
 # N
 
 Nagel, Thomas
 - on explanatory gap
 - on first-person experience
+
+Natural attitude
+- as stable coherence patterns
+- resistance to theoretical questioning
+- transformation through practice
 
 Natural computation
 - as physically embodied processes
@@ -1683,6 +1932,12 @@ Natural computation
 - contrast with classical computation
 - in biological systems
 - relationship to consciousness
+
+Nature-culture relationship
+- beyond dichotomy
+- cultural elaboration in
+- emergence from neural coherence
+- integration in experience
 
 Nested coherence
 - hierarchical organization of
@@ -1706,6 +1961,11 @@ Network reorganization
 Neural architecture
 - low-entropy processing within
 - thermodynamic constraints on
+- and cultural elaboration
+- biological constraints of
+- relationship to consciousness
+- role in meaning systems
+- shared across cultures
 
 Neural computation
 - complemented by energetic coherence
@@ -1838,6 +2098,12 @@ Non-substrate-independence
 
 # O
 
+Ontological schemas
+- animism and totemism
+- coherence patterns in
+- cultural variation of
+- relationship to neural systems
+
 Overlapping light cones
 - creating global light cone
 - smooth transitions in conscious experience
@@ -1884,6 +2150,11 @@ Pain processing
 - interaction with reward systems
 - top-down modulation of
 
+Participatory consciousness
+- as coherent state
+- integration of experience in
+- relationship to analytical thought
+
 Perineuronal nets
 - specialized ECM structures
 - role in synaptic stability
@@ -1914,6 +2185,11 @@ Personal causation
 - coherent states enabling
 - relationship to agency
 - self-directed action in
+
+Phenomenology
+- bridging with neuroscience
+- energetic grounding of
+- relationship to physical fields
 
 Photopigments
 - anomalous trichromacy
@@ -2008,6 +2284,11 @@ Physiological arousal
 - role in conscious states
 - system-wide coherence in
 
+Place experience
+- embodied engagement in
+- energetic coherence patterns
+- relationship to environment
+
 Pleasure states
 - coherent organization of
 - cultural elaboration of
@@ -2024,8 +2305,19 @@ Primary sensory areas
 - sensory processing
 - contrast with association areas
 
+Practical knowledge
+- coherence patterns in
+- relationship to theoretical knowledge
+- sophistication of
+- emergence from physical engagement
+
 Processual phenomenon
 - consciousness as
+
+Professional vision
+- development through practice
+- perceptual transformations in
+- physical grounding of
 
 Protein complexes
 - membrane organization
@@ -2170,6 +2462,14 @@ Region-specific alphabets
 - of energetic configurations
 - shaped by transcriptomic profiles
 
+Relatedness
+- biological and social dimensions
+- coherent patterns of
+- cultural elaboration of
+- material practices supporting
+- technologies of
+- transformation in modern contexts
+
 Relativistic physics
 - analogy to neural light cones
 - light cones in
@@ -2184,6 +2484,12 @@ Reportability
 
 Representation
 - energetic grounding of
+
+Reproductive technologies
+- biological and social integration
+- creating novel kinship forms
+- impact on traditional systems
+- patterns of coherence in
 
 Reticular activating system
 - role in consciousness
@@ -2209,10 +2515,69 @@ Rich alphabet
 - features of (nested diversity, adaptive stability, context-sensitive modulation)
 - physically grounded in molecular characteristics
 - supporting nuanced variations of conscious experience
+- biological foundations of
+- cultural elaboration through
+- enabling cultural diversity
+- in neural systems
+- relationship to consciousness
+- relationship to meaning
+- role in cultural transmission
+- transcriptomic basis of
 
 Ritual
+- energetic coherence in
+- material elements of
+- power maintenance through
+- sacred spaces in
+- social reinforcement through
+
+Ritual authority
+- emergence from coherence patterns
+- maintenance mechanisms
+- relationship to social power
+- traditional forms of
+
+Ritual healing
+- integration of experience levels
+- physical and social aspects
+- therapeutic efficacy of
+- traditional practices
+
+Ritual modes
+- doctrinal versus imagistic
+- frequency patterns
+- social functions
+- transmission strategies
+
+Ritual postures
+- access to conscious states
+- cultural preservation of
+- effectiveness across contexts
+- specific techniques
+
+Ritual practices
+- collective coherence in
+- cultural transmission through
+- social coordination in
+- traditional versus modern
+- and neural light cones
+- collective effervescence in
+- temporal constraints on
+- zones of heightened coordination
 
 # S
+
+Sacred spaces
+- accumulation of meaning in
+- energetic coherence patterns
+- maintenance of significance
+- physical grounding of
+
+Sanctified truth
+- creation through ritual
+- resistance to questioning
+- ritual maintenance of
+- social stability through
 
 Second messenger systems
 - calcium signaling cascades
@@ -2248,11 +2613,6 @@ Serotonin systems
 - 5-HT2A receptor activation
 - role in consciousness
 - psychedelic effects on
-
-Synaesthetic experiences
-- color-based associations in
-- geometric constraints on
-- systematic nature of
 
 Seth, Anil
 - on "real" problem of consciousness
@@ -2322,10 +2682,41 @@ Sleep
 - synaptic reorganization
 - as coordinated reorganization
 
+Skilled practice
+- coherent organization of
+- cultural transmission of
+- embodied foundations of
+- integration of intuition and technique
+- perceptual development in
+- physical grounding of
+
 Social context
 - in trance practices
 - role in consciousness
 - stabilization of altered states
+
+Social coordination
+- face-to-face interaction in
+- neural light cone constraints
+- scales of organization
+- temporal aspects of
+
+Social experience
+- neural light cone constraints
+- physical grounding of
+- spatial boundaries of
+- temporal limitations of
+
+Social influence
+- direct interaction in
+- neural light cone perspective
+- patterns of coherence in
+- transmission mechanisms
+
+Social rhythms
+- and neural light cones
+- coordination across scales
+- temporal constraints on
 
 Social functions
 - of emotion
@@ -2334,6 +2725,11 @@ Social functions
 - cultural elaboration of
 
 Social organization
+
+Somatic modes of attention
+- cultural elaboration of
+- neural organization of
+- patterns of bodily awareness
 
 Spatial boundaries
 - of conscious integration
@@ -2353,6 +2749,12 @@ Spatiotemporal evolution
 - of coherent states
 - of energy flows
 - interface dynamics
+
+Special monies
+- cultural functions of
+- distinct value domains in
+- patterns of coherence in
+- social relationships through
 
 Speculative psychology
 
@@ -2392,6 +2794,17 @@ Stress-energy tensor
 - Jacobian dynamics
 - spatiotemporal evolution
 
+Structural transformation
+- in cultural systems
+- neural basis of
+- patterns across cultures
+
+Structuralism
+- binary oppositions in
+- ECC perspective on
+- relationship to neural coherence
+- transformation principles in
+
 Structured diffusion
 - in extracellular space
 - role in volume transmission
@@ -2425,14 +2838,46 @@ Substrate-independence
 Subliminal perception
 - in dimensionality reduction framework
 
+Sustainability
+- ecological approaches to
+- integration of knowledge systems
+- traditional and modern perspectives
+
 Symbol grounding problem
 - ECC's approach to
+- energetic coherence solution
+- in cognitive science
 - in computational theories
+- physical basis of
+- relationship to meaning
+
+Symbolic abstraction
+- emergence from coherence
+- physical constraints on
+- relationship to embodied experience
 
 Symbolic manipulation
 - abstract
 - contrast with energetic coherence
 - limitations for consciousness
+
+Symbolic meaning
+- collective maintenance of
+- cultural transmission of
+- emergence through practice
+
+Symbol systems
+- cultural stability of
+- energetic coherence in
+- physical grounding of
+- versus arbitrary conventions
+
+Symbolic manipulation
+- abstract
+- contrast with energetic coherence
+- limitations for consciousness
+- social dimension of
+- stability across time
 
 Symmetry principles
 - in conscious systems
@@ -2454,6 +2899,11 @@ Synaesthesia
 - phenomenal qualities
 - stability of associations
 - transcriptomic patterns in
+
+Synaesthetic experiences
+- color-based associations in
+- geometric constraints on
+- systematic nature of
 
 Synaptic connections
 - role in energy flow regulation
@@ -2502,6 +2952,12 @@ Task demands
 - modulating coding strategies
 - role in conscious awareness shifts
 
+Technologies of relatedness
+- coherence maintenance through
+- material and symbolic aspects
+- patterns of social reproduction
+- stability across generations
+
 Temporality
 
 Temporal binding
@@ -2536,6 +2992,11 @@ Temporal discontinuity problem
 Temporal dynamics
 - of consciousness
 - relationship to dimensionality reduction
+
+Temporal experience
+- bodily rhythms in
+- cultural patterns of
+- multiple scales of organization
 
 Temporal integration
 - in conscious experience
@@ -2657,6 +3118,27 @@ Trance states
 - therapeutic applications
 - types and variations
 
+Traditional ecological knowledge
+- accuracy of insights
+- cultural integration of
+- practical foundations of
+
+Traditional knowledge
+- ecological understanding in
+- bureaucratic transformation of
+- environmental management in
+- healing practices in
+- physical grounding of
+- sophistication of
+- complexity of integration
+- cultural transmission of
+- practical effectiveness of
+- relationship to modern thought
+- sophistication of understanding
+- persistence mechanisms
+- relationship to power
+- sophisticated understanding in
+
 Transcriptomic diversity
 - supporting rich alphabets
 - relationship to thermodynamic boundaries
@@ -2737,6 +3219,28 @@ Unity of consciousness
 
 # V
 
+Value
+- as patterns of action
+- cultural systems of
+- emergence from coherence
+- material and symbolic aspects
+- power relations in
+- relationship to exchange
+- social construction of
+- transformation through practice
+
+Value conversion
+- between different scales
+- coherence patterns in
+- cultural management of
+- stability and change in
+
+Value storage
+- cultural systems of
+- memory banks as
+- preservation mechanisms
+- relationship to social order
+
 Vegetative state
 - and biological viability
 - consciousness impairment in
@@ -2812,3 +3316,11 @@ White matter
 - architecture of
 - as coherence bridges
 - role in global stability
+
+# Z
+
+Zones of abandonment
+- knowledge exclusion in
+- patterns of coherence in
+- social invisibility in
+- systematic maintenance of
