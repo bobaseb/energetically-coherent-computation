@@ -15,13 +15,34 @@ Adaptive stability
 - capacity to sustain specific conscious states
 - allowing smooth transitions between states
 
+Aesthetic experience
+- collective dimensions of
+- cultural variation in
+- emergence from coherence
+- integration with consciousness
+- relationship to power
+- sensory foundations of
+- social coordination in
+- transformation through
+
+Affecting presence
+- cultural persistence of
+- experiential impact of
+- patterns of coherence in
+- power to shape consciousness
+
 Altered states of consciousness
 - and neural light cones
 - context dependency of
 - cultural frameworks shaping
+- institutionalized forms of
 - network reorganization in
+- ritual practices for
+- shared visionary experiences in
 - synaesthesia as example of
+- techniques of ecstasy in
 - temporal dynamics of
+- therapeutic applications of
 
 Analog-like dynamics
 - contrast with discrete processing
@@ -59,6 +80,23 @@ Anthropology, cultural
 
 Anthropology, physical
 
+Art
+- agency of
+- as coherence technology
+- collective experience in
+- cultural elaboration of
+- formal properties of
+- power relations in
+- ritual relationship to
+- social transformation through
+- universal presence of
+
+Artification
+- aesthetic elaboration in
+- cultural patterns of
+- extraordinary experience through
+- making special through
+
 Artificial consciousness
 - and ECC
 - engineering requirements for
@@ -70,6 +108,18 @@ Artificial intelligence
 - computational limitations of
 - contrast with conscious systems
 - limitations for consciousness
+
+Artistic form
+- coherence patterns in
+- cross-cultural stability of
+- cultural variation in
+- relationship to experience
+
+Artistic practice
+- embodied knowledge in
+- expansion of consciousness through
+- skill development in
+- social coordination through
 
 Astrocyte-neuron lactate shuttle (ANLS)
 - implementing coupling terms
@@ -671,6 +721,18 @@ Cultural meaning
 - stability across time
 - transmission mechanisms
 
+Cultural models
+- and healing practices
+- as knowledge systems
+- of consciousness
+- of mind
+- relationship to individual experience
+- theories of mind in
+
+Cultural psychology
+- relationship to energetic coherence
+- social coordination in
+
 Cultural representation
 - biological foundations of
 - diversity and constraints in
@@ -838,6 +900,12 @@ Economic activity
 - energetic coherence in
 - relationship to social systems
 - substantive versus formal approaches
+
+Ecstatic practices
+- cross-cultural patterns in
+- cultural elaboration of
+- techniques and methods
+- universality of elements
 
 Electrical noise
 - in membrane potentials
@@ -1107,6 +1175,11 @@ Extracellular space
 - role in fluid dynamics
 - relationship to consciousness
 
+Extraordinary reality
+- access through cultural practice
+- sacred domain of experience
+- transcendence of ordinary consciousness
+
 # F
 
 Face-to-face interaction
@@ -1251,6 +1324,40 @@ Goff, Phillip
 
 Hard problem of consciousness
 - ECC's approach to
+
+Healing practices
+- consciousness role in
+- embodied techniques
+- energetic patterns in
+- integration of domains
+- physical interventions
+- relationship to consciousness
+- therapeutic effectiveness
+
+Healing relationships
+- healer-patient dynamics
+- personal connection in
+- shared coherence patterns
+- therapeutic transformation through
+
+Healing systems
+- biomedical integration with
+- collective dimensions of
+- cross-cultural perspectives
+- integration of experience levels
+- local moral worlds of
+- traditional knowledge in
+
+Healing traditions
+- mind-body-spirit integration in
+- therapeutic frameworks
+- cultural coherence in
+- coherence technologies in
+- integration of dimensions
+- local biologies in
+- medical knowledge systems
+- resistance to reductionism
+- therapeutic efficacy of
 
 Heart rate variability
 - in trance states
@@ -1502,11 +1609,23 @@ Liminal phases
 - transformation through
 - types and variations
 
+Liminal states
+- and consciousness transformation
+- ritual containment of
+- social renewal through
+- transformative power of
+
 Liminality
 - and consciousness transformation
 - in ritual practice
 - social separation during
 - stability requirements
+
+Liminoid
+- artistic spaces as
+- creative transformation in
+- modern society development of
+- voluntary engagement with
 
 Linguistic communication
 - coherent states in
@@ -1531,6 +1650,11 @@ Lived body (Leib)
 - emergence from energetic coherence
 - phenomenological aspects of
 
+Local biologies
+- body-mind-environment relationships
+- cultural-environmental contexts
+- understanding through energetic coherence
+
 Local energy dynamics
 - integration into global conscious states
 - relationship to global coherence
@@ -1540,6 +1664,11 @@ Local field dynamics
 Local field potentials
 - contribution to global conscious integration
 - relationship to electromagnetic fields
+
+Local moral worlds
+- healing practices in
+- patterns of coherence in
+- therapeutic intervention in
 
 Local neural dynamics
 - integration into global brain states
@@ -1696,6 +1825,11 @@ Meaning
 - computational limitations in explaining
 - energetic grounding of
 
+Meaning response
+- biochemical-psychological integration
+- cultural specificity of
+- therapeutic efficacy of
+
 Mechanical energy
 - in cellular structures
 - in cytoskeletal components
@@ -1745,6 +1879,11 @@ Memory
 - integration into conscious experience
 
 Mental illness
+
+Mental imagery
+- cultivation techniques
+- in contemplative practices
+- in healing traditions
 
 Metabolic compartmentation
 - enabling efficient energy utilization
@@ -2181,10 +2320,25 @@ Perceptual presence
 - in visual snow syndrome
 - relationship to consciousness
 
+Performance
+- as restored behavior
+- collective experience in
+- consciousness transformation through
+- cultural framing of
+- practice requirements for
+- ritual aspects of
+- social coordination in
+- training demands of
+
 Personal causation
 - coherent states enabling
 - relationship to agency
 - self-directed action in
+
+Personal symbols
+- cultural expression of
+- individual variation in
+- psychological reality of
 
 Phenomenology
 - bridging with neuroscience
@@ -2293,6 +2447,12 @@ Pleasure states
 - coherent organization of
 - cultural elaboration of
 
+Possession rituals
+- alterity of experience in
+- cultural patterns in
+- social and psychological functions
+- trance states in
+
 Possession trance
 - cultural variations
 - neural patterns
@@ -2371,6 +2531,18 @@ Psychedelics
 Psychoactive compounds
 
 Psychoanalysis
+
+Psychointegrative healing
+- altered states in
+- cultural framing of
+- multi-level integration in
+- therapeutic effectiveness of
+
+Psychointegrator states
+- neural system integration in
+- religious significance of
+- therapeutic potential of
+- transcendence of cognitive boundaries
 
 Psychological phenomena
 - novel interpretations through ECC
@@ -2542,6 +2714,10 @@ Ritual healing
 - physical and social aspects
 - therapeutic efficacy of
 - traditional practices
+- altered states in
+- integration of dimensions
+- therapeutic effectiveness
+- transformative power of
 
 Ritual modes
 - doctrinal versus imagistic
@@ -2596,6 +2772,11 @@ Self-development
 
 Semiotics
 
+Sensory experience
+- cultural models of
+- perceptual organization
+- varieties of
+
 Sensory integration
 - coherent organization of
 - cross-modal associations
@@ -2626,6 +2807,13 @@ Shamanic journeying
 - as altered state
 - cultural context
 - neural mechanisms
+
+Shamanic states
+- cross-cultural consistency in
+- cultural elaboration of
+- personal transformation through
+- social integration of
+- technologies for coherence in
 
 Sheaf coherence
 - compatibility conditions
@@ -2731,6 +2919,12 @@ Somatic modes of attention
 - neural organization of
 - patterns of bodily awareness
 
+Soteriological dimension
+- cure and salvation integration
+- existential meaning in healing
+- practical effectiveness of
+- resistance to reduction
+
 Spatial boundaries
 - of conscious integration
 - of neural light cones
@@ -2816,6 +3010,13 @@ Structured dissipation
 - relationship to energy coherence
 - versus simple heat loss
 
+Structured movement systems
+- coherence patterns in
+- cultural elaboration of
+- dance traditions as
+- personal transformation through
+- social coordination in
+
 Subcortical structures
 - contribution to consciousness
 - architectural properties
@@ -2855,6 +3056,12 @@ Symbolic abstraction
 - emergence from coherence
 - physical constraints on
 - relationship to embodied experience
+
+Symbolic healing
+- efficacy of traditional practices
+- integration of experience dimensions
+- patterns of energetic coherence in
+- resistance to reductionist interpretation
 
 Symbolic manipulation
 - abstract
@@ -3045,6 +3252,11 @@ Thalamus
 - modulatory systems
 - thalamocortical circuits
 
+Theories of mind
+- cultural specificity of
+- practical effectiveness of
+- translation across cultures
+
 Therapeutic applications
 - of altered states
 - of consciousness research
@@ -3104,6 +3316,12 @@ Trance induction
 - progressive stages
 - temporal dynamics
 - physiological changes
+
+Trance spectrum
+- deep possession states
+- light dissociation
+- patterns of induction
+- social management of
 
 Trance states
 - endogenous alterations
@@ -3246,6 +3464,12 @@ Vegetative state
 - consciousness impairment in
 - energetic disruption patterns
 - maintenance of autonomic functions
+
+Virtual space
+- artistic creation of
+- coherence maintenance in
+- expansion of consciousness through
+- transcendence of ordinary reality
 
 Visual consciousness
 - coherent organization of
