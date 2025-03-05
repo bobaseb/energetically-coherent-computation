@@ -31,6 +31,16 @@ Affecting presence
 - patterns of coherence in
 - power to shape consciousness
 
+Algorithmic architecture
+- patterns of coherence in
+- relationship to consciousness
+- shaping collective organization
+
+Algorithmic systems
+- collective consciousness effects
+- recommendation systems
+- shaping coherent experience
+
 Altered states of consciousness
 - and neural light cones
 - context dependency of
@@ -170,6 +180,11 @@ Autonomy
 - natural emergence of
 - relationship to agency
 
+Authenticity
+- alignment across experiential scales
+- coherence between consciousness and action
+- temporal integrity
+
 # B
 
 Background energy fluctuations
@@ -271,6 +286,11 @@ Boundary conditions
 - thermal noise as
 - coherent conditions at interfaces
 - in stress-energy tensor formalism
+
+Brain-computer interfaces
+- coherence patterns in
+- constraints on development
+- neural-technological bridging
 
 Brain organoids
 - research on
@@ -512,6 +532,11 @@ Computation
 
 Computational chauvinism
 
+Computational ethnography
+- analyzing patterns of coherence
+- integrating qualitative and quantitative methods
+- tracking multi-scale dynamics
+
 Computational paradigm
 - critique of
 - dominance in cognitive science
@@ -712,6 +737,40 @@ Cross-modal integration
 - stability of associations
 - types and variations
 
+Cultural complexity
+- emergence of new configurations
+- global interaction patterns
+- persistence of distinct forms
+- through coherence patterns
+
+Cultural construction
+- contrast with biological reductionism
+- patterns of coherence in
+- relationship to meaning
+
+Cultural innovation
+- emergence from coherence patterns
+- grounding in physical dynamics
+- relationship to stability
+
+Cultural transformation
+- biological constraints on
+- coherence patterns in
+- creative potential of
+- technological effects on
+
+Cultural flows
+- consciousness shaping through
+- global circulation patterns
+- transnational dynamics
+- transformation through local contexts
+
+Cultural hybridity
+- creative integration patterns
+- emergence of coherent forms
+- relationship to consciousness
+- viability factors
+
 Cultural contexts
 - of consciousness
 
@@ -841,6 +900,12 @@ Digital computational systems
 - noise suppression in
 - versus conscious systems
 
+Digital technologies
+- coherence patterns in
+- effects on consciousness
+- social media impacts
+- virtual reality systems
+
 Dimensionality reduction
 - and conscious access
 - and thermodynamic efficiency
@@ -945,6 +1010,9 @@ Embedding spaces
 Embodied consciousness
 - computational limitations in explaining
 - energetic perspective on
+- biological constraints on
+- energetic coherence patterns
+- relationship to cultural practices
 
 Embodied functionalism
 
@@ -1102,16 +1170,35 @@ Entropy management
 - in conscious systems
 - relationship to thermodynamic stability
 
+Environmental crisis
+- coherence pattern disruption
+- human-nature relationships
+- systemic effects of
+
 Environmental knowledge
 - cultural integration of
 - practical engagement in
+- adaptive strategies in
+- coherence patterns in
+- indigenous systems of
+- integration with practice
+- local and global scales
+- relationship to power
+- ritual regulation of
 - traditional systems of
 
 Environmental relations
 - cultural frameworks for
 - ideological aspects of
 - practical engagement in
+- coherence patterns in
+- dwelling perspective on
+- human-environment interaction
+- integration of practice and understanding
+- more than human perspectives
+- ontological schemas in
 - ritual regulation of
+- transformation through practice
 
 Epileptic seizures
 - and consciousness loss
@@ -1152,6 +1239,11 @@ Existential interdependence
 - patterns of energetic coherence in
 - relationship to social understanding
 
+Experimental ethnography
+- documenting complex phenomena
+- innovative methodological approaches
+- integration with digital methods
+
 Expertise
 - development through practice
 - perceptual capabilities in
@@ -1180,6 +1272,11 @@ Extraordinary reality
 - sacred domain of experience
 - transcendence of ordinary consciousness
 
+Empathy
+- as resonant energy patterns
+- limitations of
+- relationship to ethics
+
 # F
 
 Face-to-face interaction
@@ -1195,6 +1292,11 @@ Faithful representation
 Feedback systems
 - and consciousness
 - between higher and lower dimensional states
+
+Field consciousness studies
+- cultural context effects
+- investigation of coherence patterns
+- systematic methodology
 
 Field effects
 - in neural systems
@@ -1214,6 +1316,12 @@ First-person experience
 - irreducibility of
 - relationship to third-person description
 
+Flexible citizenship
+- cognitive demands of
+- cultural framework integration
+- patterns of coherence in
+- transnational adaptation
+
 Framerate illusion
 - in global unity of consciousness
 - partial illusoriness of global unity
@@ -1224,6 +1332,8 @@ Free will
 - energetic basis of
 - emergence from coherent states
 - relationship to agency
+- as coherent self-organization
+- compatibilist perspectives
 - relationship to consciousness
 - temporal aspects of
 - voluntary action in
@@ -1282,6 +1392,35 @@ Global coherence condition
 - in triangulation
 - constraints on recursive operators
 - maximum allowable deviation
+
+Global consciousness
+- digital media effects
+- emergence of novel forms
+- patterns of coherence in
+- transnational dynamics
+
+Global cultural flows
+- coherence patterns in
+- reconfiguration effects
+- transformation of boundaries
+
+Global cultural systems
+- coherence patterns in
+- integration possibilities
+- traditional and emerging forms
+- transformation through circulation
+
+Global youth culture
+- coherence patterns in
+- integration of traditions
+- media circulation effects
+- transnational consciousness in
+
+Globalization
+- consciousness effects
+- cultural transformation through
+- patterns of coherence in
+- relationship to local contexts
 
 Global light cone
 - as broader field of conscious integration
@@ -1388,11 +1527,26 @@ Horizon of experience
 - implicit aspects of
 - relationship to attention
 
+Human-environment relations
+- coherence patterns in
+- dwelling perspective on
+- ecological knowledge in
+- integration of practice and meaning
+- ontological frameworks for
+- ritual regulation of
+- traditional knowledge systems
+
 Human-environment interaction
 - adaptive patterns in
 - cultural variation in
 - integration of practice and understanding
 - transformation through practice
+
+Human-machine interaction
+- collaborative achievements
+- interface design challenges
+- patterns of coherence in
+- sustained engagement effects
 
 # I
 
@@ -1482,6 +1636,9 @@ Intersubjectivity
 - energetic coherence patterns in
 - physical grounding of
 - shared attention in
+- pre-reflective understanding
+- resonant coherence patterns
+- social meaning foundations
 
 Ion channels
 - expression patterns
@@ -1559,6 +1716,9 @@ Knowledge systems
 - social reinforcement of
 - specialized expertise in
 - transmission mechanisms
+- coherence through practice
+- cultural construction in
+- relationship to power
 
 Knowledge production
 - authority relations in
@@ -1927,6 +2087,12 @@ Microtubules
 - organization of cellular space
 - role in energy distribution
 
+Migration
+- cultural adaptation in
+- diasporic consciousness
+- integration of frameworks
+- patterns of coherence in
+
 Mind-body problem
 - ECC's approach to
 
@@ -1938,6 +2104,16 @@ Minimally conscious states
 Mitochondria
 - arrangement in neural tissues
 - role in energy management
+
+Mixed methods research
+- combining methodological approaches
+- integration of multiple perspectives
+- studying patterns of coherence
+
+Molecular ethnography
+- biological process investigation
+- cultural practice effects
+- studying cellular organization
 
 Molecular configurations
 - and consciousness
@@ -1965,6 +2141,11 @@ Moral economies
 - integration of justice and necessity
 - patterns of coherence in
 - stability of arrangements
+
+Moral reasoning
+- emotional responsiveness
+- logical consistency
+- patterns of coherence in
 
 Motor proteins
 - coordinated action of
@@ -2060,6 +2241,11 @@ Nagel, Thomas
 - on explanatory gap
 - on first-person experience
 
+Narrative understanding
+- coherence across time
+- meaning-making processes
+- temporal organization
+
 Natural attitude
 - as stable coherence patterns
 - resistance to theoretical questioning
@@ -2091,6 +2277,12 @@ Nested diversity
 Network organization
 - in neural systems
 - role in integrating local dynamics into global states
+
+Networked consciousness
+- digital media effects
+- local-global dynamics
+- patterns of coherence in
+- transnational connections
 
 Network reorganization
 - during altered states
@@ -2179,6 +2371,11 @@ Neural synchronization
 Network topology
 - role in conscious experience
 
+Neuroanthropology
+- cultural effects on neural organization
+- systematic study methods
+- understanding brain-culture interaction
+
 Neuroenergetic paradox
 - balancing stability and flexibility
 - solutions through biological mechanisms
@@ -2239,9 +2436,18 @@ Non-substrate-independence
 
 Ontological schemas
 - animism and totemism
+- animism and naturalism
 - coherence patterns in
 - cultural variation of
 - relationship to neural systems
+- environmental relations in
+- integration with practice
+- relationship to experience
+
+Ontological turn
+- coherence patterns across domains
+- practical effectiveness of
+- relationship to experience
 
 Overlapping light cones
 - creating global light cone
@@ -2330,6 +2536,11 @@ Performance
 - social coordination in
 - training demands of
 
+Person-centered ethnography
+- consciousness integration study
+- individual experience focus
+- personal-cultural dynamics
+
 Personal causation
 - coherent states enabling
 - relationship to agency
@@ -2382,6 +2593,11 @@ Phenomenology
 - linking with scientific understanding
 - relationship to brain processes
 - systematic influence on
+
+Philosophical anthropology
+- consciousness theories in
+- human nature perspectives
+- relationship to ECC
 
 Philosophical commitments
 - dependencies between
@@ -2457,6 +2673,16 @@ Possession trance
 - cultural variations
 - neural patterns
 - phenomenology
+
+Post-structural anthropology
+- grounding in physical dynamics
+- relationship to cultural creativity
+- structural pattern analysis
+
+Power relations
+- coherence pattern shaping
+- maintenance across groups
+- social coordination through
 
 Predictive processing
 
@@ -2560,6 +2786,11 @@ Quantum effects
 
 # R
 
+Radical empiricism
+- consciousness as research tool
+- methodological guidance
+- systematic reflection
+
 Radix economy
 - in digital systems
 - compared to biological encoding efficiency
@@ -2649,6 +2880,12 @@ Relativistic physics
 
 Relativistic limitations
 - on conscious integration
+
+Religious movements
+- global circulation of
+- local adaptation patterns
+- universal accessibility of
+- coherence patterns in
 
 Reportability
 - and conscious access
@@ -3044,6 +3281,12 @@ Sustainability
 - integration of knowledge systems
 - traditional and modern perspectives
 
+Surveillance capitalism
+- consciousness effects
+- patterns of coherence in
+- social relationship impacts
+- technological configurations
+
 Symbol grounding problem
 - ECC's approach to
 - energetic coherence solution
@@ -3072,6 +3315,11 @@ Symbolic meaning
 - collective maintenance of
 - cultural transmission of
 - emergence through practice
+
+Symbolic thought
+- embodied foundations of
+- energetic coherence patterns
+- relationship to meaning
 
 Symbol systems
 - cultural stability of
@@ -3158,6 +3406,23 @@ Task demands
 - effect on neural light cone boundaries
 - modulating coding strategies
 - role in conscious awareness shifts
+
+Technogenesis
+- co-evolution with consciousness
+- neural organization in
+- technological integration patterns
+- transformation of experience
+
+Technological exteriorization
+- consciousness extension through
+- enabling and constraining effects
+- novel configurations of experience
+
+Technologies of self-containment
+- affect modulation
+- attention modulation
+- coherence patterns
+- experiential constraints
 
 Technologies of relatedness
 - coherence maintenance through
@@ -3354,8 +3619,13 @@ Traditional knowledge
 - relationship to modern thought
 - sophistication of understanding
 - persistence mechanisms
-- relationship to power
 - sophisticated understanding in
+- coherence patterns in
+- environmental management through
+- integration with practice
+- relationship to power
+- ritual regulation in
+- sophistication of systems
 
 Transcriptomic diversity
 - supporting rich alphabets
@@ -3384,6 +3654,24 @@ Transcriptomic profiles
 - determining range and precision of possible states
 - direct instantiation of rich alphabets
 - molecular foundation for conscious processing
+
+Transnational consciousness
+- cultural integration in
+- emergence of new forms
+- patterns of coherence in
+- social field dynamics
+
+Transnationalism
+- coherence patterns in
+- consciousness effects
+- from below dynamics
+- global-local integration
+
+Translation
+- coherence patterns in
+- cross-cultural understanding through
+- cultural mediation role
+- meaning transmission challenges
 
 Triangulation
 - achieving multi-scale coherence through
@@ -3475,6 +3763,12 @@ Visual consciousness
 - coherent organization of
 - multi-level organization
 - perceptual stability
+
+Virtual reality
+- coherence patterns in
+- immersive capabilities
+- neural grounding of
+- relationship to physical reality
 
 Visual perception
 
