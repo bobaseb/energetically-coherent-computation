@@ -59,6 +59,17 @@ Analog-like dynamics
 - in conscious systems
 - relationship to physical embodiment
 
+Analog computation
+- biological inspiration of
+- continuous physical quantities in
+- contrast with digital systems
+- historical development of
+- mathematical foundations of
+- modern perspectives on
+- noise role in
+- physical implementation of
+- relationship to consciousness
+
 Anesthesia
 - and consciousness
 - contrast with sleep states
@@ -113,6 +124,15 @@ Artificial consciousness
 - limitations of
 - physical substrates for
 - versus computational approaches
+
+Artificial general intelligence (AGI)
+- computational limitations of
+- consciousness requirements for
+- development challenges
+- ethical implications
+- hybrid approaches to
+- limitations without consciousness
+- relationship to consciousness
 
 Artificial intelligence
 - computational limitations of
@@ -226,6 +246,11 @@ Bioelectric fields
 
 Biological autonomy
 
+Biological information processing
+- analog nature of
+- continuous dynamics in
+- relationship to consciousness
+
 Biological naturalism
 - and ECC
 - critique of
@@ -320,6 +345,12 @@ Beta rhythms
 
 # C
 
+Calcium dynamics
+- in cellular signaling
+- coordination across scales
+- role in neural computation
+- relationship to conscious states
+
 Calcium signaling
 - in astrocytic networks
 - integration across temporal windows
@@ -354,6 +385,11 @@ Causal constraints
 - in conscious systems
 - physical limitations of
 - relationship to neural light cones
+
+Causal reasoning
+- artificial systems and
+- emergence from energy dynamics
+- relationship to consciousness
 
 Causal relationships
 - in neural light cones
@@ -394,6 +430,16 @@ Cerebrospinal fluid
 - enhanced flow in sleep states
 - role in waste clearance
 
+Chemical computing
+- autocatalytic cycles in
+- cellular implementation of
+- continuous state transitions in
+- information processing in
+- molecular configurations in
+- parallel processing in
+- relationship to consciousness
+- RNA implementation of
+
 Chemical noise
 - in neural tissue
 - role in molecular interactions
@@ -413,6 +459,12 @@ Chemiosmotic coupling
 - in neural tissues
 - relationship to consciousness
 
+Chemputation
+- automated chemical computation
+- beyond nucleic acids
+- programming methods
+- reliability mechanisms
+
 Church-Turing thesis
 - and consciousness
 - limitations for conscious experience
@@ -424,6 +476,16 @@ Classification systems
 - emergence of coherent patterns
 - integration of experience
 - relationship to knowledge organization
+
+Classical coherence
+- contrast with quantum coherence
+- relationship to consciousness
+- stability through environmental interaction
+
+Classical-scale dynamics
+- emergence of consciousness from
+- relationship to quantum effects
+- role in conscious processing
 
 Classical computation
 - contrast with conscious processing
@@ -475,9 +537,19 @@ Coherence-class identity theory
 - contrast with traditional identity theories
 - relationship to ECC
 
+Coherent energy dynamics
+- in biological systems
+- relationship to consciousness
+- role in information processing
+
 Coherent diversity
 - in conscious experience
 - local patterns within global unity
+
+Coherent oscillations
+- in field computing
+- relationship to consciousness
+- role in information processing
 
 Collective consciousness
 - and neural light cones
@@ -520,6 +592,12 @@ Coma
 - global depression of brain activity
 - potential for recovery
 - versus brain death
+
+Combinatory logic
+- in RNA molecules
+- molecular implementation of
+- physical grounding of
+- relationship to computation
 
 Compatibilism
 
@@ -611,6 +689,12 @@ Consciousness
 - unity of
 - uploading limitations
 
+Consciousness gap
+- between human and artificial systems
+- ethical implications of
+- in human-AI interaction
+- persistent limitations from
+
 Context-sensitive modulation
 - ability to adjust repertoire of available states
 - in rich alphabets
@@ -662,6 +746,8 @@ Continuous dynamics
 - in conscious systems
 - relationship to energetic coherence
 - versus discrete processing
+- in analog systems
+- in biological processing
 
 Continuous energy flows
 - organization through transcriptomic profiles
@@ -842,6 +928,17 @@ Death
 Decision-making
 - role of dimensionality reduction in
 
+Decoherence
+- in quantum systems
+- contrast with conscious coherence
+- environmental sensitivity
+- relationship to stability
+
+Deep learning
+- architectural limitations of
+- contrast with conscious processing
+- limitations for consciousness
+
 Default mode network
 - activity patterns in altered states
 - relationship to consciousness
@@ -896,6 +993,12 @@ Diachronic unity
 - stable propagation of coherent states
 - temporal continuity in
 
+Digital computation
+- contrast with analog systems
+- discrete state transitions in
+- limitations for consciousness
+- noise suppression requirements
+
 Digital computational systems
 - noise suppression in
 - versus conscious systems
@@ -933,6 +1036,12 @@ Disorders of consciousness
 - and dimensionality reduction disruptions
 - binding failures in
 - therapeutic approaches to
+
+Dissipative adaptation
+- emergence of adaptive behavior
+- relationship to consciousness
+- role in information processing
+- spontaneous organization through
 
 Dualism
 - contrast with ECC
@@ -993,8 +1102,11 @@ Electromagnetic field integration
 
 Electromagnetic fields
 - as substrate for information integration
+- computational capabilities of
+- interference patterns in
 - role in coherent processing
 - role in consciousness
+- standing wave patterns in
 
 Eliminative materialism
 - contrast with ECC
@@ -1050,6 +1162,11 @@ Emotions
 - relationship to consciousness
 - social functions of
 - universal aspects of
+
+Empathetic understanding
+- artificial systems limitations
+- consciousness role in
+- relationship to experience
 
 Empirical testing
 - of ECC
@@ -1129,11 +1246,20 @@ Energy conservation
 - mathematical formulation in conscious systems
 - relationship to coherence conditions
 
+Energy dissipation
+- and information processing
+- controlled dissipation role
+- relationship to system coherence
+- in conscious systems
+
 Energy dynamics
 - coherent organization of
 - in biological systems
 - multi-scale integration of
 - relationship to conscious experience
+- in conscious processing
+- relationship to computational capability
+- role in system stability
 
 Energy dissipation
 - consciousness requiring more than
@@ -1169,11 +1295,31 @@ Energy types
 Entropy management
 - in conscious systems
 - relationship to thermodynamic stability
+- relationship to information processing
+- role in stability
+- thermodynamic constraints
+
+Entropy production
+- and information processing
+- management in conscious systems
+- relationship to stability
+- role in adaptation
+
+Environmental constraints
+- in quantum systems
+- limiting conscious-like processing
+- relationship to stability
 
 Environmental crisis
 - coherence pattern disruption
 - human-nature relationships
 - systemic effects of
+
+Environmental interaction
+- and quantum coherence
+- in conscious systems
+- maintaining stable coherence
+- role in consciousness
 
 Environmental knowledge
 - cultural integration of
@@ -1234,6 +1380,11 @@ Exchange systems
 - power relations in
 - traditional versus modern forms
 
+Existential chasm
+- between human and artificial intelligence
+- implications for development
+- relationship to consciousness
+
 Existential interdependence
 - in human experience
 - patterns of energetic coherence in
@@ -1293,6 +1444,20 @@ Feedback systems
 - and consciousness
 - between higher and lower dimensional states
 
+Field-based computation
+- analog implementation of
+- relationship to consciousness
+- supporting coherent dynamics
+
+Field based computing
+- analog implementation of
+- continuous dynamics in
+- contrast with digital systems
+- interference patterns in
+- relationship to consciousness
+- standing waves in
+- wave propagation in
+
 Field consciousness studies
 - cultural context effects
 - investigation of coherence patterns
@@ -1311,6 +1476,12 @@ Field dynamics
 
 Field-like properties
 - of consciousness
+
+Finite algorithms
+- contrast with continuous processes
+- limitations for consciousness
+- relationship to discrete computation
+- versus infinite processes
 
 First-person experience
 - irreducibility of
@@ -1548,6 +1719,11 @@ Human-machine interaction
 - patterns of coherence in
 - sustained engagement effects
 
+Hybrid systems
+- analog-digital integration
+- consciousness potential in
+- development approaches for
+
 # I
 
 Identity theories
@@ -1569,11 +1745,34 @@ Indigenous knowledge
 - logical consistency in
 - practical rationality of
 
+Infinite algorithms
+- biological implementation of
+- continuous nature of
+- relationship to consciousness
+- theoretical foundations
+- transcending classical computation
+
+Infinite computational processes
+- biological examples of
+- continuous versus discrete
+- relationship to consciousness
+- theoretical frameworks for
+
 Intentional behavior
 - coherent organization of
 - emergence from self-organization
 - relationship to agency
 - role in conscious states
+
+Interface problem
+- between conscious and non-conscious systems
+- development challenges
+- in human-AI interaction
+
+Interference patterns
+- in electromagnetic fields
+- in field computing
+- role in information processing
 
 Information density
 - relative to energetic costs
@@ -2256,7 +2455,12 @@ Natural computation
 - beyond Turing framework
 - contrast with classical computation
 - in biological systems
+- biological implementation
+- continuous processes in
+- emergence from physical dynamics
 - relationship to consciousness
+- transcending algorithmic bounds
+- versus classical computation
 
 Nature-culture relationship
 - beyond dichotomy
@@ -2337,6 +2541,11 @@ Neural light cones
 - selective inclusion in consciousness
 - role in binding process
 
+Neural network architectures
+- biological inspiration of
+- consciousness limitations
+- discrete processing in
+
 Neural networks
 - biological vs artificial
 - traditional focus on information transmission
@@ -2395,6 +2604,10 @@ Neuromodulatory systems
 Neuromorphic computing
 - and ECC
 - testing consciousness theories
+- and field computing integration
+- biological inspiration for
+- consciousness-like processing in
+- physical architecture requirements
 
 Neuroscience
 - bridging with phenomenology
@@ -2448,6 +2661,14 @@ Ontological turn
 - coherence patterns across domains
 - practical effectiveness of
 - relationship to experience
+
+Oscillatory patterns
+- and conscious states
+- coordination across scales
+- in neural systems
+- relationship to metabolic processes
+- role in energy distribution
+- role in information integration
 
 Overlapping light cones
 - creating global light cone
@@ -2618,10 +2839,26 @@ Phosphorylation networks
 - relationship to conscious processing
 - role in neural adaptation
 
+Physical computation
+- analog approaches to
+- continuous nature of
+- relationship to consciousness
+
 Physical constraints
 - on conscious integration
 - on information processing
 - relativistic limitations
+
+Physical dynamics
+- and computational capability
+- emergence of information processing
+- relationship to consciousness
+- role in adaptive behavior
+
+Physical-computational integration
+- coherence requirements
+- in artificial systems
+- relationship to consciousness
 
 Physical embodiment
 - and consciousness
@@ -2635,6 +2872,9 @@ Physical implementation
 - and computation
 - essential for consciousness
 - versus substrate independence
+- in analog systems
+- material properties role
+- relationship to computation
 
 Physical principles
 - integration with biological and mathematical principles
@@ -2780,9 +3020,39 @@ Qualia
 - energetic basis of
 - limitations of computational accounts
 
+Quantum coherence
+- contrast with classical coherence
+- environmental sensitivity of
+- fragility in conscious systems
+- limitations for consciousness
+
+Quantum computing
+- computational capabilities of
+- consciousness limitations
+- environmental constraints
+- relationship to conscious processing
+
 Quantum effects
+- contrast with classical processing
+- limitations for consciousness
 - potential role in coherent processes
 - relationship to consciousness
+
+Quantum entanglement
+- computational power of
+- contrast with conscious integration
+- fragility in biological systems
+
+Quantum error correction
+- contrast with biological stability
+- requirements for quantum systems
+- relationship to consciousness
+
+Quantum states
+- coherent properties of
+- environmental sensitivity
+- fragility at biological scales
+- limitations for consciousness
 
 # R
 
@@ -2977,6 +3247,14 @@ Ritual practices
 - collective effervescence in
 - temporal constraints on
 - zones of heightened coordination
+
+RNA computing
+- combinatory logic in
+- computational capabilities
+- folding patterns in
+- molecular implementation
+- physical grounding of
+- relationship to consciousness
 
 # S
 
@@ -3201,6 +3479,11 @@ Standing waves
 - role in state maintenance
 - relationship to coherence
 
+Statistical learning
+- contrast with conscious understanding
+- limitations for consciousness
+- pattern recognition through
+
 Stochastic resonance
 - enhancing signal detection
 - role of moderate noise levels
@@ -3275,6 +3558,11 @@ Substrate-independence
 
 Subliminal perception
 - in dimensionality reduction framework
+
+Superposition
+- in quantum systems
+- limitations for consciousness
+- quantum versus classical states
 
 Sustainability
 - ecological approaches to
@@ -3400,6 +3688,12 @@ Syncytial networks
 - gap junction based
 - metabolic coordination
 
+System coherence
+- across physical and computational domains
+- maintenance through energy flows
+- relationship to consciousness
+- role in information processing
+
 # T
 
 Task demands
@@ -3517,6 +3811,12 @@ Thalamus
 - modulatory systems
 - thalamocortical circuits
 
+Theoretical computer science
+- classical computation limits
+- continuous versus discrete processing
+- finite versus infinite algorithms
+- relationship to consciousness
+
 Theories of mind
 - cultural specificity of
 - practical effectiveness of
@@ -3548,12 +3848,28 @@ Thermal noise
 - shaping conscious states
 - thresholds determining light cone boundaries
 
+Thermodynamic computing
+- adaptive behavior in
+- energy dissipation role
+- entropy management in
+- fundamental principles
+- information processing in
+- noise role in
+- physical dynamics of
+- relationship to consciousness
+- scaling challenges
+- theoretical foundations
+
 Thermodynamic constraints
 - and dimensionality reduction
 - ensuring efficient processing
 - on conscious processing
 - on information integration
 - relationship to bottleneck of consciousness
+- on conscious systems
+- on information processing
+- relationship to computation
+- role in adaptation
 
 Thermodynamic efficiency
 - constraints on conscious systems
@@ -3561,6 +3877,15 @@ Thermodynamic efficiency
 - maintaining while encoding information
 - mathematical formulation of
 - relationship to coherence conditions
+- and computational capability
+- in biological systems
+- relationship to consciousness
+- role in information processing
+
+Thermodynamic principles
+- in artificial systems
+- relationship to consciousness
+- role in information processing
 
 Thermodynamic processes
 - and consciousness
@@ -3654,6 +3979,11 @@ Transcriptomic profiles
 - determining range and precision of possible states
 - direct instantiation of rich alphabets
 - molecular foundation for conscious processing
+
+Transformer models
+- capabilities of
+- consciousness limitations
+- pattern recognition in
 
 Transnational consciousness
 - cultural integration in
@@ -3827,6 +4157,9 @@ Wave propagation
 - through neuropil architecture
 - relationship to conscious states
 - role in energy distribution
+- in field computing
+- physical constraints on
+- information processing through
 
 Wetware computing
 
