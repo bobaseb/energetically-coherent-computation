@@ -31,6 +31,15 @@ Affecting presence
 - patterns of coherence in
 - power to shape consciousness
 
+Agency
+- biological foundations of
+- coherent states enabling
+- emergence in social contexts
+- energetic basis of
+- individual and normative aspects
+- relationship to consciousness
+- temporal organization of
+
 Algorithmic architecture
 - patterns of coherence in
 - relationship to consciousness
@@ -70,6 +79,12 @@ Analog computation
 - physical implementation of
 - relationship to consciousness
 
+Analytical frameworks
+- for consciousness research
+- integration of methods
+- methodological rigor
+- sophisticated tools
+
 Anesthesia
 - and consciousness
 - contrast with sleep states
@@ -86,6 +101,14 @@ Anesthetic agents
 - mechanisms of action
 - selective effects on consciousness
 - specificity of disruption
+
+Animal models
+- avian cognition in
+- cephalopod studies
+- comparative approaches
+- evolutionary insights
+- social insect studies
+- testing ECC predictions
 
 Animism
 - and consciousness
@@ -151,6 +174,12 @@ Artistic practice
 - skill development in
 - social coordination through
 
+Assembloids
+- brain-like tissue development
+- consciousness research applications
+- neural network formation
+- testing ECC principles
+
 Astrocyte-neuron lactate shuttle (ANLS)
 - implementing coupling terms
 - metabolic compartmentalization
@@ -165,6 +194,12 @@ Astrocytic networks
 - role in synchronized activity patterns
 - supporting diachronic unity
 - syncytial properties of
+
+Astrocytic regulation
+- of neural activity
+- cortical state modulation
+- coherent energy patterns
+- consciousness mechanisms
 
 Astrocytic syncytia
 - and conscious integration
@@ -198,15 +233,6 @@ Autonomic regulation
 - physiological changes
 - voluntary control
 
-Agency
-- biological foundations of
-- coherent states enabling
-- emergence in social contexts
-- energetic basis of
-- individual and normative aspects
-- relationship to consciousness
-- temporal organization of
-
 Autonomy
 - biological basis of
 - conscious control in
@@ -217,6 +243,11 @@ Authenticity
 - alignment across experiential scales
 - coherence between consciousness and action
 - temporal integrity
+
+Avian models
+- cognitive capabilities
+- neural architecture
+- testing consciousness theories
 
 # B
 
@@ -246,9 +277,19 @@ Basal cognition
 
 Bayesian processing
 
+Behavioral flexibility
+- across species
+- consciousness relationship
+- evolutionary development
+- neural basis of
+
 Bergmann glia
 - specialized cerebellar astrocytes
 - differences from cortical astrocytes
+- role in conscious processing
+
+Beta rhythms
+- facilitating intermediate-range coordination
 - role in conscious processing
 
 Bioenergetic coupling
@@ -291,6 +332,12 @@ Biological autonomy
 Biological information processing
 - analog nature of
 - continuous dynamics in
+- relationship to consciousness
+
+Biological markers
+- metabolic indicators
+- neurotransmitter levels
+- real-time measurement
 - relationship to consciousness
 
 Biological naturalism
@@ -366,9 +413,19 @@ Brain-computer interfaces
 - constraints on development
 - neural-technological bridging
 
+Brain mapping
+- advanced technologies
+- nanoelectronic devices
+- neural activity patterns
+- precision measurements
+
 Brain organoids
 - research on
 - testing ECC predictions
+- biological authenticity
+- consciousness-like processing
+- experimental systems
+- testing ECC principles
 
 Brain structure
 - and conscious experience
@@ -388,11 +445,13 @@ Brodmann areas
 - relationship to consciousness
 - transcriptomic profiles of
 
-Beta rhythms
-- facilitating intermediate-range coordination
-- role in conscious processing
-
 # C
+
+Calcium-independent signaling
+- astrocytic lipid release
+- neural excitability
+- parallel pathways
+- regulation mechanisms
 
 Calcium dynamics
 - in cellular signaling
@@ -487,6 +546,16 @@ Cemi field theory
 - spatial integration in
 - unified field perspective
 
+Centralized nervous systems
+- evolutionary development
+- organizational principles
+- relationship to consciousness
+
+Cephalopod cognition
+- distributed neural architecture
+- problem-solving abilities
+- testing consciousness theories
+
 Cerebellum
 - exclusion from consciousness
 - crystalline circuit organization
@@ -566,6 +635,12 @@ Classical neurotransmitters
 - excitation-inhibition balance
 - rapid information processing
 - synaptic transmission
+
+Clinical monitoring
+- consciousness assessment
+- disorders of consciousness
+- recovery patterns
+- therapeutic interventions
 
 Coherence
 - across multiple scales
@@ -666,6 +741,12 @@ Combinatory logic
 - molecular implementation of
 - physical grounding of
 - relationship to computation
+
+Comparative neuroscience
+- consciousness studies
+- evolutionary insights
+- species differences
+- testing ECC predictions
 
 Compatibilism
 
@@ -1022,6 +1103,12 @@ Dendritic architecture
 - fields of integration
 - role in coherent states
 
+Dendritic computation
+- complex operations
+- information processing
+- neural circuits
+- nonlinear capabilities
+
 Dendritic Integration Theory (DIT)
 - calcium spike mechanisms
 - comparison with ECC
@@ -1063,6 +1150,9 @@ Developmental trajectories
 - plasticity patterns in
 - self-awareness in
 - social coordination in
+- consciousness emergence
+- transcriptomic changes
+- coherence patterns
 
 Diachronic unity
 - coherence inheritance in
@@ -1165,6 +1255,12 @@ Ecstatic practices
 - cultural elaboration of
 - techniques and methods
 - universality of elements
+
+EEG microstates
+- temporal dynamics
+- whole-brain networks
+- consciousness assessment
+- coherence patterns
 
 Electrical noise
 - in membrane potentials
@@ -1273,9 +1369,18 @@ Empathetic understanding
 - consciousness role in
 - relationship to experience
 
+Empirical measures
+- coherence indices
+- consciousness assessment
+- operational definitions
+- validation protocols
+
 Empirical testing
 - of ECC
 - of consciousness theories
+- methodological rigor in
+- multi-scale approaches to
+- validation protocols for
 
 Energetic coherence
 - and neural computation
@@ -1503,10 +1608,35 @@ Existential interdependence
 - patterns of energetic coherence in
 - relationship to social understanding
 
+Experimental approaches
+- to consciousness research
+- integration of methods
+- methodological rigor in
+- multi-modal measurement
+- validation protocols
+
+Experimental design
+- for consciousness studies
+- methodological considerations
+- protocol development
+- rigor and reproducibility
+
 Experimental ethnography
 - documenting complex phenomena
 - innovative methodological approaches
 - integration with digital methods
+
+Experimental protocols
+- development of new tools
+- methodological rigor
+- multi-scale integration
+- validation requirements
+
+Experimental validation
+- of consciousness theories
+- of ECC predictions
+- methodological frameworks
+- multi-domain approaches
 
 Expertise
 - development through practice
@@ -1552,6 +1682,11 @@ Faithful representation
 - capacity of conscious states
 - enabling adaptive responses
 - maintaining coherence while reflecting conditions
+
+Falsifiable propositions
+- consciousness theories
+- experimental design
+- testable hypotheses
 
 Feedback systems
 - and consciousness
@@ -1819,6 +1954,12 @@ Heart rate variability
 - in trance states
 - conscious regulation of
 
+Hebbian plasticity
+- consciousness role
+- homeostatic mechanisms
+- neural circuits
+- synaptic changes
+
 Hemispheric neglect
 - and consciousness preservation
 - localized disruption patterns
@@ -1857,6 +1998,10 @@ Hippocampus
 - distinct computational principles
 - cellular organization
 - recurrent connectivity
+- evolution across species
+- memory processing role
+- spatial cognition function
+- species variations
 
 Historical contexts
 - of consciousness
@@ -2452,6 +2597,11 @@ Metabolic conditions
 - effect on neural light cone boundaries
 - role in consciousness
 
+Metabolic imaging
+- consciousness assessment
+- energy dynamics
+- neural activity patterns
+
 Metabolic processes
 - continuous feedback with electrical and chemical processes
 - role in coherent energy states
@@ -2516,6 +2666,11 @@ Migration
 Mind-body problem
 - ECC's approach to
 
+Mini-brain architectures
+- in social insects
+- information processing capabilities
+- relationship to consciousness
+
 Minimally conscious states
 - fluctuating awareness in
 - partial coherence patterns
@@ -2567,6 +2722,12 @@ Moral reasoning
 - logical consistency
 - patterns of coherence in
 
+Mosaic evolution
+- brain region development
+- consciousness aspects
+- independent lineages
+- neural architecture
+
 Motor control
 - attention schema role in
 - consciousness relationship to
@@ -2590,6 +2751,12 @@ Multiple realizability
 - in coherence-class identity theory
 - in energetic functionalism
 - limitations in computationalism
+
+Multi-modal neural recording
+- coherent energy patterns
+- experimental approaches
+- spatial-temporal scales
+- testing predictions
 
 Multi-layered energy flows
 - in conscious experience
@@ -2673,6 +2840,12 @@ Mutuality of being
 Nagel, Thomas
 - on explanatory gap
 - on first-person experience
+
+Nanoelectronic devices
+- brain mapping
+- neural recording
+- precision measurement
+- technological advances
 
 Narrative construction
 - in consciousness
@@ -2759,6 +2932,12 @@ Neural development
 - relationship to conscious states
 - selective stabilization in
 
+Neural diversity
+- architectural variations
+- consciousness support
+- evolutionary patterns
+- species differences
+
 Neural light cones
 - and altered states of consciousness
 - and causal coherence
@@ -2794,6 +2973,12 @@ Neural networks
 - biological vs artificial
 - traditional focus on information transmission
 
+Neural organization
+- consciousness requirements
+- evolutionary development
+- physical constraints
+- species variations
+
 Neural oscillations
 - maintaining coherent states
 - role in consciousness
@@ -2810,6 +2995,12 @@ Neural plasticity
 - developmental foundations of
 - experience-dependent changes
 - in conscious organization
+
+Neural recording
+- advanced technologies
+- experimental methods
+- multi-modal approaches
+- precision measurement
 
 Neural signal propagation
 - finite speeds of
@@ -2870,6 +3061,11 @@ Neuropil
 - cortical
 - role in consciousness
 
+No-report paradigms
+- consciousness assessment
+- neural correlates
+- validation methods
+
 Noise
 - constructive role in conscious systems
 - suppression in digital systems
@@ -2916,6 +3112,18 @@ Ontological turn
 - practical effectiveness of
 - relationship to experience
 
+Operational measures
+- coherence indices
+- consciousness assessment
+- empirical validation
+- quantitative metrics
+
+Optogenetic approaches
+- causal relationships
+- circuit manipulation
+- experimental investigation
+- neural processing
+
 Orchestrated Objective Reduction (Orch OR)
 - anesthetic effects on
 - comparison with ECC
@@ -2929,6 +3137,12 @@ Organism-environment interaction
 - dynamic coupling in
 - energetic coherence patterns
 - role in perception
+
+Organizational principles
+- consciousness supporting
+- evolutionary development
+- neural architecture
+- species variations
 
 Oscillatory patterns
 - and conscious states
@@ -2945,14 +3159,6 @@ Overlapping light cones
 Oxidative phosphorylation
 - in neural tissues
 - role in consciousness
-
-Oscillatory patterns
-- and conscious states
-- coordination across scales
-- in neural systems
-- relationship to metabolic processes
-- role in energy distribution
-- role in information integration
 
 # P
 
@@ -2983,6 +3189,11 @@ Pain processing
 - coherent representation in
 - interaction with reward systems
 - top-down modulation of
+
+Pallium evolution
+- in birds and reptiles
+- cognitive capabilities
+- neural organization
 
 Panpsychism
 - combination problem in
@@ -3051,6 +3262,12 @@ Personal symbols
 - cultural expression of
 - individual variation in
 - psychological reality of
+
+Phase-locking
+- across brain regions
+- consciousness correlation
+- neural synchronization
+- temporal dynamics
 
 Phenomenological approaches
 - to consciousness
@@ -3435,6 +3652,10 @@ Recovery patterns
 - from consciousness disorders
 - temporal constraints on
 - trajectories of improvement
+- coherence restoration
+- consciousness disorders
+- temporal dynamics
+- therapeutic implications
 
 Recursive coherence bound
 - spatial decay parameters
@@ -3733,6 +3954,12 @@ Single-cell RNA sequencing
 - molecular profiling with
 - revealing cell type specialization
 
+Sleep-wake cycles
+- brain energetics
+- consciousness states
+- energy utilization
+- state transitions
+
 Sleep
 - and consciousness
 - versus death
@@ -3793,10 +4020,22 @@ Social influence
 - patterns of coherence in
 - transmission mechanisms
 
+Social insects
+- collective dynamics
+- cognitive architecture
+- consciousness-like properties
+- navigation capabilities
+
 Social rhythms
 - and neural light cones
 - coordination across scales
 - temporal constraints on
+
+Social signal processing
+- across species
+- behavioral responses
+- information integration
+- neural mechanisms
 
 Social functions
 - of emotion
@@ -3816,6 +4055,11 @@ Soteriological dimension
 - existential meaning in healing
 - practical effectiveness of
 - resistance to reduction
+
+Source localization
+- advanced techniques
+- consciousness mapping
+- neural activity tracking
 
 Spatial boundaries
 - of conscious integration
@@ -3842,11 +4086,22 @@ Spatiotemporal evolution
 - of energy flows
 - interface dynamics
 
+Spatiotemporal correlations
+- coherence patterns
+- consciousness markers
+- neural synchronization
+
 Special monies
 - cultural functions of
 - distinct value domains in
 - patterns of coherence in
 - social relationships through
+
+Species differences
+- brain architecture variations
+- cognitive capabilities
+- consciousness manifestations
+- evolutionary adaptations
 
 Specious present
 - James' concept of
@@ -4050,6 +4305,12 @@ Synaptic homeostasis
 - energy efficiency
 - relationship to consciousness
 
+Synaptic plasticity
+- conscious processing
+- Hebbian mechanisms
+- homeostatic regulation
+- neural circuits
+
 Synchronized activity patterns
 - in neural light cones
 - role in conscious processing
@@ -4188,6 +4449,12 @@ Testable predictions
 - of ECC
 - relationship between energy dynamics and consciousness
 
+Testing methodologies
+- for consciousness theories
+- integration of approaches
+- methodological rigor
+- validation protocols
+
 Tetrachromacy
 - avian color vision
 - enhanced color discrimination in
@@ -4296,6 +4563,12 @@ Third-person scientific description
 Thought experiments
 - paused consciousness
 - temporal gaps in consciousness
+
+Time-series analysis
+- consciousness assessment
+- information integration
+- neural dynamics
+- validation methods
 
 Trance induction
 - progressive stages
