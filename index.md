@@ -178,7 +178,20 @@ ATP
 Attention
 - effect on neural light cone boundaries
 - modulating coding strategies
+- relationship to consciousness
 - role in conscious awareness shifts
+- schema theory perspective
+- social cognition role
+
+Attentional Schema Theory (AST)
+- attention modeling in
+- comparison with ECC
+- computational mechanisms
+- consciousness as attention model
+- evolutionary development
+- mechanistic approach
+- relationship to social cognition
+- role in action control
 
 Autonomic regulation
 - during trance states
@@ -211,7 +224,25 @@ Background energy fluctuations
 - contribution to conscious experience
 - relationship to thermal noise
 
+Bacterial awareness
+- cellular foundations of
+- cognitive capabilities in
+- relationship to consciousness
+
+Bacterial cognition
+- decision-making capabilities
+- information processing in
+- relationship to consciousness
+
 Basal cognition
+- cellular foundations of
+- cognitive capabilities in
+- decision-making processes
+- evolutionary development of
+- information processing in
+- memory mechanisms
+- pattern recognition in
+- relationship to consciousness
 
 Bayesian processing
 
@@ -243,6 +274,17 @@ Binding problem
 - versus computational solutions
 
 Bioelectric fields
+- cellular communication through
+- evolutionary development of
+- in morphogenesis
+- relationship to consciousness
+- role in information processing
+
+Bioelectric signaling
+- cellular implementation of
+- evolutionary foundations of
+- information processing through
+- relationship to consciousness
 
 Biological autonomy
 
@@ -291,12 +333,19 @@ Bodily awareness
 - in trance states
 - interoceptive processing
 - modification during altered states
+- phenomenological aspects of
+- relationship to energetic coherence
 
 Bodily techniques
 - cultural transmission of
 - energetic coherence in
 - physical grounding of
 - stability across generations
+
+Body schema
+- emergence from energetic coherence
+- implicit understanding of capabilities
+- relationship to consciousness
 
 Bottleneck of consciousness
 - contrast with information processing bottlenecks
@@ -397,6 +446,19 @@ Causal relationships
 - relativistic physics analogy
 
 Cellular awareness
+- bioelectric basis of
+- evolutionary foundations
+- primitive consciousness in
+- relationship to neural processing
+
+Cellular cognition
+- computational capabilities
+- decision-making in
+- information processing in
+- membrane dynamics in
+- molecular mechanisms of
+- pattern recognition in
+- relationship to consciousness
 
 Cellular consciousness
 
@@ -418,6 +480,12 @@ Cellular organization
 
 Cellular processes
 - and consciousness
+
+Cemi field theory
+- consciousness electromagnetic information
+- relationship to ECC
+- spatial integration in
+- unified field perspective
 
 Cerebellum
 - exclusion from consciousness
@@ -892,6 +960,11 @@ Cytoarchitecture
 - in Brodmann areas
 - relationship to molecular organization
 
+Cytoelectric coupling
+- field effects in neural tissue
+- role in neural dynamics
+- shaping brain infrastructure
+
 Cytoelectric integration
 - in neural systems
 - role in conscious coherence
@@ -948,6 +1021,13 @@ Dendritic architecture
 - branching patterns
 - fields of integration
 - role in coherent states
+
+Dendritic Integration Theory (DIT)
+- calcium spike mechanisms
+- comparison with ECC
+- cortical layer integration
+- pyramidal neuron role
+- relationship to consciousness
 
 Dendritic morphology
 - role in energetic coherence
@@ -1046,6 +1126,11 @@ Dissipative adaptation
 Dualism
 - contrast with ECC
 
+Dynamic core hypothesis
+- bridging neural integration theories
+- relationship to ECC
+- thalamocortical systems in
+
 Dynamic feedback loops
 - maintaining stability
 - role in adaptive conscious states
@@ -1100,9 +1185,21 @@ Electromagnetic field integration
 - relationship to local field potentials
 - role in consciousness
 
+Electromagnetic field theories
+- binding problem solution
+- comparison with ECC
+- computational approaches
+- empirical evidence for
+- field coherence in
+- global integration through
+- information processing in
+- relationship to consciousness
+- topological approaches to
+
 Electromagnetic fields
 - as substrate for information integration
 - computational capabilities of
+- ephaptic coupling through
 - interference patterns in
 - role in coherent processing
 - role in consciousness
@@ -1124,6 +1221,7 @@ Embodied consciousness
 - energetic perspective on
 - biological constraints on
 - energetic coherence patterns
+- phenomenological foundations of
 - relationship to cultural practices
 
 Embodied functionalism
@@ -1133,11 +1231,18 @@ Embodied knowledge
 - integration with cultural understanding
 - physical basis of
 - resistance to verbal transmission
+- resistance to verbal representation
+- skilled action development
 
 Embodied mind
 - grounding in physical experience
 - relationship to consciousness
 - role in skilled practice
+
+Embodied perception
+- phenomenological foundations
+- primacy in consciousness
+- relationship to energetic coherence
 
 Embodiment
 
@@ -1199,6 +1304,11 @@ Energetic functionalism
 - contrast with computational functionalism
 - implementation in
 - multiple realizability in
+
+Energetic monism
+- as unified view
+- relationship to physical properties
+- relationship to phenomenal properties
 
 Energetic stability
 - and causal connectivity
@@ -1355,7 +1465,10 @@ Epileptic seizures
 
 Ephaptic coupling
 - contribution to conscious processing
+- mesoscopic effects in brain tissue
 - role in neural interactions
+- role in memory formation
+- synchronization mechanisms
 
 Evolution
 - of consciousness
@@ -1465,6 +1578,9 @@ Field consciousness studies
 
 Field effects
 - in neural systems
+- role in conscious processing
+- contribution to neural computation
+- relationship to synchronization
 
 Field dynamics
 - interconnected nature of
@@ -1486,6 +1602,16 @@ Finite algorithms
 First-person experience
 - irreducibility of
 - relationship to third-person description
+
+First-order experience
+- relationship to higher-order states
+- role in consciousness
+- versus meta-representation
+
+First-order mental states
+- and higher-order representation
+- relationship to consciousness
+- versus meta-cognitive processes
 
 Flexible citizenship
 - cognitive demands of
@@ -1593,6 +1719,16 @@ Globalization
 - patterns of coherence in
 - relationship to local contexts
 
+Global broadcast
+- contrast with energetic coherence
+- in GWT framework
+- physical basis in ECC
+
+Global integration
+- broadcast mechanisms
+- energetic coherence in
+- physical constraints on
+
 Global light cone
 - as broader field of conscious integration
 - from overlapping light cones
@@ -1613,9 +1749,19 @@ Global unity
 - partial illusoriness of
 - versus local coherence
 
-Global Workspace Theory
+Global Workspace Theory (GWT)
 - contrast with field-like consciousness
 - physical limitations of
+- broadcast architecture of
+- comparison with ECC
+- computational implementations
+- consciousness capacity limitations
+- experimental evidence for
+- information processing focus
+- mathematical treatments of
+- network science extensions
+- relationship to attention
+- temporal structure in
 
 Glucose metabolism
 - regulation in neural tissues
@@ -1680,6 +1826,28 @@ Hemispheric neglect
 
 Hermeneutics
 
+Higher-order access
+- bottleneck effects
+- meta-representational capacity
+- relationship to consciousness
+
+Higher Order Theory (HOT)
+- comparison with ECC
+- consciousness architecture in
+- meta-representational requirements
+- relationship to self-awareness
+- temporal aspects of
+
+Higher-order awareness
+- attention relationship to
+- emotional consciousness and
+- relationship to confidence
+
+Higher-order representation
+- contrast with ECC
+- hierarchical structure of
+- relationship to consciousness
+
 Hierarchical structure
 - in ECC commitments
 - of conscious organization
@@ -1728,6 +1896,14 @@ Hybrid systems
 
 Identity theories
 - relationship to ECC
+
+Illusionism
+- consciousness as user interface
+- contrast with ECC
+- meta-cognitive processes in
+- meta-problem perspective
+- phenomenal properties in
+- relationship to physical dynamics
 
 Implementation
 - in computational functionalism
@@ -1784,6 +1960,19 @@ Information integration
 - physical constraints on
 - speed limitations of
 - thermodynamic constraints on
+
+Information integration
+- contrast with energetic coherence
+- IIT's perspective on
+- limitations for consciousness
+- relationship to physical systems
+- comparison with ECC
+- consciousness measures in
+- information integration in
+- mathematical framework of
+- Phi measure in
+- relationship to panpsychism
+- substrate independence in
 
 Information processing
 - achieved while respecting physical constraints
@@ -1957,6 +2146,13 @@ Lateral organization
 - in cell membranes
 - role in neural signaling
 - relationship to protein function
+
+Layer 5 pyramidal neurons
+- apical dendrites in
+- calcium spike generation
+- coincidence detection
+- computational capabilities
+- conscious processing role
 
 Learning
 - computational limitations in explaining
@@ -2208,8 +2404,11 @@ Mechanotransduction
 Membrane dynamics
 - and consciousness
 - in neural processing
+- bioelectric properties
+- information processing role
 - relationship to consciousness
 - role in information processing
+- role in cellular cognition
 
 Membrane fluidity
 - role in protein organization
@@ -2259,6 +2458,28 @@ Metabolic processes
 
 Metabolism
 - and consciousness
+
+Meta-cognitive processes
+- and consciousness
+- emergence from coherence
+- relationship to experience
+- and consciousness development
+- relationship to confidence judgments
+- role in learning
+
+Meta-level processing
+- contrast with energetic coherence
+- role in consciousness
+
+Meta-representation
+- contrast with energetic coherence
+- in self-representational theory
+- relationship to consciousness
+
+Meta-problem of consciousness
+- ECC perspective on
+- illusionist approach to
+- relationship to phenomenal properties
 
 Metastability
 - in brain dynamics
@@ -2346,10 +2567,23 @@ Moral reasoning
 - logical consistency
 - patterns of coherence in
 
+Motor control
+- attention schema role in
+- consciousness relationship to
+- physical dynamics of
+- relationship to awareness
+
 Motor proteins
 - coordinated action of
 - intracellular transport by
 - role in energy distribution
+
+Multiple Drafts theory
+- competition between content streams
+- contrast with unified consciousness
+- parallel processing in
+- relationship to ECC
+- temporal aspects of
 
 Multiple realizability
 - constrained view in ECC
@@ -2440,6 +2674,11 @@ Nagel, Thomas
 - on explanatory gap
 - on first-person experience
 
+Narrative construction
+- in consciousness
+- relationship to memory
+- role in temporal experience
+
 Narrative understanding
 - coherence across time
 - meaning-making processes
@@ -2501,6 +2740,11 @@ Neural architecture
 - relationship to consciousness
 - role in meaning systems
 - shared across cultures
+
+Neural broadcast
+- energetic interpretation of
+- information flow in
+- physical mechanisms of
 
 Neural computation
 - complemented by energetic coherence
@@ -2573,6 +2817,10 @@ Neural signal propagation
 - speed constraints on conscious integration
 
 Neural synchronization
+- electromagnetic field role in
+- ephaptic coupling mechanisms
+- relationship to consciousness
+- temporal coordination through
 - excessive patterns in seizures
 - relationship to consciousness
 - role in information integration
@@ -2645,6 +2893,12 @@ Non-substrate-independence
 - in conscious systems
 - relationship to physical embodiment
 
+Non-synaptic transmission
+- electromagnetic field role
+- ephaptic coupling in
+- information processing through
+- relationship to consciousness
+
 # O
 
 Ontological schemas
@@ -2661,6 +2915,20 @@ Ontological turn
 - coherence patterns across domains
 - practical effectiveness of
 - relationship to experience
+
+Orchestrated Objective Reduction (Orch OR)
+- anesthetic effects on
+- comparison with ECC
+- decoherence challenges
+- microtubule role in
+- quantum computations in
+- relationship to consciousness
+
+Organism-environment interaction
+- consciousness emergence from
+- dynamic coupling in
+- energetic coherence patterns
+- role in perception
 
 Oscillatory patterns
 - and conscious states
@@ -2715,6 +2983,18 @@ Pain processing
 - coherent representation in
 - interaction with reward systems
 - top-down modulation of
+
+Panpsychism
+- combination problem in
+- comparison with ECC
+- consciousness as fundamental in
+- contrast with ECC
+- relationship to IIT
+
+Parallel processing
+- in Multiple Drafts theory
+- relationship to conscious unity
+- versus serial integration
 
 Participatory consciousness
 - as coherent state
@@ -2771,6 +3051,12 @@ Personal symbols
 - cultural expression of
 - individual variation in
 - psychological reality of
+
+Phenomenological approaches
+- to consciousness
+- to embodied experience
+- relationship to physical mechanisms
+- bridging with neuroscience
 
 Phenomenology
 - bridging with neuroscience
@@ -2925,6 +3211,28 @@ Power relations
 - social coordination through
 
 Predictive processing
+- hierarchical models of
+- integration with GWT
+- Bayesian inference in
+- comparison with ECC
+- free energy principle in
+- hierarchical architecture of
+- interoceptive predictions in
+- mathematical formalization of
+- precision-weighting in
+- relationship to consciousness
+- relationship to embodied cognition
+
+Prediction
+- as coherent energy states
+- biological implementation of
+- relationship to conscious experience
+- role in perception
+
+Precision-weighting
+- in predictive processing
+- relationship to coherence patterns
+- role in conscious processing
 
 Primary sensory areas
 - topographic organization
@@ -3013,6 +3321,14 @@ Psychointegrator states
 Psychological phenomena
 - novel interpretations through ECC
 
+Pyramidal neurons
+- calcium spike generation
+- coincidence detection mechanisms
+- cortical integration role
+- dendritic architecture of
+- layer organization of
+- relationship to consciousness
+
 # Q
 
 Qualia
@@ -3025,6 +3341,11 @@ Quantum coherence
 - environmental sensitivity of
 - fragility in conscious systems
 - limitations for consciousness
+- decoherence timescales
+- in biological systems
+- in microtubules
+- maintenance challenges
+- relationship to consciousness
 
 Quantum computing
 - computational capabilities of
@@ -3036,7 +3357,11 @@ Quantum effects
 - contrast with classical processing
 - limitations for consciousness
 - potential role in coherent processes
+- in biological systems
+- in microtubules
 - relationship to consciousness
+- superradiance in proteins
+- terahertz oscillations
 
 Quantum entanglement
 - computational power of
@@ -3053,6 +3378,19 @@ Quantum states
 - environmental sensitivity
 - fragility at biological scales
 - limitations for consciousness
+
+Quantum biology
+- biological quantum effects
+- in photosynthesis
+- magnetic sensing mechanisms
+- relationship to consciousness
+
+Quantum consciousness theories
+- critique of
+- decoherence challenges
+- Orch OR theory
+- philosophical implications
+- relationship to ECC
 
 # R
 
@@ -3103,6 +3441,11 @@ Recursive coherence bound
 - time-dependent thresholds
 - constraints on conscious integration
 
+Recursive feedback
+- in conscious processing
+- maintaining coherent states
+- role in confidence judgments
+
 Recursive stability
 - convergence properties
 - in coherence conditions
@@ -3120,6 +3463,22 @@ Recursive update function
 - neighborhood relationships
 - convergence properties
 - role in conscious coherence
+
+Recurrent Processing Theory (RPT)
+- comparison with ECC
+- empirical evidence for
+- feedback mechanisms in
+- local versus global processing
+- neural architecture requirements
+- relationship to attention
+- temporal dynamics of
+
+Recurrent processing
+- and conscious perception
+- contrast with feedforward processing
+- feedback connections in
+- role in consciousness
+- temporal requirements for
 
 Regional brain waves
 - relationship to consciousness
@@ -3285,6 +3644,11 @@ Self-development
 - relationship to consciousness
 - social foundations of
 
+Self-representational theory
+- comparison with ECC
+- immediate self-awareness in
+- temporal structure of
+
 Semiotics
 
 Sensory experience
@@ -3392,6 +3756,19 @@ Skilled practice
 - integration of intuition and technique
 - perceptual development in
 - physical grounding of
+- relationship to consciousness
+
+Social awareness
+- attention schema role in
+- coherence patterns in
+- physical mechanisms of
+- resonance between brains
+
+Social cognition
+- attention schema role in
+- coherent energy dynamics in
+- physical basis of
+- relationship to consciousness
 
 Social context
 - in trance practices
@@ -3449,6 +3826,12 @@ Spatial decay of coherence
 - exponential falloff with distance
 - relationship to conscious integration
 
+Spatial integration
+- electromagnetic field role
+- in conscious processing
+- mechanisms of
+- relationship to binding
+
 Spatial transcriptomics
 - revealing molecular organization across brain regions
 - supporting rich alphabet concept
@@ -3464,6 +3847,11 @@ Special monies
 - distinct value domains in
 - patterns of coherence in
 - social relationships through
+
+Specious present
+- James' concept of
+- relationship to temporal binding
+- temporal integration in
 
 Speculative psychology
 
@@ -3558,6 +3946,11 @@ Substrate-independence
 
 Subliminal perception
 - in dimensionality reduction framework
+
+Substrate independence
+- in IIT
+- limitations of
+- relationship to consciousness
 
 Superposition
 - in quantum systems
@@ -3729,6 +4122,8 @@ Temporality
 Temporal binding
 - bridging discrete neural events
 - in diachronic unity
+- physical constraints on
+- relationship to specious present
 
 Temporal boundaries
 - of conscious integration
