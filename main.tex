@@ -11,6 +11,7 @@
 % Stars are appreciated.
 
 \documentclass{novella}
+\usepackage{tocloft}
 \usepackage{imakeidx}
 \usepackage{amssymb}
 \usepackage{amsmath}
@@ -41,6 +42,13 @@
   \clearfield{url}%
   \clearfield{doi}%
   \clearfield{isbn}%
+}
+
+% Create a list of equations
+\newcommand{\listequationname}{List of Equations}
+\newlistof{myequations}{equ}{\listequationname}
+\newcommand{\myequation}[1]{%
+  \addcontentsline{equ}{myequations}{\protect\numberline{\theequation}#1}%
 }
 
 \addbibresource{references/0000_references.bib}
@@ -82,13 +90,15 @@
 \input{00_dedication}
 
 \tableofcontents
+\clearpage
 \listoffigures
+\tableofcontents
+\clearpage
 \listoftables
-
-% List of Equations
-%\h*{List of Equations}
-%\addcontentsline{toc}{section}{\listequationname}
-%\listoflistequations
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listequationname}
+\listofmyequations
 
 \mainmatter
 
