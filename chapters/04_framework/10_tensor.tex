@@ -2,11 +2,20 @@
 
 The stress-energy tensor $T\mu\nu$ describes the flow and distribution of energy-momentum within conscious systems. For our purposes, we decompose it into subsystem-specific components\index{stress-energy tensor!subsystem-specific components of}:
 
-$T_{\mu\nu} = T_{\mu\nu}^{(EM)} + T_{\mu\nu}^{(chem)} + T_{\mu\nu}^{(mech)} + T_{\mu\nu}^{(int)}$\index{stress-energy tensor!decomposition into electromagnetic, chemical, mechanical, and interaction terms}
+\begin{equation}
+    T_{\mu\nu} = T_{\mu\nu}^{(EM)} + T_{\mu\nu}^{(chem)} + T_{\mu\nu}^{(mech)} + T_{\mu\nu}^{(int)}
+    \myequation{Stress-energy tensor decomposition for conscious systems}
+    \label{eq:stress_energy_decomposition}
+\end{equation}
+\index{stress-energy tensor!decomposition into electromagnetic, chemical, mechanical, and interaction terms}
 
 where the superscripts denote electromagnetic, chemical, mechanical, and interaction terms respectively. The Jacobian\index{jacobian of stress-energy tensor} of this tensor, $\partial_\sigma T_{\mu\nu}$, captures how energy flows\index{energy flows!analyzing with stress-energy tensor} change across space and time:
 
-$\partial_\sigma T_{\mu\nu} = \frac{\partial T_{\mu\nu}}{\partial x^\sigma}$
+\begin{equation}
+    \partial_\sigma T_{\mu\nu} = \frac{\partial T_{\mu\nu}}{\partial x^\sigma}
+    \myequation{Jacobian of the stress-energy tensor capturing energy flow changes}
+    \label{eq:jacobian_stress_energy}
+\end{equation}
 
 This framework allows us to track energy flow patterns essential for conscious processing while maintaining compatibility with the sheaf-theoretic structure\index{sheaf theory!compatibility with stress-energy tensor} previously described.
 
@@ -14,10 +23,14 @@ This framework allows us to track energy flow patterns essential for conscious p
 
 The Jacobian of the stress-energy tensor provides a mathematical framework\index{mathematical formalism!in ECC} for tracking how conscious processing emerges from coordinated energy flows\index{energy flows!and consciousness}. For each point $x$ in the brain's neural architecture, we can express the full dynamics through:
 
-$\partial_\sigma T_{\mu\nu}(x) = \begin{pmatrix} 
-\frac{\partial T_{00}}{\partial t} & \frac{\partial T_{0i}}{\partial t} & \frac{\partial T_{0j}}{\partial t} \\[1em]
-\frac{\partial T_{i0}}{\partial x^k} & \frac{\partial T_{ij}}{\partial x^k} & \frac{\partial T_{ij}}{\partial x^l}
-\end{pmatrix}$
+\begin{equation}
+    \partial_\sigma T_{\mu\nu}(x) = \begin{pmatrix} 
+    \frac{\partial T_{00}}{\partial t} & \frac{\partial T_{0i}}{\partial t} & \frac{\partial T_{0j}}{\partial t} \\[1em]
+    \frac{\partial T_{i0}}{\partial x^k} & \frac{\partial T_{ij}}{\partial x^k} & \frac{\partial T_{ij}}{\partial x^l}
+    \end{pmatrix}
+    \myequation{Matrix form of the stress-energy tensor Jacobian}
+    \label{eq:matrix_jacobian}
+\end{equation}
 
 where each component describes specific aspects of conscious computation:
 
@@ -32,7 +45,12 @@ where each component describes specific aspects of conscious computation:
 2. Subsystem-Specific Terms:
 For each subsystem $\alpha$ (electromagnetic, chemical, mechanical), we have:
 
-$\partial_\sigma T_{\mu\nu}(\alpha) + \sum_\beta C_{\mu\nu}(\alpha,\beta) = J_{\mu\nu}(\alpha)$\index{stress-energy tensor!coupling terms between subsystems}
+\begin{equation}
+    \partial_\sigma T_{\mu\nu}(\alpha) + \sum_\beta C_{\mu\nu}(\alpha,\beta) = J_{\mu\nu}(\alpha)
+    \myequation{Subsystem coupling equation with source terms}
+    \label{eq:subsystem_coupling}
+\end{equation}
+\index{stress-energy tensor!coupling terms between subsystems}
 
 \text{where:}
 \begin{itemize}

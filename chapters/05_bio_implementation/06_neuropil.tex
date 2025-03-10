@@ -11,7 +11,11 @@ The \index{neuropil}neuropil represents the brain's primary substrate for mainta
 
 To model \index{energetic coherence}energetic coherence in the neuropil, we can employ the \index{stress-energy tensor}Jacobian of the stress-energy tensor with specific coupling terms that capture interactions between different components:
 
-$\partial_\sigma T_{\mu\nu}(x) = \sum_i J_i(x) + \sum_{j,k} C_{jk}(x)$
+\begin{equation}
+\partial_\sigma T_{\mu\nu}(x) = \sum_i J_i(x) + \sum_{j,k} C_{jk}(x)
+\myequation{Stress-energy tensor for neuropil dynamics}
+\label{eq:neuropil_stress_energy}
+\end{equation}
 
 \text{Where:}
 \begin{itemize}
@@ -23,7 +27,11 @@ $\partial_\sigma T_{\mu\nu}(x) = \sum_i J_i(x) + \sum_{j,k} C_{jk}(x)$
 
 This organization creates the conditions necessary for sustained \index{coherent states}coherent states through the precise balance of \index{energy flows}energy flows across multiple scales \cite{Mishchenko2010, breakspear2005dynamics}. When we examine the \index{temporal dynamics}temporal evolution of these states, we can represent the dynamics using a modified form of the \index{stress-energy tensor}stress-energy tensor's Jacobian that incorporates both spatial and \index{spatiotemporal evolution}temporal derivatives:
 
-$\partial_\sigma\partial_\tau T_{\mu\nu} = \sum_i \partial_\sigma J_i + \sum_{j,k} \partial_\tau C_{jk} + I_{\mu\nu}$
+\begin{equation}
+\partial_\sigma\partial_\tau T_{\mu\nu} = \sum_i \partial_\sigma J_i + \sum_{j,k} \partial_\tau C_{jk} + I_{\mu\nu}
+\myequation{Spatiotemporal evolution of neuropil energy states}
+\label{eq:neuropil_evolution}
+\end{equation}
 
 \text{Where:}
 \begin{itemize}
@@ -39,7 +47,11 @@ This constraint ensures smooth transitions between adjacent domains while mainta
 
 1. \index{local field dynamics}Local Field Dynamics:
 
-$\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon}$
+\begin{equation}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon}
+\myequation{Local field dynamics in neuropil (Gauss's law)}
+\label{eq:neuropil_field}
+\end{equation}
 
 \text{Where:}
 \begin{itemize}
@@ -50,7 +62,11 @@ $\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon}$
 
 2. \index{wave propagation}Wave Propagation:
 
-$(\nabla^2 - \frac{1}{v^2}\frac{\partial^2}{\partial t^2})\psi = 0$
+\begin{equation}
+(\nabla^2 - \frac{1}{v^2}\frac{\partial^2}{\partial t^2})\psi = 0
+\myequation{Wave propagation equation for coherent states in neuropil}
+\label{eq:neuropil_wave}
+\end{equation}
 
 \text{Where:}
 \begin{itemize}

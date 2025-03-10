@@ -15,12 +15,18 @@ For any two overlapping regions $U$ and $V$, the sheaf includes \index{sheaf the
 \rho U \cap V: \mathcal{F}(U) \rightarrow \mathcal{F}(U \cap V)
 \\
 \rho V \cap U: \mathcal{F}(V) \rightarrow \mathcal{F}(U \cap V)
+\myequation{Sheaf theory restriction maps for conscious states}
+\label{eq:sheaf_restriction}
 \end{align}
 
 
 These maps must satisfy the crucial \index{sheaf theory!compatibility conditions in}compatibility condition that for any sections $s \in \mathcal{F}(U)$ and $t \in \mathcal{F}(V)$:
 
-$\rho U \cap V(s) = \rho V \cap U(t)$ on $U \cap V$
+\begin{equation}
+\rho_{U \cap V}(s) = \rho_{V \cap U}(t) \text{ on } U \cap V
+\myequation{Sheaf theory compatibility condition for conscious states}
+\label{eq:sheaf_compatibility}
+\end{equation}
 
 This compatibility ensures that local coherent states "glue" together properly across regional boundaries. The sheaf structure thus formalizes how consciousness maintains both local specialization and global integration through coherent \index{sheaf theory!gluing conditions for consciousness}gluing conditions. These conditions can be expressed through diagrams:
 
@@ -52,7 +58,11 @@ $\rho_{U \cap V \cap W}(s_U) = \allowbreak \rho_{V \cap W \cap U}(s_V) = \allowb
 
 These conditions ensure \index{sheaf theory!hierarchical coherence stability}hierarchical coherence stability. The framework introduces a \index{sheaf theory!coherence measure in}coherence measure $\mu$ that quantifies the degree of alignment between local sections:
 
-$\mu(s_U, s_V) = \int_{U \cap V} \|\rho_{U \cap V}(s_U) - \rho_{V \cap U}(s_V)\|^2 \,d\nu$
+\begin{equation}
+\mu(s_U, s_V) = \int_{U \cap V} \|\rho_{U \cap V}(s_U) - \rho_{V \cap U}(s_V)\|^2 \,d\nu
+\myequation{Coherence measure for alignment between local sections}
+\label{eq:coherence_measure}
+\end{equation}
 
 where $d\nu$ represents an appropriate measure on the overlap region. Conscious processing requires that $\mu$ remains below certain thresholds determined by the brain's energetic constraints.
 
