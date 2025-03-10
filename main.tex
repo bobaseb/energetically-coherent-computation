@@ -51,6 +51,11 @@
   \addcontentsline{equ}{myequations}{\protect\numberline{\theequation}#1}%
 }
 
+% Remove page numbers from lists in TOC
+\cftpagenumbersoff{figure}
+\cftpagenumbersoff{table}
+\cftpagenumbersoff{myequations}
+
 \addbibresource{references/0000_references.bib}
 \addbibresource{references/0001_1_foundations.bib}
 \addbibresource{references/0001_2_theoretical.bib}
@@ -79,6 +84,8 @@
 \renewcommand{\bibname}{} % For the article class, redefine the name
 \renewcommand{\refname}{} % If "References" is still appearing
 
+\frontmatter
+
 \newpage
 
 \section*{\phantom{Part 0 Copyright}}
@@ -92,7 +99,6 @@
 \tableofcontents
 \clearpage
 \listoffigures
-\tableofcontents
 \clearpage
 \listoftables
 \clearpage
