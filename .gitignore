@@ -3,6 +3,7 @@
 *.log
 *.bbl
 *.blg
+*.equ
 *.brf
 *.dvi
 *.lof
