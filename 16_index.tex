@@ -6,15 +6,15 @@
 % wrapper command to avoid clear page from \printindex
 \let\originalprintindex\printindex
 \renewcommand{\printindex}{%
-  \begingroup
-  \let\clearpage\relax
-  \let\cleardoublepage\relax
-  \originalprintindex
-  \endgroup
+    \begingroup
+    \let\clearpage\relax
+    \let\cleardoublepage\relax
+    \originalprintindex
+    \endgroup
 }
 
 \printindex
 
 % Cursor commands
 % please add relevant index terms, if any, from the tex file to the index.md file respecting alphabetical order (do NOT remove any existing index terms from the index.md file)
-% now please \index{} the tex file based on the index.md file
+% now please\index{} the tex file based on the index.md file

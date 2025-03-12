@@ -30,6 +30,7 @@
 
 # Temporary files
 *.bak
+*.bak*
 *.backup
 *.tmp
 *.sav
