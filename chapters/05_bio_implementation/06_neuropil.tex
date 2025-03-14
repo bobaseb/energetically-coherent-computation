@@ -1,42 +1,42 @@
 \section{Neuropil Modeling}
 
-The~\index{neuropil}neuropil represents the brain's primary substrate for maintaining~\index{coherent states}coherent conscious states, integrating~\index{cellular networks}cellular networks~\index{extracellular matrix}ECM, and interstitial space into a unified functional domain. This dense meshwork of neural processes (including~\index{dendritic architecture}dendrites and their spines), glial elements, and extracellular structures creates an ideal medium for supporting organized~\index{energy flows}energy flows and~\index{information integration}information integration~\cite{Kasthuri2015, Mishchenko2010}.
+The~\index{neuropil}neuropil represents the brain's primary substrate for maintaining~\index{coherent states}coherent conscious states, integrating~\index{cellular networks}cellular networks,\index{extracellular matrix}ECM, and interstitial space into a unified functional domain. This dense meshwork of neural processes (including~\index{dendritic architecture}dendrites and their spines), glial elements, and extracellular structures creates an ideal medium for supporting organized~\index{energy flows}energy flows and~\index{information integration}information integration~\cite{Kasthuri2015, Mishchenko2010}.
 
 \begin{figure}[h]
-  \centering
-  \includegraphics[width=0.8\textwidth]{neuropil.png}
+    \centering
+    \includegraphics[width=0.8\textwidth]{neuropil.png}
 
-  \caption{The neuropil is the most tangled layer of the~\index{cortical sheet}cortical sheet}
+    \caption{The neuropil is the most tangled layer of the~\index{cortical sheet}cortical sheet}
 \end{figure}
 
 To model~\index{energetic coherence}energetic coherence in the neuropil, we can employ the~\index{stress-energy tensor}Jacobian of the stress-energy tensor with specific coupling terms that capture interactions between different components:
 
 \begin{equation}
-  \partial_\sigma T_{\mu\nu}(x) = \sum_i J_i(x) + \sum_{j,k} C_{jk}(x)
-  \myequation{Stress-energy tensor for neuropil dynamics}
-  \label{eq:neuropil_stress_energy}
+    \partial_\sigma T_{\mu\nu}(x) = \sum_i J_i(x) + \sum_{j,k} C_{jk}(x)
+    \myequation{Stress-energy tensor for neuropil dynamics}
+    \label{eq:neuropil_stress_energy}
 \end{equation}
 
 \text{Where:}
 \begin{itemize}
-  \item $T_{\mu\nu}$ represents the stress-energy tensor for the neuropil
-  \item $J_i$ captures local energy flows within specific components
-  \item $C_{jk}$ represents coupling terms between different elements
-  \item $x$ denotes position within the neuropil space
+    \item $T_{\mu\nu}$ represents the stress-energy tensor for the neuropil
+    \item $J_i$ captures local energy flows within specific components
+    \item $C_{jk}$ represents coupling terms between different elements
+    \item $x$ denotes position within the neuropil space
 \end{itemize}
 
 This organization creates the conditions necessary for sustained~\index{coherent states}coherent states through the precise balance of~\index{energy flows}energy flows across multiple scales~\cite{Mishchenko2010, breakspear2005dynamics}. When we examine the~\index{temporal dynamics}temporal evolution of these states, we can represent the dynamics using a modified form of the~\index{stress-energy tensor}stress-energy tensor's Jacobian that incorporates both spatial and~\index{spatiotemporal evolution}temporal derivatives:
 
 \begin{equation}
-  \partial_\sigma\partial_\tau T_{\mu\nu} = \sum_i \partial_\sigma J_i + \sum_{j,k} \partial_\tau C_{jk} + I_{\mu\nu}
-  \myequation{Spatiotemporal evolution of neuropil energy states}
-  \label{eq:neuropil_evolution}
+    \partial_\sigma\partial_\tau T_{\mu\nu} = \sum_i \partial_\sigma J_i + \sum_{j,k} \partial_\tau C_{jk} + I_{\mu\nu}
+    \myequation{Spatiotemporal evolution of neuropil energy states}
+    \label{eq:neuropil_evolution}
 \end{equation}
 
 \text{Where:}
 \begin{itemize}
-  \item $\partial_\sigma\partial_\tau$ represents the spatiotemporal evolution
-  \item $I_{\mu\nu}$ captures interface terms between adjacent regions
+    \item $\partial_\sigma\partial_\tau$ represents the spatiotemporal evolution
+    \item $I_{\mu\nu}$ captures interface terms between adjacent regions
 \end{itemize}
 
 The~\index{interface dynamics}interface terms are particularly important for understanding how coherent states propagate through the neuropil~\cite{Doron2017, Beniaguev2021}. These terms must satisfy certain continuity conditions:
@@ -48,30 +48,30 @@ This constraint ensures smooth transitions between adjacent domains while mainta
 1.\index{local field dynamics}Local Field Dynamics:
 
 \begin{equation}
-  \nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon}
-  \myequation{Local field dynamics in neuropil (Gauss's law)}
-  \label{eq:neuropil_field}
+    \nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon}
+    \myequation{Local field dynamics in neuropil (Gauss's law)}
+    \label{eq:neuropil_field}
 \end{equation}
 
 \text{Where:}
 \begin{itemize}
-  \item $\mathbf{E}$ represents local field strength
-  \item $\rho$ captures charge density
-  \item $\varepsilon$ reflects local permittivity~\cite{Savtchenko2014, hunt2024electromagnetic}
+    \item $\mathbf{E}$ represents local field strength
+    \item $\rho$ captures charge density
+    \item $\varepsilon$ reflects local permittivity~\cite{Savtchenko2014, hunt2024electromagnetic}
 \end{itemize}
 
 2.\index{wave propagation}Wave Propagation:
 
 \begin{equation}
-  (\nabla^2 - \frac{1}{v^2}\frac{\partial^2}{\partial t^2})\psi = 0
-  \myequation{Wave propagation equation for coherent states in neuropil}
-  \label{eq:neuropil_wave}
+    (\nabla^2 - \frac{1}{v^2}\frac{\partial^2}{\partial t^2})\psi = 0
+    \myequation{Wave propagation equation for coherent states in neuropil}
+    \label{eq:neuropil_wave}
 \end{equation}
 
 \text{Where:}
 \begin{itemize}
-  \item $\psi$ represents the~\index{wave function}wave function
-  \item $v$ is the propagation velocity in the medium~\cite{Arbib1998, pinotsis2023cytoelectric}
+    \item $\psi$ represents the~\index{wave function}wave function
+    \item $v$ is the propagation velocity in the medium~\cite{Arbib1998, pinotsis2023cytoelectric}
 \end{itemize}
 
 These equations describe how the neuropil supports both~\index{standing waves}standing waves and propagating disturbances while maintaining coherent states. The solution space is constrained by the physical properties of the neuropil~\cite{Peters1991, Sykova2008}.
@@ -79,15 +79,15 @@ These equations describe how the neuropil supports both~\index{standing waves}st
 These constraints help ensure that~\index{energy flows}energy flows remain within bounds that support conscious processing while allowing for dynamic responses to changing conditions~\cite{Sorra2000, Verkhratsky2018}. The neuropil thus emerges as the critical substrate for implementing~\index{ECC!principles}ECC's principles, providing both the physical structure and dynamic properties necessary for maintaining coherent conscious states.
 
 \begin{figure}[h]
-  \centering
-  \includegraphics[width=0.8\textwidth]{images/neuropil2.png}
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/neuropil2.png}
 
-  \caption{Typical neuron of the neuropil.}
+    \caption{Typical neuron of the neuropil.}
 \end{figure}
 
 The~\index{neuropil}neuropil represents a critical domain for understanding how~\index{consciousness}conscious states emerge from neural organization, as it provides the physical substrate where~\index{energetic coherence}energetic coherence manifests at multiple scales~\cite{Ventura1999, breakspear2005dynamics}. This dense mesh of neural processes, glial extensions, and~\index{extracellular matrix}extracellular matrix creates the conditions necessary for maintaining coherent energy states while enabling dynamic~\index{information processing}information processing. Understanding how these components interact within the neuropil proves essential for any complete theory of consciousness.
 
-The significance of neuropil organization extends beyond traditional connectionist approaches that focus primarily on~\index{synaptic connections}synaptic connections between neurons~\cite{Kasthuri2015, Beniaguev2021}. Within this intricate space, multiple modes of communication operate simultaneously, including~\index{volume transmission}volume transmission~\index{ephaptic coupling}ephaptic coupling, and~\index{field effects}field effects that influence neural activity through non-synaptic mechanisms. These various forms of interaction create a rich landscape of possible states that supports both local processing and global integration of neural activity.
+The significance of neuropil organization extends beyond traditional connectionist approaches that focus primarily on~\index{synaptic connections}synaptic connections between neurons~\cite{Kasthuri2015, Beniaguev2021}. Within this intricate space, multiple modes of communication operate simultaneously, including~\index{volume transmission}volume transmission,\index{ephaptic coupling}ephaptic coupling, and~\index{field effects}field effects that influence neural activity through non-synaptic mechanisms. These various forms of interaction create a rich landscape of possible states that supports both local processing and global integration of neural activity.
 
 The physical properties of the neuropil prove particularly crucial for maintaining~\index{energetic coherence}energetic coherence~\cite{Korogod2015, Sykova2008}. Its precise spatial organization enables the establishment of stable field patterns while allowing for rapid reconfiguration based on computational demands. The density and arrangement of cellular processes within the neuropil create conditions that support~\index{wave propagation}wave propagation while maintaining boundaries between different functional domains~\cite{Arbib1998, pinotsis2023vivo}. This balanced organization enables both segregation and integration of neural processing.
 
