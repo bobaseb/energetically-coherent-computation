@@ -1,6 +1,6 @@
 \section{Mathematical Details}
 
-1.\index{sheaf theory}{Sheaf-Theoretic} Foundations
+1.~\index{sheaf theory}{Sheaf-Theoretic} Foundations
 
 Let $(X,\tau)$ be the topological space representing the~\index{cortical sheet} cortical sheet. For each open set $U \in \tau$, we define a~\index{sheaf theory} sheaf $\mathcal{F}$ that assigns:
 
@@ -18,12 +18,12 @@ $\|s|_{U \cap V} - t|_{U \cap V}\| \leq \varepsilon(\mu(U,V))$
 
 \text{where:}
 \begin{itemize}
-    \item $\mu(U,V)$ measures the ``distance" between regions
-    \item $\varepsilon(\cdot)$ is a monotonically increasing function
-    \item $\|\cdot\|$ is an appropriate norm on the space of sections
+  \item $\mu(U,V)$ measures the ``distance" between regions
+  \item $\varepsilon(\cdot)$ is a monotonically increasing function
+  \item $\|\cdot\|$ is an appropriate norm on the space of sections
 \end{itemize}
 
-2.\index{stress-energy tensor} Stress-Energy Tensor Framework
+2.~\index{stress-energy tensor} Stress-Energy Tensor Framework
 
 The full stress-energy tensor takes the form:
 
@@ -31,12 +31,12 @@ $T_{\mu\nu} = \sum_i \alpha_i(x)T^{(i)}_{\mu\nu} + \sum_{i,j} \beta_{ij}(x)C^{(i
 
 \text{where:}
 \begin{itemize}
-    \item $T^{(i)}_{\mu\nu}$ represents individual subsystem contributions
-    \item $C^{(i,j)}_{\mu\nu}$ captures~\index{coupling and interface terms} coupling terms
-    \item $\alpha_i(x)$, $\beta_{ij}(x)$ are position-dependent weighting functions
+  \item $T^{(i)}_{\mu\nu}$ represents individual subsystem contributions
+  \item $C^{(i,j)}_{\mu\nu}$ captures~\index{coupling and interface terms} coupling terms
+  \item $\alpha_i(x)$, $\beta_{ij}(x)$ are position-dependent weighting functions
 \end{itemize}
 
-3.\index{triangulation} Triangulation and~\index{mutual recursion} Recursive Dynamics
+3.~\index{triangulation} Triangulation and~\index{mutual recursion} Recursive Dynamics
 
 The triangulation operator $T$ acting on three regions $A$,$B$,$C$ must satisfy:
 
@@ -54,7 +54,7 @@ $R^{(n+1)}(x) = F[\{R^{(n)}(y)\}_{y \in N(x)}]$
 with convergence condition:
 $\lim_{n \rightarrow \infty} \|R^{(n+1)} - R^{(n)}\| = 0$
 
-4.\index{interface dynamics} Interface and~\index{energy coupling} Coupling Terms
+4.~\index{interface dynamics} Interface and~\index{energy coupling} Coupling Terms
 
 For interfaces between regions $\Omega_1$,$\Omega_2$, the boundary terms take the form:
 
@@ -70,12 +70,12 @@ $C_{\mu\nu}(i,j) = \gamma_{ij}[\partial_\mu\phi_i\partial_\nu\phi_j - \tfrac{1}{
 
 \text{where:}
 \begin{itemize}
-    \item $\phi_i,\phi_j$ are field variables
-    \item $\gamma_{ij}$ is the coupling strength
-    \item $g_{\mu\nu}$ is the metric tensor
+  \item $\phi_i,\phi_j$ are field variables
+  \item $\gamma_{ij}$ is the coupling strength
+  \item $g_{\mu\nu}$ is the metric tensor
 \end{itemize}
 
-5.\index{global coherence} Global Coherence Conditions
+5.~\index{global coherence} Global Coherence Conditions
 
 The~\index{global section} global section $S$ must satisfy simultaneous constraints:
 
@@ -88,7 +88,7 @@ $\nabla_\mu T^{\mu\nu} + \sum_{i,j} C_{\mu\nu}(i,j) = 0$
 (C3)\index{thermodynamic bounds} Thermodynamic bounds:
 $-\int_X T_{\mu\nu}\nabla^\mu\xi^\nu \,dV \leq \eta_{\text{max}}$
 
-6.\index{stability analysis} Stability Analysis
+6.~\index{stability analysis} Stability Analysis
 
 For perturbations $\delta s$ around equilibrium states:
 
@@ -100,12 +100,12 @@ $\partial_t\|S - \sum_i s_i\phi_i\| \leq -\alpha\|S - \sum_i s_i\phi_i\| + \beta
 
 \text{where:}
 \begin{itemize}
-    \item $\phi_i$ are local basis functions
-    \item $\alpha,\beta > 0$ are stability parameters
-    \item $s_i$ are local sections
+  \item $\phi_i$ are local basis functions
+  \item $\alpha,\beta > 0$ are stability parameters
+  \item $s_i$ are local sections
 \end{itemize}
 
-7.\index{convergence theorems} Convergence Theorems
+7.~\index{convergence theorems} Convergence Theorems
 
 Theorem 1 (Global Existence): Under conditions (C1)-(C3), there exists a unique global section S satisfying all coherence constraints.
 
